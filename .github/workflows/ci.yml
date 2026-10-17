@@ -6,6 +6,9 @@ on:
   push:
     branches: [main]
 
+permissions:
+  contents: write
+
 jobs:
   build-and-test:
     runs-on: ubuntu-latest
@@ -16,3 +19,14 @@ jobs:
           node-version: 22
       - run: npm run build
       - run: npm test
+      - run: zip -r drivewise-production.zip web src data/vehicles.json data/coverage.json data/vehicle-media.json package.json README.md
+      - uses: actions/upload-artifact@v4
+        with:
+          name: drivewise-production
+          path: drivewise-production.zip
+      - if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: latest
+          name: DriveWise Production
+          files: drivewise-production.zip
