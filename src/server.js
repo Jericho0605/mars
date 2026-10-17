@@ -23,7 +23,7 @@ export function createServer({vehicles=JSON.parse(fs.readFileSync(path.join(root
    }
    if(req.method!=='GET'&&req.method!=='HEAD'){json({error:'GET required'},405);return;}
    const files={'/':'web/index.html','/vehicles.json':'web/vehicles.json','/app.js':'web/app.js','/style.css':'web/style.css','/recommend.js':'src/recommend.js','/profile.js':'src/profile.js','/cost.js':'src/cost.js','/scenarios.js':'src/scenarios.js','/coverage.json':'data/coverage.json','/vehicle-media.js':'src/vehicle-media.js','/vehicle-media.json':'data/vehicle-media.json'};
-   for(const key of ['prius','priusPhev','corollaHatchback','corolla','corollaCross','leaf','maverick','hondaCrv','hondaCivicSedan'])for(const ext of ['jpg','png','webp']){const image=`web/images/${key}.${ext}`;if(fs.existsSync(path.join(root,image)))files[`/images/${key}.${ext}`]=image;}
+   for(const key of ['prius','priusPhev','corollaHatchback','corolla','corollaCross','leaf','maverick','hondaCrv','hondaCivicSedan','model3','rav4','elantra'])for(const ext of ['jpg','png','webp']){const image=`web/images/${key}.${ext}`;if(fs.existsSync(path.join(root,image)))files[`/images/${key}.${ext}`]=image;}
    files['/media.css']='web/media.css';
    files['/selection.js']='src/selection.js';
    files['/image-resolver.js']='src/image-resolver.js';

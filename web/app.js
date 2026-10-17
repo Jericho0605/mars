@@ -27,8 +27,22 @@ function illustration(type = 'sedan', hero = false) {
   </svg>`;
 }
 
-$('#hero-car').innerHTML = illustration('suv', true);
-$('#type-intro').innerHTML = types.map(([k, n, d]) => `<a class="type-card" href="#quiz">${illustration(k)}<h3>${n}</h3><p>${d}</p></a>`).join('');
+$('#hero-car').innerHTML = `
+  <div class="hero-image-wrap">
+    <img src="/images/model3.jpg" alt="DriveWise Featured Vehicle" class="hero-car-photo">
+    <div class="hero-floating-badge">
+      <span class="badge-icon">⚡</span>
+      <div>
+        <strong>Modern & Eco-Conscious</strong>
+        <small>Smart Multi-Factor Matching</small>
+      </div>
+    </div>
+  </div>
+`;
+$('#type-intro').innerHTML = types.map(([k, n, d]) => {
+  const fileKey = k === 'sports' ? 'sports-car' : k;
+  return `<a class="type-card" href="#quiz"><div class="type-card-img"><img src="/images/car-types/${fileKey}.png" alt="${n}"></div><h3>${n}</h3><p>${d}</p></a>`;
+}).join('');
 
 const num = (name, label, value = '', extra = '') => `<label>${label}<input name="${name}" type="number" min="0" value="${value}" ${extra}></label>`;
 const select = (name, label, options) => `<label>${label}<select name="${name}">${options.map(([v, n]) => `<option value="${v}">${n}</option>`).join('')}</select></label>`;
@@ -92,9 +106,16 @@ const steps = [
   ['Preferences', "What matters most to you?", `
     <p>Pick up to three priorities. Drag or use the arrows to order them by importance.</p>
     <div class="choices">
-      ${priorities.filter(x => x[0] !== 'environment').map(([v, n]) => `<label class="choice"><input type="checkbox" name="priorities" value="${v}" ${['price', 'running', 'space'].includes(v) ? 'checked' : ''}><b>${n}</b></label>`).join('')}
+      ${priorities.map(([v, n]) => `<label class="choice"><input type="checkbox" name="priorities" value="${v}" ${['price', 'running', 'space'].includes(v) ? 'checked' : ''}><b>${n}</b></label>`).join('')}
     </div>
     <ol id="priority-order" class="priority-order"></ol>
+    <h3>Customer Survey: Environmental Preference · 环保出行意愿</h3>
+    <p>How strongly do you prioritize low emissions and eco-friendly vehicles?</p>
+    ${radio('ecoWillingness', [
+      ['standard', 'Standard · No special preference (普通 / 无特殊要求)'],
+      ['moderate', 'Eco-Conscious · Prefer hybrid & high efficiency (偏好节能减排与混动)'],
+      ['high', 'Zero-Emission Focus · Prioritize clean energy & low carbon (高度重视 · 优先新能源与零排放)']
+    ], 'standard')}
   `],
   ['Powertrain & Driving', "What kind of driving do you do?", `
     <p>Choose your preferred powertrain and annual driving distance.</p>
@@ -218,12 +239,22 @@ function updatePriorities() {
 }
 
 function profile() {
+  const eco = form.elements.ecoWillingness ? form.elements.ecoWillingness.value : 'standard';
   const p = {
     priorities: [...orderedPriorities],
     strictBudget: form.elements.strictBudget ? form.elements.strictBudget.checked : false,
     minSeats: Number(form.elements.minSeats.value),
-    budgetUsd: Number(form.elements.budgetBand.value === 'custom' ? form.elements.customBudget.value : form.elements.budgetUsd.value)
+    budgetUsd: Number(form.elements.budgetBand.value === 'custom' ? form.elements.customBudget.value : form.elements.budgetUsd.value),
+    ecoWillingness: eco
   };
+  if (eco === 'high') {
+    p.advancedWeights = Object.assign({}, p.advancedWeights, {environment: 8.5});
+    if (!p.priorities.includes('environment') && p.priorities.length < 3) {
+      p.priorities.push('environment');
+    }
+  } else if (eco === 'moderate') {
+    p.advancedWeights = Object.assign({}, p.advancedWeights, {environment: 5.5});
+  }
 
   for (const e of form.querySelectorAll('details input[type=number],details select')) {
     if (e.value !== '') {
@@ -327,40 +358,57 @@ function external(parent, label, url) {
   a.rel = 'noopener noreferrer';
 }
 
+function findCarImage(v, image) {
+  if (image && image.imageUrl) return image.imageUrl;
+  const m = (v.model || '').toLowerCase();
+  const b = (v.brand || '').toLowerCase();
+  if (m.includes('model 3')) return '/images/model3.jpg';
+  if (m.includes('rav4')) return '/images/rav4.jpg';
+  if (m.includes('elantra')) return '/images/elantra.jpg';
+  if (m.includes('leaf')) return '/images/leaf.jpg';
+  if (m.includes('maverick')) return '/images/maverick.jpg';
+  if (m.includes('prius')) return (v.powertrain === 'PHEV' || m.includes('prime')) ? '/images/priusPhev.jpg' : '/images/prius.jpg';
+  if (m.includes('corolla cross')) return '/images/corollaCross.jpg';
+  if (m.includes('corolla') && (m.includes('hatchback') || m.includes('5dr'))) return '/images/corollaHatchback.jpg';
+  if (m.includes('corolla')) return '/images/corolla.jpg';
+  if (b === 'honda' && m.includes('cr-v')) return '/images/hondaCrv.jpg';
+  if (b === 'honda' && m.includes('civic')) return '/images/hondaCivicSedan.jpg';
+  const bt = (v.bodyType || 'sedan').toLowerCase();
+  const mapType = bt === 'sports' ? 'sports-car' : bt;
+  return `/images/car-types/${mapType}.png`;
+}
+
 function renderCard(r, parent) {
   const v = r.vehicle, s = v.specifications;
   const image = resolveVehicleImage(v, mediaCatalog);
   const card = text(parent, 'article', '', 'car-card');
   const art = text(card, 'div', '', 'car-art');
 
-  function fallback() {
-    art.replaceChildren();
-    art.innerHTML = illustration(v.bodyType ?? 'sedan');
-    text(art, 'small', `${(v.bodyType ?? 'car').toUpperCase()} REFERENCE`);
-  }
-
-  if (image.imageUrl) {
-    const img = document.createElement('img');
-    img.src = image.imageUrl;
-    img.alt = `${v.year} ${v.brand} ${v.model}`;
-    img.loading = 'lazy';
-    img.onerror = fallback;
-    art.append(img);
-    text(art, 'small', 'OFFICIAL VEHICLE PHOTO');
-  } else {
-    fallback();
-  }
+  const carImgUrl = findCarImage(v, image);
+  const img = document.createElement('img');
+  img.src = carImgUrl;
+  img.alt = `${v.year} ${v.brand} ${v.model}`;
+  img.loading = 'lazy';
+  img.onerror = () => {
+    const bt = (v.bodyType || 'sedan').toLowerCase();
+    const mapType = bt === 'sports' ? 'sports-car' : bt;
+    img.src = `/images/car-types/${mapType}.png`;
+  };
+  art.append(img);
+  text(art, 'small', carImgUrl.includes('car-types') ? `${(v.bodyType ?? 'car').toUpperCase()} STYLE` : 'VEHICLE PHOTO');
 
   const b = text(card, 'div', '', 'car-content');
 
-  // Top header with score and tags
   const topBar = text(b, 'div', '', 'card-top-bar');
   const scoreVal = r.score ?? 85;
   const scoreEl = text(topBar, 'span', `${scoreVal.toFixed(0)}% Match`, 'score');
   if (scoreVal >= 90) scoreEl.classList.add('high');
 
-  const ptBadge = v.powertrain === 'EV' ? '🌱 Electric' : v.powertrain === 'HEV' ? '🔋 Hybrid' : v.powertrain === 'PHEV' ? '⚡ Plug-in' : '⛽ Gas';
+  const ptBadge = v.powertrain === 'EV' ? '🌱 Zero Emission EV' : v.powertrain === 'HEV' ? '🌿 Eco Hybrid' : v.powertrain === 'PHEV' ? '⚡ Plug-in Hybrid' : '⛽ Gas';
   text(topBar, 'span', ptBadge, 'tag-pill');
+  if (['EV', 'HEV', 'PHEV'].includes(v.powertrain)) {
+    text(topBar, 'span', '🌿 Low Carbon Choice', 'tag-pill eco-pill');
+  }
 
   text(b, 'h3', `${v.year} ${v.brand} ${v.model}`);
   text(b, 'p', `${v.trim ?? (v.bodyType ? v.bodyType.toUpperCase() : 'Standard')} · ${v.powertrain} · ${v.drivetrain ?? 'Standard Drive'}`, 'meta');
