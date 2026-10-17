@@ -39,6 +39,16 @@ export function createServer({vehicles=JSON.parse(fs.readFileSync(path.join(root
 }
 if(process.argv[1]&&path.resolve(process.argv[1])===fileURLToPath(import.meta.url)){
  const port=Number(process.env.PORT??3000),server=createServer();
- server.on('error',e=>{console.error(`Server failed: ${e.message}`);process.exitCode=1;});
- server.listen(port,'127.0.0.1',()=>console.log(`DriveWise: http://127.0.0.1:${server.address().port}`));
+ server.on('error',e=>{
+  if(e.code==='EADDRINUSE'&&!process.env.PORT){server.listen(0,'127.0.0.1');return;}
+  console.error(`Server failed: ${e.message}`);process.exitCode=1;
+ });
+ server.listen(port,'127.0.0.1',()=>{
+  const url=`http://127.0.0.1:${server.address().port}`;
+  console.log(`DriveWise: ${url}`);
+  if(process.env.OPEN_BROWSER!=='0'){
+   const cmd=process.platform==='darwin'?'open':process.platform==='win32'?'start ""':'xdg-open';
+   import('node:child_process').then(({exec})=>exec(`${cmd} "${url}"`)).catch(()=>{});
+  }
+ });
 }

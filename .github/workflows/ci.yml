@@ -1,0 +1,90 @@
+name: CI
+
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-test:
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm run build
+      - run: npm test
+      - run: |
+          mkdir -p dist
+          npx --yes @yao-pkg/pkg . -t node22-win-x64,node22-linux-x64,node22-macos-arm64,node22-macos-x64 --public --no-bytecode --out-path dist
+          mv dist/*-win-x64.exe dist/DriveWise-Windows.exe
+          mv dist/*-linux-x64 dist/DriveWise-Linux
+          chmod +x dist/DriveWise-Linux
+          tar -czf dist/DriveWise-Linux.tar.gz -C dist DriveWise-Linux
+          for ARCH in arm64 x64; do
+            ZIP_NAME="DriveWise-macOS-AppleSilicon.zip"
+            if [ "$ARCH" = "x64" ]; then
+              ZIP_NAME="DriveWise-macOS-Intel.zip"
+            fi
+            BUILD_DIR="macos-$ARCH"
+            mkdir -p "$BUILD_DIR/DriveWise.app/Contents/MacOS"
+            mv dist/*-macos-$ARCH "$BUILD_DIR/DriveWise.app/Contents/MacOS/DriveWise"
+            chmod +x "$BUILD_DIR/DriveWise.app/Contents/MacOS/DriveWise"
+            printf '%s\n' '<?xml version="1.0" encoding="UTF-8"?>' \
+              '<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">' \
+              '<plist version="1.0">' \
+              '<dict>' \
+              '  <key>CFBundlePackageType</key>' \
+              '  <string>APPL</string>' \
+              '  <key>CFBundleName</key>' \
+              '  <string>DriveWise</string>' \
+              '  <key>CFBundleDisplayName</key>' \
+              '  <string>DriveWise</string>' \
+              '  <key>CFBundleIdentifier</key>' \
+              '  <string>com.drivewise.app</string>' \
+              '  <key>CFBundleVersion</key>' \
+              '  <string>1.0.0</string>' \
+              '  <key>CFBundleShortVersionString</key>' \
+              '  <string>1.0.0</string>' \
+              '  <key>CFBundleExecutable</key>' \
+              '  <string>DriveWise</string>' \
+              '  <key>LSMinimumSystemVersion</key>' \
+              '  <string>11.0</string>' \
+              '</dict>' \
+              '</plist>' > "$BUILD_DIR/DriveWise.app/Contents/Info.plist"
+            printf '%s\n' '#!/bin/bash' \
+              'cd "$(dirname "$0")"' \
+              'xattr -cr DriveWise.app 2>/dev/null' \
+              'open DriveWise.app' > "$BUILD_DIR/Start-DriveWise.command"
+            chmod +x "$BUILD_DIR/Start-DriveWise.command"
+            codesign --force --deep --sign - "$BUILD_DIR/DriveWise.app"
+            (cd "$BUILD_DIR" && zip -r -y "../dist/$ZIP_NAME" DriveWise.app Start-DriveWise.command)
+            rm -rf "$BUILD_DIR"
+          done
+          zip -r dist/drivewise-production.zip web src data/vehicles.json data/coverage.json data/vehicle-media.json package.json README.md
+      - uses: actions/upload-artifact@v4
+        with:
+          name: drivewise-executables
+          path: dist/*
+      - if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh release delete-asset latest DriveWise-macOS --yes 2>/dev/null || true
+      - if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: latest
+          name: DriveWise Production
+          files: |
+            dist/DriveWise-macOS-AppleSilicon.zip
+            dist/DriveWise-macOS-Intel.zip
+            dist/DriveWise-Windows.exe
+            dist/DriveWise-Linux.tar.gz
+            dist/DriveWise-Linux
+            dist/drivewise-production.zip

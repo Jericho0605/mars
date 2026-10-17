@@ -1,1 +1,1 @@
-{"name":"drivewise-real-data","private":true,"type":"module","scripts":{"import":"node src/cli.js import","test":"node --test","build":"node src/cli.js build","start":"node src/server.js"},"engines":{"node":">=22"}}
+{"name":"drivewise-real-data","private":true,"type":"module","bin":"src/server.js","scripts":{"import":"node src/cli.js import","test":"node --test","build":"node src/cli.js build","start":"node src/server.js"},"pkg":{"assets":["web/**/*","data/vehicles.json","data/coverage.json","data/vehicle-media.json"]},"engines":{"node":">=22"}}
