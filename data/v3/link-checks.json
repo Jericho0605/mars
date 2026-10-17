@@ -1,0 +1,107 @@
+{
+  "https://hondanews.com/en-US/releases/release-13f25e90cfe47cd58453f1f710054868-2024-honda-cr-v-specifications-features": {
+    "status": 200,
+    "checkedAt": "2026-10-16T19:54:53.824Z",
+    "scope": "Public URL retrieval only; not inventory/stock verification"
+  },
+  "https://usa.nissannews.com/en-US/releases/2024-nissan-leaf-press-kit": {
+    "status": 200,
+    "checkedAt": "2026-10-16T19:54:54.919Z",
+    "scope": "Public URL retrieval only; not inventory/stock verification"
+  },
+  "https://www.buyatoyota.com/central/vehicles/prius/2024/": {
+    "status": 200,
+    "checkedAt": "2026-10-16T19:54:56.797Z",
+    "scope": "Public URL retrieval only; not inventory/stock verification"
+  },
+  "https://pressroom.toyota.com/unplug-and-play-2024-toyota-prius-prime-redefines-the-daily-drive/": {
+    "status": 200,
+    "checkedAt": "2026-10-16T19:54:57.518Z",
+    "scope": "Public URL retrieval only; not inventory/stock verification"
+  },
+  "https://hondanews.com/en-US/honda-automobiles/releases/release-f43bcac5ded8efe77b071fcb0c097416-2025-honda-cr-v-specifications-and-features": {
+    "status": 200,
+    "checkedAt": "2026-10-16T19:54:58.195Z",
+    "scope": "Public URL retrieval only; not inventory/stock verification"
+  },
+  "https://www.buyatoyota.com/home/vehicles/corollahatchback/2025/": {
+    "status": 200,
+    "checkedAt": "2026-10-16T19:55:01.423Z",
+    "scope": "Public URL retrieval only; not inventory/stock verification"
+  },
+  "https://hondanews.com/en-US/releases/release-c28e8d1efb94e520fef21ff3f800cb30-2025-honda-civic-sedan-specifications-features": {
+    "status": 200,
+    "checkedAt": "2026-10-16T19:55:01.460Z",
+    "scope": "Public URL retrieval only; not inventory/stock verification"
+  },
+  "https://hondanews.com/en-US/honda-automobiles/releases/release-a0290fb377b9a07ba1686b65910857e4-2025-honda-civic-type-r-specifications-features": {
+    "status": 200,
+    "checkedAt": "2026-10-16T19:55:02.571Z",
+    "scope": "Public URL retrieval only; not inventory/stock verification"
+  },
+  "https://hondanews.com/en-US/honda-automobiles/releases/release-410d07897fdd63d8043cb7275002c6b3-2025-honda-civic-si-specifications-features": {
+    "status": 200,
+    "checkedAt": "2026-10-16T19:55:03.661Z",
+    "scope": "Public URL retrieval only; not inventory/stock verification"
+  },
+  "https://usa.nissannews.com/en-US/releases/2025-nissan-leaf-press-kit": {
+    "status": 200,
+    "checkedAt": "2026-10-16T19:55:04.887Z",
+    "scope": "Public URL retrieval only; not inventory/stock verification"
+  },
+  "https://www.buyatoyota.com/home/vehicles/corolla/2025/": {
+    "status": 200,
+    "checkedAt": "2026-10-16T19:55:07.920Z",
+    "scope": "Public URL retrieval only; not inventory/stock verification"
+  },
+  "https://hondanews.com/en-US/releases/release-008e554add341b8444085beaa2074089-2025-honda-accord-specifications-features": {
+    "status": 200,
+    "checkedAt": "2026-10-16T19:55:07.970Z",
+    "scope": "Public URL retrieval only; not inventory/stock verification"
+  },
+  "https://hondanews.com/en-US/honda-automobiles/releases/release-008e554add341b8444085beaa2041012-2025-honda-civic-hatchback-specifications-features": {
+    "status": 200,
+    "checkedAt": "2026-10-16T19:55:09.066Z",
+    "scope": "Public URL retrieval only; not inventory/stock verification"
+  },
+  "https://www.buyatoyota.com/home/vehicles/prius/2025/": {
+    "status": 200,
+    "checkedAt": "2026-10-16T19:55:11.982Z",
+    "scope": "Public URL retrieval only; not inventory/stock verification"
+  },
+  "https://www.fromtheroad.ford.com/us/en/articles/2024/hybrid-meets-all-wheel-drive-on-new-tech-packed-2025-ford-maveri": {
+    "status": 200,
+    "checkedAt": "2026-10-16T19:55:12.646Z",
+    "scope": "Public URL retrieval only; not inventory/stock verification"
+  },
+  "https://www.buyatoyota.com/home/vehicles/corollacross/2025/": {
+    "status": 200,
+    "checkedAt": "2026-10-16T19:55:15.041Z",
+    "scope": "Public URL retrieval only; not inventory/stock verification"
+  },
+  "https://www.buyatoyota.com/home/vehicles/corollacrosshybrid/2025/": {
+    "status": 200,
+    "checkedAt": "2026-10-16T19:55:16.998Z",
+    "scope": "Public URL retrieval only; not inventory/stock verification"
+  },
+  "https://www.buyatoyota.com/home/vehicles/priuspluginhybrid/2025/": {
+    "status": 200,
+    "checkedAt": "2026-10-16T19:55:19.014Z",
+    "scope": "Public URL retrieval only; not inventory/stock verification"
+  },
+  "https://www.toyota.com/search-inventory/": {
+    "status": 200,
+    "checkedAt": "2026-10-16T19:55:19.057Z",
+    "scope": "Public URL retrieval only; not inventory/stock verification"
+  },
+  "https://www.nissanusa.com/shopping-tools/search-inventory": {
+    "status": 200,
+    "checkedAt": "2026-10-16T19:55:20.324Z",
+    "scope": "Public URL retrieval only; not inventory/stock verification"
+  },
+  "https://www.ford.com/inventory/maverick/": {
+    "status": 200,
+    "checkedAt": "2026-10-16T19:55:21.783Z",
+    "scope": "Public URL retrieval only; not inventory/stock verification"
+  }
+}

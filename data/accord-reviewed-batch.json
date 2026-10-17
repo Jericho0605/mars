@@ -1,0 +1,88 @@
+[
+  {
+    "id": "epa-48504",
+    "match": {
+      "year": 2025,
+      "brand": "Honda",
+      "model": "Accord",
+      "trim": null,
+      "drivetrain": "FWD",
+      "powertrain": "Gas"
+    },
+    "epaConfiguration": {
+      "transmission": "Automatic (variable gear ratios)",
+      "variant": {
+        "engineId": "101",
+        "cylinders": 4,
+        "engineDescription": "SIDI",
+        "transmissionDescription": null
+      }
+    },
+    "retailTrim": "LX",
+    "bodyType": "sedan",
+    "matchEvidence": "US 2025 Accord LX FWD 1.5T CVT; EPA engine 101, 29 city/37 highway/32 combined matches official LX. This EPA group also covers SE; bind LX only.",
+    "identitySource": {
+      "url": "https://hondanews.com/en-US/releases/release-008e554add341b8444085beaa2074089-2025-honda-accord-specifications-features",
+      "retrievedAt": "2026-10-16T19:30:31.506Z",
+      "evidence": "US 2025 Accord LX FWD 1.5T CVT; EPA engine 101, 29 city/37 highway/32 combined matches official LX. This EPA group also covers SE; bind LX only."
+    },
+    "specifications": {
+      "msrpUsd": 28295,
+      "seats": 5,
+      "horsepowerHp": 192,
+      "torqueNm": 260.3,
+      "cargoVolumeL": 472.9,
+      "lengthMm": 4970.8,
+      "widthMm": 1861.8,
+      "heightMm": 1450.3,
+      "wheelbaseMm": 2829.6
+    },
+    "fieldSources": {
+      "msrpUsd": {
+        "url": "https://hondanews.com/en-US/releases/release-008e554add341b8444085beaa206f3f9-new-2025-honda-accord-se-adds-sporty-styling-and-standard-tech-features-begins-arriving-at-honda-dealers-today",
+        "retrievedAt": "2026-10-16T19:30:31.506Z",
+        "evidence": "September 16, 2024 launch base MSRP USD 28295; excludes destination USD1095, taxes and options."
+      },
+      "seats": {
+        "url": "https://hondanews.com/en-US/releases/release-008e554add341b8444085beaa2074089-2025-honda-accord-specifications-features",
+        "retrievedAt": "2026-10-16T19:30:31.506Z",
+        "evidence": "US 2025 LX column: seats=5; seating5, engine192hp,192lb-ft, cargo16.7cuft, exterior195.7×73.3×57.1in, wheelbase111.4in. Convert lb-ft ×1.3558179483, cuft ×28.316846592, in ×25.4, round to 0.1."
+      },
+      "horsepowerHp": {
+        "url": "https://hondanews.com/en-US/releases/release-008e554add341b8444085beaa2074089-2025-honda-accord-specifications-features",
+        "retrievedAt": "2026-10-16T19:30:31.506Z",
+        "evidence": "US 2025 LX column: horsepowerHp=192; seating5, engine192hp,192lb-ft, cargo16.7cuft, exterior195.7×73.3×57.1in, wheelbase111.4in. Convert lb-ft ×1.3558179483, cuft ×28.316846592, in ×25.4, round to 0.1."
+      },
+      "torqueNm": {
+        "url": "https://hondanews.com/en-US/releases/release-008e554add341b8444085beaa2074089-2025-honda-accord-specifications-features",
+        "retrievedAt": "2026-10-16T19:30:31.506Z",
+        "evidence": "US 2025 LX column: torqueNm=260.3; seating5, engine192hp,192lb-ft, cargo16.7cuft, exterior195.7×73.3×57.1in, wheelbase111.4in. Convert lb-ft ×1.3558179483, cuft ×28.316846592, in ×25.4, round to 0.1."
+      },
+      "cargoVolumeL": {
+        "url": "https://hondanews.com/en-US/releases/release-008e554add341b8444085beaa2074089-2025-honda-accord-specifications-features",
+        "retrievedAt": "2026-10-16T19:30:31.506Z",
+        "evidence": "US 2025 LX column: cargoVolumeL=472.9; seating5, engine192hp,192lb-ft, cargo16.7cuft, exterior195.7×73.3×57.1in, wheelbase111.4in. Convert lb-ft ×1.3558179483, cuft ×28.316846592, in ×25.4, round to 0.1."
+      },
+      "lengthMm": {
+        "url": "https://hondanews.com/en-US/releases/release-008e554add341b8444085beaa2074089-2025-honda-accord-specifications-features",
+        "retrievedAt": "2026-10-16T19:30:31.506Z",
+        "evidence": "US 2025 LX column: lengthMm=4970.8; seating5, engine192hp,192lb-ft, cargo16.7cuft, exterior195.7×73.3×57.1in, wheelbase111.4in. Convert lb-ft ×1.3558179483, cuft ×28.316846592, in ×25.4, round to 0.1."
+      },
+      "widthMm": {
+        "url": "https://hondanews.com/en-US/releases/release-008e554add341b8444085beaa2074089-2025-honda-accord-specifications-features",
+        "retrievedAt": "2026-10-16T19:30:31.506Z",
+        "evidence": "US 2025 LX column: widthMm=1861.8; seating5, engine192hp,192lb-ft, cargo16.7cuft, exterior195.7×73.3×57.1in, wheelbase111.4in. Convert lb-ft ×1.3558179483, cuft ×28.316846592, in ×25.4, round to 0.1."
+      },
+      "heightMm": {
+        "url": "https://hondanews.com/en-US/releases/release-008e554add341b8444085beaa2074089-2025-honda-accord-specifications-features",
+        "retrievedAt": "2026-10-16T19:30:31.506Z",
+        "evidence": "US 2025 LX column: heightMm=1450.3; seating5, engine192hp,192lb-ft, cargo16.7cuft, exterior195.7×73.3×57.1in, wheelbase111.4in. Convert lb-ft ×1.3558179483, cuft ×28.316846592, in ×25.4, round to 0.1."
+      },
+      "wheelbaseMm": {
+        "url": "https://hondanews.com/en-US/releases/release-008e554add341b8444085beaa2074089-2025-honda-accord-specifications-features",
+        "retrievedAt": "2026-10-16T19:30:31.506Z",
+        "evidence": "US 2025 LX column: wheelbaseMm=2829.6; seating5, engine192hp,192lb-ft, cargo16.7cuft, exterior195.7×73.3×57.1in, wheelbase111.4in. Convert lb-ft ×1.3558179483, cuft ×28.316846592, in ×25.4, round to 0.1."
+      }
+    }
+  }
+]

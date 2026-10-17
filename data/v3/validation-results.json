@@ -1,0 +1,51 @@
+{
+  "checkedAt": "2026-10-16T20:11:03.873Z",
+  "testCommand": "node --test --experimental-test-isolation=none",
+  "tests": 74,
+  "passed": 74,
+  "failed": 0,
+  "schemaValidation": "All 3710 V3 configurations passed validation during build",
+  "protectedFilesUnchanged": true,
+  "apiChecks": [
+    {
+      "path": "/api/health",
+      "status": 200,
+      "ok": true,
+      "vehicleCount": 3654
+    }
+  ],
+  "notes": "EPA group count is not verified retail trim completion. Photo and recommendation-ready gaps remain in coverage-report.json.",
+  "localPhotoHttpChecks": [
+    {
+      "path": "/images/prius.jpg",
+      "status": 200,
+      "contentType": "image/jpeg"
+    },
+    {
+      "path": "/images/corolla.jpg",
+      "status": 200,
+      "contentType": "image/jpeg"
+    },
+    {
+      "path": "/images/priusPhev.jpg",
+      "status": 200,
+      "contentType": "image/jpeg"
+    },
+    {
+      "path": "/images/corollaCross.jpg",
+      "status": 200,
+      "contentType": "image/jpeg"
+    },
+    {
+      "path": "/images/hondaCrv.jpg",
+      "status": 200,
+      "contentType": "image/jpeg"
+    },
+    {
+      "path": "/images/hondaCivicSedan.jpg",
+      "status": 200,
+      "contentType": "image/jpeg"
+    }
+  ],
+  "idempotentBuild": "Input and output checksums unchanged; repeat processing skipped"
+}

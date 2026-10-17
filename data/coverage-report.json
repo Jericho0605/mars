@@ -1,0 +1,870 @@
+{
+  "schemaVersion": "3.0",
+  "generatedAt": "2026-10-16T20:09:47.940Z",
+  "totalVehicleConfigurations": 3710,
+  "uniqueMakeModel": 356,
+  "uniqueMakeModelYear": 897,
+  "uniqueVerifiedTrims": 38,
+  "brandsCovered": [
+    "Acura",
+    "Alfa Romeo",
+    "Aston Martin",
+    "Audi",
+    "BMW",
+    "Bentley",
+    "Bugatti",
+    "Bugatti Rimac",
+    "Buick",
+    "Cadillac",
+    "Chevrolet",
+    "Chrysler",
+    "Dodge",
+    "Ferrari",
+    "Fiat",
+    "Fisker",
+    "Ford",
+    "GMC",
+    "Genesis",
+    "Honda",
+    "Hyundai",
+    "INEOS Automotive",
+    "Infiniti",
+    "Jaguar",
+    "Jeep",
+    "Kia",
+    "Lamborghini",
+    "Land Rover",
+    "Lexus",
+    "Lincoln",
+    "Lotus",
+    "Lucid",
+    "MINI",
+    "Maserati",
+    "Mazda",
+    "Mercedes-Benz",
+    "Mitsubishi",
+    "Nissan",
+    "Polestar",
+    "Porsche",
+    "Ram",
+    "Rivian",
+    "Rolls-Royce",
+    "Subaru",
+    "Tesla",
+    "Toyota",
+    "Vinfast",
+    "Volkswagen",
+    "Volvo"
+  ],
+  "bodyStylesCovered": [
+    "convertible",
+    "coupe",
+    "hatchback",
+    "minivan",
+    "pickup",
+    "sedan",
+    "suv",
+    "wagon"
+  ],
+  "powertrainTypesCovered": [
+    "Diesel",
+    "EV",
+    "Gas",
+    "HEV",
+    "PHEV"
+  ],
+  "years": {
+    "2024": {
+      "configurations": 1273,
+      "modelYearGroups": 308
+    },
+    "2025": {
+      "configurations": 1269,
+      "modelYearGroups": 307
+    },
+    "2026": {
+      "configurations": 1168,
+      "modelYearGroups": 282
+    }
+  },
+  "modelCountingMethod": "Case-folded make + EPA baseModel + model year; MINI casing unified. EPA baseModel is conservative and can combine distinct marketing nameplates (e.g. BMW M). No trim, drive or wheel variants counted as new base models. Do not equate this with 300 verified retail-trim nameplates.",
+  "fields": {
+    "engineHorsepowerHp": {
+      "validCount": 8,
+      "missingCount": 3702,
+      "totalCount": 3710,
+      "coveragePercentage": 0.215633423180593
+    },
+    "motorHorsepowerHp": {
+      "validCount": 4,
+      "missingCount": 3706,
+      "totalCount": 3710,
+      "coveragePercentage": 0.1078167115902965
+    },
+    "systemHorsepowerHp": {
+      "validCount": 20,
+      "missingCount": 3690,
+      "totalCount": 3710,
+      "coveragePercentage": 0.5390835579514824
+    },
+    "startingMsrpUsd": {
+      "validCount": 0,
+      "missingCount": 3710,
+      "totalCount": 3710,
+      "coveragePercentage": 0
+    },
+    "msrpUsd": {
+      "validCount": 40,
+      "missingCount": 3670,
+      "totalCount": 3710,
+      "coveragePercentage": 1.0781671159029649
+    },
+    "destinationFeeUsd": {
+      "validCount": 18,
+      "missingCount": 3692,
+      "totalCount": 3710,
+      "coveragePercentage": 0.48517520215633425
+    },
+    "horsepowerHp": {
+      "validCount": 36,
+      "missingCount": 3674,
+      "totalCount": 3710,
+      "coveragePercentage": 0.9703504043126685
+    },
+    "torqueLbFt": {
+      "validCount": 16,
+      "missingCount": 3694,
+      "totalCount": 3710,
+      "coveragePercentage": 0.431266846361186
+    },
+    "zeroToSixtySeconds": {
+      "validCount": 2,
+      "missingCount": 3708,
+      "totalCount": 3710,
+      "coveragePercentage": 0.05390835579514825
+    },
+    "topSpeedMph": {
+      "validCount": 0,
+      "missingCount": 3710,
+      "totalCount": 3710,
+      "coveragePercentage": 0
+    },
+    "engineDisplacementL": {
+      "validCount": 2797,
+      "missingCount": 913,
+      "totalCount": 3710,
+      "coveragePercentage": 75.39083557951483
+    },
+    "cylinderCount": {
+      "validCount": 2797,
+      "missingCount": 913,
+      "totalCount": 3710,
+      "coveragePercentage": 75.39083557951483
+    },
+    "towingCapacityLb": {
+      "validCount": 0,
+      "missingCount": 3710,
+      "totalCount": 3710,
+      "coveragePercentage": 0
+    },
+    "cityMpg": {
+      "validCount": 2797,
+      "missingCount": 913,
+      "totalCount": 3710,
+      "coveragePercentage": 75.39083557951483
+    },
+    "highwayMpg": {
+      "validCount": 2797,
+      "missingCount": 913,
+      "totalCount": 3710,
+      "coveragePercentage": 75.39083557951483
+    },
+    "combinedMpg": {
+      "validCount": 2797,
+      "missingCount": 913,
+      "totalCount": 3710,
+      "coveragePercentage": 75.39083557951483
+    },
+    "combinedMpge": {
+      "validCount": 1035,
+      "missingCount": 2675,
+      "totalCount": 3710,
+      "coveragePercentage": 27.89757412398922
+    },
+    "electricConsumptionKwhPer100Mi": {
+      "validCount": 1035,
+      "missingCount": 2675,
+      "totalCount": 3710,
+      "coveragePercentage": 27.89757412398922
+    },
+    "fuelTankCapacityGallons": {
+      "validCount": 6,
+      "missingCount": 3704,
+      "totalCount": 3710,
+      "coveragePercentage": 0.16172506738544473
+    },
+    "epaAnnualFuelCostUsd": {
+      "validCount": 3710,
+      "missingCount": 0,
+      "totalCount": 3710,
+      "coveragePercentage": 100
+    },
+    "evRangeMiles": {
+      "validCount": 1035,
+      "missingCount": 2675,
+      "totalCount": 3710,
+      "coveragePercentage": 27.89757412398922
+    },
+    "manufacturerEstimatedRangeMiles": {
+      "validCount": 0,
+      "missingCount": 3710,
+      "totalCount": 3710,
+      "coveragePercentage": 0
+    },
+    "batteryCapacityKwh": {
+      "validCount": 8,
+      "missingCount": 3702,
+      "totalCount": 3710,
+      "coveragePercentage": 0.215633423180593
+    },
+    "usableBatteryCapacityKwh": {
+      "validCount": 0,
+      "missingCount": 3710,
+      "totalCount": 3710,
+      "coveragePercentage": 0
+    },
+    "acChargingPowerKw": {
+      "validCount": 0,
+      "missingCount": 3710,
+      "totalCount": 3710,
+      "coveragePercentage": 0
+    },
+    "dcFastChargingPeakKw": {
+      "validCount": 0,
+      "missingCount": 3710,
+      "totalCount": 3710,
+      "coveragePercentage": 0
+    },
+    "chargingTimeHours240V": {
+      "validCount": 1035,
+      "missingCount": 2675,
+      "totalCount": 3710,
+      "coveragePercentage": 27.89757412398922
+    },
+    "charging10To80Minutes": {
+      "validCount": 0,
+      "missingCount": 3710,
+      "totalCount": 3710,
+      "coveragePercentage": 0
+    },
+    "phevElectricOnlyRangeMiles": {
+      "validCount": 122,
+      "missingCount": 3588,
+      "totalCount": 3710,
+      "coveragePercentage": 3.288409703504043
+    },
+    "phevGasolineMpg": {
+      "validCount": 122,
+      "missingCount": 3588,
+      "totalCount": 3710,
+      "coveragePercentage": 3.288409703504043
+    },
+    "lengthIn": {
+      "validCount": 30,
+      "missingCount": 3680,
+      "totalCount": 3710,
+      "coveragePercentage": 0.8086253369272237
+    },
+    "widthIn": {
+      "validCount": 30,
+      "missingCount": 3680,
+      "totalCount": 3710,
+      "coveragePercentage": 0.8086253369272237
+    },
+    "heightIn": {
+      "validCount": 30,
+      "missingCount": 3680,
+      "totalCount": 3710,
+      "coveragePercentage": 0.8086253369272237
+    },
+    "wheelbaseIn": {
+      "validCount": 30,
+      "missingCount": 3680,
+      "totalCount": 3710,
+      "coveragePercentage": 0.8086253369272237
+    },
+    "groundClearanceIn": {
+      "validCount": 11,
+      "missingCount": 3699,
+      "totalCount": 3710,
+      "coveragePercentage": 0.29649595687331537
+    },
+    "curbWeightLb": {
+      "validCount": 0,
+      "missingCount": 3710,
+      "totalCount": 3710,
+      "coveragePercentage": 0
+    },
+    "turningRadiusFt": {
+      "validCount": 0,
+      "missingCount": 3710,
+      "totalCount": 3710,
+      "coveragePercentage": 0
+    },
+    "cargoVolumeCuFt": {
+      "validCount": 1500,
+      "missingCount": 2210,
+      "totalCount": 3710,
+      "coveragePercentage": 40.43126684636118
+    },
+    "maxCargoVolumeCuFt": {
+      "validCount": 0,
+      "missingCount": 3710,
+      "totalCount": 3710,
+      "coveragePercentage": 0
+    },
+    "passengerVolumeCuFt": {
+      "validCount": 1503,
+      "missingCount": 2207,
+      "totalCount": 3710,
+      "coveragePercentage": 40.512129380053906
+    },
+    "seats": {
+      "validCount": 1133,
+      "missingCount": 2577,
+      "totalCount": 3710,
+      "coveragePercentage": 30.539083557951482
+    },
+    "doors": {
+      "validCount": 0,
+      "missingCount": 3710,
+      "totalCount": 3710,
+      "coveragePercentage": 0
+    },
+    "nhtsaOverallRating": {
+      "validCount": 712,
+      "missingCount": 2998,
+      "totalCount": 3710,
+      "coveragePercentage": 19.191374663072775
+    },
+    "nhtsaFrontalRating": {
+      "validCount": 776,
+      "missingCount": 2934,
+      "totalCount": 3710,
+      "coveragePercentage": 20.91644204851752
+    },
+    "nhtsaSideRating": {
+      "validCount": 770,
+      "missingCount": 2940,
+      "totalCount": 3710,
+      "coveragePercentage": 20.754716981132077
+    },
+    "nhtsaRolloverRating": {
+      "validCount": 818,
+      "missingCount": 2892,
+      "totalCount": 3710,
+      "coveragePercentage": 22.048517520215633
+    },
+    "maintenanceEstimateUsd": {
+      "validCount": 0,
+      "missingCount": 3710,
+      "totalCount": 3710,
+      "coveragePercentage": 0
+    },
+    "insuranceEstimateUsd": {
+      "validCount": 0,
+      "missingCount": 3710,
+      "totalCount": 3710,
+      "coveragePercentage": 0
+    },
+    "depreciationEstimateUsd": {
+      "validCount": 0,
+      "missingCount": 3710,
+      "totalCount": 3710,
+      "coveragePercentage": 0
+    },
+    "resaleValueEstimateUsd": {
+      "validCount": 0,
+      "missingCount": 3710,
+      "totalCount": 3710,
+      "coveragePercentage": 0
+    },
+    "fiveYearOwnershipCostUsd": {
+      "validCount": 0,
+      "missingCount": 3710,
+      "totalCount": 3710,
+      "coveragePercentage": 0
+    },
+    "epaCo2GramsPerMile": {
+      "validCount": 3710,
+      "missingCount": 0,
+      "totalCount": 3710,
+      "coveragePercentage": 100
+    },
+    "annualEstimatedCo2Kg": {
+      "validCount": 0,
+      "missingCount": 3710,
+      "totalCount": 3710,
+      "coveragePercentage": 0
+    },
+    "epaFuelEconomyScore": {
+      "validCount": 3710,
+      "missingCount": 0,
+      "totalCount": 3710,
+      "coveragePercentage": 100
+    },
+    "engineType": {
+      "validCount": 2589,
+      "missingCount": 1121,
+      "totalCount": 3710,
+      "coveragePercentage": 69.78436657681941
+    },
+    "forcedInduction": {
+      "validCount": 1940,
+      "missingCount": 1770,
+      "totalCount": 3710,
+      "coveragePercentage": 52.2911051212938
+    },
+    "chargingConnector": {
+      "validCount": 0,
+      "missingCount": 3710,
+      "totalCount": 3710,
+      "coveragePercentage": 0
+    },
+    "chargingTimeDescription": {
+      "validCount": 0,
+      "missingCount": 3710,
+      "totalCount": 3710,
+      "coveragePercentage": 0
+    },
+    "iihsRating": {
+      "validCount": 0,
+      "missingCount": 3710,
+      "totalCount": 3710,
+      "coveragePercentage": 0
+    },
+    "standardSafetyFeatures": {
+      "validCount": 1078,
+      "missingCount": 2632,
+      "totalCount": 3710,
+      "coveragePercentage": 29.056603773584907
+    },
+    "optionalSafetyFeatures": {
+      "validCount": 317,
+      "missingCount": 3393,
+      "totalCount": 3710,
+      "coveragePercentage": 8.544474393530997
+    },
+    "warranty": {
+      "validCount": 0,
+      "missingCount": 3710,
+      "totalCount": 3710,
+      "coveragePercentage": 0
+    },
+    "batteryWarranty": {
+      "validCount": 0,
+      "missingCount": 3710,
+      "totalCount": 3710,
+      "coveragePercentage": 0
+    },
+    "fuelEconomyClassification": {
+      "validCount": 0,
+      "missingCount": 3710,
+      "totalCount": 3710,
+      "coveragePercentage": 0
+    },
+    "id": {
+      "validCount": 3710,
+      "missingCount": 0,
+      "totalCount": 3710,
+      "coveragePercentage": 100
+    },
+    "make": {
+      "validCount": 3710,
+      "missingCount": 0,
+      "totalCount": 3710,
+      "coveragePercentage": 100
+    },
+    "model": {
+      "validCount": 3710,
+      "missingCount": 0,
+      "totalCount": 3710,
+      "coveragePercentage": 100
+    },
+    "epaModel": {
+      "validCount": 3710,
+      "missingCount": 0,
+      "totalCount": 3710,
+      "coveragePercentage": 100
+    },
+    "year": {
+      "validCount": 3710,
+      "missingCount": 0,
+      "totalCount": 3710,
+      "coveragePercentage": 100
+    },
+    "trim": {
+      "validCount": 40,
+      "missingCount": 3670,
+      "totalCount": 3710,
+      "coveragePercentage": 1.0781671159029649
+    },
+    "bodyStyle": {
+      "validCount": 1581,
+      "missingCount": 2129,
+      "totalCount": 3710,
+      "coveragePercentage": 42.61455525606469
+    },
+    "powertrain": {
+      "validCount": 3710,
+      "missingCount": 0,
+      "totalCount": 3710,
+      "coveragePercentage": 100
+    },
+    "drivetrain": {
+      "validCount": 3710,
+      "missingCount": 0,
+      "totalCount": 3710,
+      "coveragePercentage": 100
+    },
+    "transmission": {
+      "validCount": 3710,
+      "missingCount": 0,
+      "totalCount": 3710,
+      "coveragePercentage": 100
+    },
+    "market": {
+      "validCount": 3710,
+      "missingCount": 0,
+      "totalCount": 3710,
+      "coveragePercentage": 100
+    },
+    "fuelType": {
+      "validCount": 3710,
+      "missingCount": 0,
+      "totalCount": 3710,
+      "coveragePercentage": 100
+    },
+    "priceType": {
+      "validCount": 40,
+      "missingCount": 3670,
+      "totalCount": 3710,
+      "coveragePercentage": 1.0781671159029649
+    },
+    "priceCurrency": {
+      "validCount": 3710,
+      "missingCount": 0,
+      "totalCount": 3710,
+      "coveragePercentage": 100
+    },
+    "msrpEffectiveDate": {
+      "validCount": 0,
+      "missingCount": 3710,
+      "totalCount": 3710,
+      "coveragePercentage": 0
+    },
+    "pricePublicationDate": {
+      "validCount": 18,
+      "missingCount": 3692,
+      "totalCount": 3710,
+      "coveragePercentage": 0.48517520215633425
+    },
+    "lastUpdated": {
+      "validCount": 3710,
+      "missingCount": 0,
+      "totalCount": 3710,
+      "coveragePercentage": 100
+    },
+    "currentAvailabilityStatus": {
+      "validCount": 0,
+      "missingCount": 3710,
+      "totalCount": 3710,
+      "coveragePercentage": 0
+    },
+    "californiaAvailabilityStatus": {
+      "validCount": 0,
+      "missingCount": 3710,
+      "totalCount": 3710,
+      "coveragePercentage": 0
+    },
+    "realImage": {
+      "validCount": 23,
+      "missingCount": 3687,
+      "totalCount": 3710,
+      "coveragePercentage": 0.6199460916442049
+    },
+    "officialLink": {
+      "validCount": 413,
+      "missingCount": 3297,
+      "totalCount": 3710,
+      "coveragePercentage": 11.132075471698114
+    },
+    "officialVehiclePage": {
+      "validCount": 15,
+      "missingCount": 3695,
+      "totalCount": 3710,
+      "coveragePercentage": 0.40431266846361186
+    },
+    "officialSpecificationsPage": {
+      "validCount": 40,
+      "missingCount": 3670,
+      "totalCount": 3710,
+      "coveragePercentage": 1.0781671159029649
+    },
+    "officialInventorySearchPage": {
+      "validCount": 395,
+      "missingCount": 3315,
+      "totalCount": 3710,
+      "coveragePercentage": 10.64690026954178
+    },
+    "officialBuildAndPricePage": {
+      "validCount": 0,
+      "missingCount": 3710,
+      "totalCount": 3710,
+      "coveragePercentage": 0
+    },
+    "verifiedDealerListing": {
+      "validCount": 0,
+      "missingCount": 3710,
+      "totalCount": 3710,
+      "coveragePercentage": 0
+    },
+    "sourceRecord": {
+      "validCount": 3710,
+      "missingCount": 0,
+      "totalCount": 3710,
+      "coveragePercentage": 100
+    }
+  },
+  "modelYearGroupsWithVerifiedTrim": 12,
+  "modelYearGroupsWithRealPhoto": 6,
+  "recommendationReady": {
+    "definition": "Verified EPA identity + explicitly manufacturer-verified real trim + manufacturer MSRP + verified seating + verified powertrain + applicable EPA energy efficiency. Availability in California is not implied.",
+    "configurations": 40,
+    "modelYearGroups": 12
+  },
+  "conflictCount": 108,
+  "targets": {
+    "modelYearGroups": 300,
+    "modelYearGroupsWithVerifiedTrim": 300,
+    "modelYearGroupsWithRealPhoto": 300
+  },
+  "targetStatus": {
+    "epaIdentityGroupsAtLeast300": true,
+    "verifiedRetailTrimGroupsAtLeast300": false,
+    "legalPhotoGroupsAtLeast300": false
+  },
+  "availability": "US EPA certification evidence only; no current new-car stock or California availability verified",
+  "unavailableEverywhere": [
+    "startingMsrpUsd",
+    "topSpeedMph",
+    "towingCapacityLb",
+    "manufacturerEstimatedRangeMiles",
+    "usableBatteryCapacityKwh",
+    "acChargingPowerKw",
+    "dcFastChargingPeakKw",
+    "charging10To80Minutes",
+    "curbWeightLb",
+    "turningRadiusFt",
+    "maxCargoVolumeCuFt",
+    "doors",
+    "maintenanceEstimateUsd",
+    "insuranceEstimateUsd",
+    "depreciationEstimateUsd",
+    "resaleValueEstimateUsd",
+    "fiveYearOwnershipCostUsd",
+    "annualEstimatedCo2Kg",
+    "chargingConnector",
+    "chargingTimeDescription",
+    "iihsRating",
+    "warranty",
+    "batteryWarranty",
+    "fuelEconomyClassification",
+    "msrpEffectiveDate",
+    "currentAvailabilityStatus",
+    "californiaAvailabilityStatus",
+    "officialBuildAndPricePage",
+    "verifiedDealerListing"
+  ],
+  "sourceInputs": [
+    {
+      "file": "scripts/vehicle-data-v3.js",
+      "sha256": "7f9650c2049ad62d2e568051a60b58f3aa336522de84367d4d5b3a487d17605d"
+    },
+    {
+      "file": "data/vehicles.json",
+      "sha256": "325d5cba90afb855bf4c6270ec556dfae56ee1cbf517fe4b4c3b4a36fbfacecd"
+    },
+    {
+      "file": "data/epa.csv",
+      "sha256": "b1ff0e3071c46cdc1c99e0015878b98a01851462d7e447237ce2fc1294ccf303"
+    },
+    {
+      "file": "data/vehicle-media.json",
+      "sha256": "8ab5f3f0a514ec69d009d6ad16489c2d1f607126cb157372250f9860c30c750a"
+    },
+    {
+      "file": "src/image-resolver.js",
+      "sha256": "a624f032e407d068ae92773df3da16f7577be46c7929067f5c9c5234b1db671e"
+    },
+    {
+      "file": "src/vehicle-media.js",
+      "sha256": "fbad6c43346822c73b5196063bf87ab66cc5feb278c106fac984764dcf92c38d"
+    },
+    {
+      "file": "web/images/corolla.jpg",
+      "sha256": "5f77f0d83975c677b341217a05de8efb56a3a7b73e5dcd41d3acd216c1a41074"
+    },
+    {
+      "file": "web/images/corollaCross.jpg",
+      "sha256": "b6edf7cd95bf7c1c7022bc7f8fa5768114f589ef8ba3b2e4d26345529606a1cd"
+    },
+    {
+      "file": "web/images/corollaHatchback.jpg",
+      "sha256": "7718f6d70b7cb81f4b2b178dd9431945d0595f5313ea910ba04a4524bc3b33ee"
+    },
+    {
+      "file": "web/images/hondaCivicSedan.jpg",
+      "sha256": "7587ac26cc662859a047603f72a1292b61f9650ad667a28b4781337812bcdb42"
+    },
+    {
+      "file": "web/images/hondaCrv.jpg",
+      "sha256": "51379bec28fc82d61cb3929a591b8b25ce1746426d0ecfcf5bbada2dd5630ae6"
+    },
+    {
+      "file": "web/images/leaf.jpg",
+      "sha256": "98b221f7054ab0add96fd89cee392ceae95614b521c897a3094b61ca18506242"
+    },
+    {
+      "file": "web/images/maverick.jpg",
+      "sha256": "5fa267022d0ef87efa3f272a1a7120ec9b8bed094d2dfc891fe2ca01b4692cad"
+    },
+    {
+      "file": "web/images/prius.jpg",
+      "sha256": "413de51e71fe6369bad94649fe57d96e71c94a3b0ac41c824985857e1b32a609"
+    },
+    {
+      "file": "web/images/priusPhev.jpg",
+      "sha256": "6c0ac9783124add0ae6331963a982c2d8b15d133d78eef8ba2e818273b60b574"
+    },
+    {
+      "file": "src/v3/coverage.js",
+      "sha256": "237d53793de619bcba5a4f383fe13ecd8484cff4fdf8af70aec40d2de5d77e18"
+    },
+    {
+      "file": "src/v3/images.js",
+      "sha256": "a4749db58a51b81ada71bb43109ad9996d615e35555e4d623dd9a1c873a8bdd4"
+    },
+    {
+      "file": "src/v3/links.js",
+      "sha256": "f87fe6979b95374fa50702df0b0c2bc3a74ee31089c9ceea34fe16a0fda83bc5"
+    },
+    {
+      "file": "src/v3/normalize.js",
+      "sha256": "c29855affa782040060b84ecbc6d8f6239081508b3e8539cada0149c02394662"
+    },
+    {
+      "file": "src/v3/pipeline.js",
+      "sha256": "7049e4abc265f50b06881f206b4365dea16081d38c8b9528347040eec3eacea7"
+    },
+    {
+      "file": "src/v3/pricing.js",
+      "sha256": "d13e9e563b9d01a6927bd9a3c27627acc2397dd80545cba65b00014e2d19298a"
+    },
+    {
+      "file": "src/v3/safety.js",
+      "sha256": "6f4dfcec958034c2f2190a6f7bb8d325fa23bfd7a980bb7b1280f2b3830f9129"
+    },
+    {
+      "file": "src/v3/schema.js",
+      "sha256": "26ca39ecc2586f98adedc4b61a7d003c147ab2e3434837a05beb841dad0f695f"
+    },
+    {
+      "file": "data/v3/cache/nhtsa-safety.csv",
+      "sha256": "db62cffdad8cf8007c51448700802132ec4ecab7724f6f16e0bc54cf8238a89d"
+    },
+    {
+      "file": "data/v3/cache/nhtsa-safety.csv.meta.json",
+      "sha256": "50fd3ce830ef33b8eb107c5863e2589c4d94b2a66a6a17cb7c0c5f0cbc1653c6"
+    },
+    {
+      "file": "data/v3/vpic-checkpoint.json",
+      "sha256": "af2b1a6924820289cce2f8778dca8c2dec29b0291e814542ec741bf979cf31da"
+    },
+    {
+      "file": "data/v3/link-checks.json",
+      "sha256": "e4887cd01c8f8a70c420631137c20f63548962e4e1c3f9bcbeab4f88f88e7071"
+    }
+  ],
+  "preservedLegacyConfigurations": 3654,
+  "newDieselConfigurations": 56,
+  "newModelYearGroupsRelativeToOriginalEpa": 0,
+  "skippedUnsupportedRawFuelRows": [
+    {
+      "epaVehicleId": "48797",
+      "fuel": "Hydrogen",
+      "reason": "Hydrogen or missing fuel is not silently mapped to Gas/EV"
+    },
+    {
+      "epaVehicleId": "48798",
+      "fuel": "Hydrogen",
+      "reason": "Hydrogen or missing fuel is not silently mapped to Gas/EV"
+    },
+    {
+      "epaVehicleId": "48799",
+      "fuel": "Hydrogen",
+      "reason": "Hydrogen or missing fuel is not silently mapped to Gas/EV"
+    },
+    {
+      "epaVehicleId": "48800",
+      "fuel": "Hydrogen",
+      "reason": "Hydrogen or missing fuel is not silently mapped to Gas/EV"
+    },
+    {
+      "epaVehicleId": "49064",
+      "fuel": "Hydrogen",
+      "reason": "Hydrogen or missing fuel is not silently mapped to Gas/EV"
+    },
+    {
+      "epaVehicleId": "49065",
+      "fuel": "Hydrogen",
+      "reason": "Hydrogen or missing fuel is not silently mapped to Gas/EV"
+    },
+    {
+      "epaVehicleId": "49066",
+      "fuel": "Hydrogen",
+      "reason": "Hydrogen or missing fuel is not silently mapped to Gas/EV"
+    },
+    {
+      "epaVehicleId": "50268",
+      "fuel": "Hydrogen",
+      "reason": "Hydrogen or missing fuel is not silently mapped to Gas/EV"
+    },
+    {
+      "epaVehicleId": "50269",
+      "fuel": "Hydrogen",
+      "reason": "Hydrogen or missing fuel is not silently mapped to Gas/EV"
+    },
+    {
+      "epaVehicleId": "50270",
+      "fuel": "",
+      "reason": "Hydrogen or missing fuel is not silently mapped to Gas/EV"
+    },
+    {
+      "epaVehicleId": "50311",
+      "fuel": "Hydrogen",
+      "reason": "Hydrogen or missing fuel is not silently mapped to Gas/EV"
+    },
+    {
+      "epaVehicleId": "50392",
+      "fuel": "",
+      "reason": "Hydrogen or missing fuel is not silently mapped to Gas/EV"
+    }
+  ],
+  "nhtsaImport": {
+    "matched": 1142,
+    "ambiguous": 35,
+    "missing": 2533
+  },
+  "vpicExactModelYearIdentities": 2110
+}

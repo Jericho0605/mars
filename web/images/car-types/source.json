@@ -1,0 +1,47 @@
+{
+  "sourceFile": "Car Types Overview_ A Practical Guide.png",
+  "sourceSha256": "f470b73f1f616fb4793a9fe476ca3e8fbcef3991eff145b683ae0906f7487c9d",
+  "originalSize": [
+    1536,
+    1024
+  ],
+  "method": "Unscaled rectangular crops of user-provided infographic; original light backgrounds retained. Illustrations are body-style references, not vehicle specification data.",
+  "crops": {
+    "sedan": [
+      22,
+      178,
+      253,
+      269
+    ],
+    "hatchback": [
+      281,
+      178,
+      500,
+      269
+    ],
+    "suv": [
+      530,
+      178,
+      753,
+      269
+    ],
+    "minivan": [
+      779,
+      187,
+      998,
+      269
+    ],
+    "pickup": [
+      1025,
+      174,
+      1261,
+      269
+    ],
+    "sports-car": [
+      1283,
+      183,
+      1519,
+      269
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "verifiedAt": "2026-10-16T19:15:47.725Z",
+  "testsPassed": 57,
+  "build": "passed",
+  "health": {
+    "ok": true,
+    "vehicleCount": 3654
+  },
+  "scenarios": {
+    "student": {
+      "status": 200,
+      "count": 3,
+      "ids": [
+        "epa-47996",
+        "epa-48493",
+        "epa-48911"
+      ],
+      "emptyReason": null
+    },
+    "family": {
+      "status": 200,
+      "count": 0,
+      "ids": [],
+      "emptyReason": "Fewer than three distinct verified car families satisfy your requirements. Missing price or seat data is not treated as a match."
+    },
+    "performance": {
+      "status": 200,
+      "count": 0,
+      "ids": [],
+      "emptyReason": "Fewer than three distinct verified car families satisfy your requirements. Missing price or seat data is not treated as a match."
+    },
+    "ev": {
+      "status": 200,
+      "count": 1,
+      "ids": [
+        "epa-46973"
+      ],
+      "emptyReason": "Fewer than three distinct verified car families satisfy your requirements. Missing price or seat data is not treated as a match."
+    },
+    "empty": {
+      "status": 200,
+      "count": 0,
+      "ids": [],
+      "emptyReason": "Fewer than three distinct verified car families satisfy your requirements. Missing price or seat data is not treated as a match."
+    }
+  },
+  "browser": "Seven steps, real API results, two-car comparison verified; default 30000 budget produces Toyota/Nissan/Ford; no device emulation available",
+  "limitations": "Responsive CSS implemented, physical phone not tested. No additional vehicle parameters imported."
+}

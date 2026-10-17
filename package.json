@@ -1,0 +1,1 @@
+{"name":"drivewise-real-data","private":true,"type":"module","scripts":{"import":"node src/cli.js import","test":"node --test","build":"node src/cli.js build","start":"node src/server.js"},"engines":{"node":">=22"}}

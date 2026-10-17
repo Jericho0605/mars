@@ -1,0 +1,7925 @@
+{
+  "completed": {
+    "toyota|2024": {
+      "make": "Toyota",
+      "year": 2024,
+      "source": {
+        "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeYear/make/Toyota/modelyear/2024?format=json",
+        "retrievedAt": "2026-10-16T19:51:28.633Z",
+        "status": 200,
+        "contentType": "application/json",
+        "sha256": "eb8560bfd198291e1c2b0334ee14cb94e3203fb7d42232c3cdbb8a08a74f48e5",
+        "bytes": 1818
+      },
+      "models": [
+        {
+          "name": "Corolla",
+          "id": 2208,
+          "make": "TOYOTA"
+        },
+        {
+          "name": "Prius",
+          "id": 2209,
+          "make": "TOYOTA"
+        },
+        {
+          "name": "Land Cruiser",
+          "id": 2211,
+          "make": "TOYOTA"
+        },
+        {
+          "name": "Highlander",
+          "id": 2213,
+          "make": "TOYOTA"
+        },
+        {
+          "name": "4Runner",
+          "id": 2216,
+          "make": "TOYOTA"
+        },
+        {
+          "name": "RAV4",
+          "id": 2217,
+          "make": "TOYOTA"
+        },
+        {
+          "name": "Tacoma",
+          "id": 2223,
+          "make": "TOYOTA"
+        },
+        {
+          "name": "Tundra",
+          "id": 2467,
+          "make": "TOYOTA"
+        },
+        {
+          "name": "Sienna",
+          "id": 2468,
+          "make": "TOYOTA"
+        },
+        {
+          "name": "Camry",
+          "id": 2469,
+          "make": "TOYOTA"
+        },
+        {
+          "name": "Sequoia",
+          "id": 2827,
+          "make": "TOYOTA"
+        },
+        {
+          "name": "Venza",
+          "id": 3005,
+          "make": "TOYOTA"
+        },
+        {
+          "name": "Supra",
+          "id": 3647,
+          "make": "TOYOTA"
+        },
+        {
+          "name": "Mirai",
+          "id": 10198,
+          "make": "TOYOTA"
+        },
+        {
+          "name": "Prius Prime (PHEV)",
+          "id": 21950,
+          "make": "TOYOTA"
+        },
+        {
+          "name": "RAV4 Prime (PHEV)",
+          "id": 28070,
+          "make": "TOYOTA"
+        },
+        {
+          "name": "Corolla Cross",
+          "id": 29274,
+          "make": "TOYOTA"
+        },
+        {
+          "name": "GR86",
+          "id": 29364,
+          "make": "TOYOTA"
+        },
+        {
+          "name": "bZ4X",
+          "id": 30041,
+          "make": "TOYOTA"
+        },
+        {
+          "name": "Crown",
+          "id": 31077,
+          "make": "TOYOTA"
+        },
+        {
+          "name": "GR Corolla",
+          "id": 31079,
+          "make": "TOYOTA"
+        },
+        {
+          "name": "Grand Highlander",
+          "id": 32304,
+          "make": "TOYOTA"
+        }
+      ]
+    },
+    "toyota|2025": {
+      "make": "Toyota",
+      "year": 2025,
+      "source": {
+        "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeYear/make/Toyota/modelyear/2025?format=json",
+        "retrievedAt": "2026-10-16T19:51:29.591Z",
+        "status": 200,
+        "contentType": "application/json",
+        "sha256": "63741973a12e5efcdc6ae452cce19dd022a91fffba18d330c8c3b05d32e2e915",
+        "bytes": 1826
+      },
+      "models": [
+        {
+          "name": "Corolla",
+          "id": 2208,
+          "make": "TOYOTA"
+        },
+        {
+          "name": "Prius",
+          "id": 2209,
+          "make": "TOYOTA"
+        },
+        {
+          "name": "Land Cruiser",
+          "id": 2211,
+          "make": "TOYOTA"
+        },
+        {
+          "name": "Highlander",
+          "id": 2213,
+          "make": "TOYOTA"
+        },
+        {
+          "name": "4Runner",
+          "id": 2216,
+          "make": "TOYOTA"
+        },
+        {
+          "name": "RAV4",
+          "id": 2217,
+          "make": "TOYOTA"
+        },
+        {
+          "name": "Tacoma",
+          "id": 2223,
+          "make": "TOYOTA"
+        },
+        {
+          "name": "Tundra",
+          "id": 2467,
+          "make": "TOYOTA"
+        },
+        {
+          "name": "Sienna",
+          "id": 2468,
+          "make": "TOYOTA"
+        },
+        {
+          "name": "Camry",
+          "id": 2469,
+          "make": "TOYOTA"
+        },
+        {
+          "name": "Sequoia",
+          "id": 2827,
+          "make": "TOYOTA"
+        },
+        {
+          "name": "Supra",
+          "id": 3647,
+          "make": "TOYOTA"
+        },
+        {
+          "name": "Mirai",
+          "id": 10198,
+          "make": "TOYOTA"
+        },
+        {
+          "name": "Prius Prime (PHEV)",
+          "id": 21950,
+          "make": "TOYOTA"
+        },
+        {
+          "name": "RAV4 Prime (PHEV)",
+          "id": 28070,
+          "make": "TOYOTA"
+        },
+        {
+          "name": "Corolla Cross",
+          "id": 29274,
+          "make": "TOYOTA"
+        },
+        {
+          "name": "GR86",
+          "id": 29364,
+          "make": "TOYOTA"
+        },
+        {
+          "name": "bZ4X",
+          "id": 30041,
+          "make": "TOYOTA"
+        },
+        {
+          "name": "Crown",
+          "id": 31077,
+          "make": "TOYOTA"
+        },
+        {
+          "name": "GR Corolla",
+          "id": 31079,
+          "make": "TOYOTA"
+        },
+        {
+          "name": "Grand Highlander",
+          "id": 32304,
+          "make": "TOYOTA"
+        },
+        {
+          "name": "Crown Signia",
+          "id": 34866,
+          "make": "TOYOTA"
+        }
+      ]
+    },
+    "toyota|2026": {
+      "make": "Toyota",
+      "year": 2026,
+      "source": {
+        "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeYear/make/Toyota/modelyear/2026?format=json",
+        "retrievedAt": "2026-10-16T19:51:30.660Z",
+        "status": 200,
+        "contentType": "application/json",
+        "sha256": "d54321172146aa16e2b9de3bba95ba9c8de16b474183086dbfba7fe35697920e",
+        "bytes": 1979
+      },
+      "models": [
+        {
+          "name": "Corolla",
+          "id": 2208,
+          "make": "TOYOTA"
+        },
+        {
+          "name": "Prius",
+          "id": 2209,
+          "make": "TOYOTA"
+        },
+        {
+          "name": "Land Cruiser",
+          "id": 2211,
+          "make": "TOYOTA"
+        },
+        {
+          "name": "Highlander",
+          "id": 2213,
+          "make": "TOYOTA"
+        },
+        {
+          "name": "4Runner",
+          "id": 2216,
+          "make": "TOYOTA"
+        },
+        {
+          "name": "RAV4",
+          "id": 2217,
+          "make": "TOYOTA"
+        },
+        {
+          "name": "Tacoma",
+          "id": 2223,
+          "make": "TOYOTA"
+        },
+        {
+          "name": "Tundra",
+          "id": 2467,
+          "make": "TOYOTA"
+        },
+        {
+          "name": "Sienna",
+          "id": 2468,
+          "make": "TOYOTA"
+        },
+        {
+          "name": "Camry",
+          "id": 2469,
+          "make": "TOYOTA"
+        },
+        {
+          "name": "Sequoia",
+          "id": 2827,
+          "make": "TOYOTA"
+        },
+        {
+          "name": "Supra",
+          "id": 3647,
+          "make": "TOYOTA"
+        },
+        {
+          "name": "Mirai",
+          "id": 10198,
+          "make": "TOYOTA"
+        },
+        {
+          "name": "C-HR",
+          "id": 17213,
+          "make": "TOYOTA"
+        },
+        {
+          "name": "Prius Prime (PHEV)",
+          "id": 21950,
+          "make": "TOYOTA"
+        },
+        {
+          "name": "RAV4 Prime (PHEV)",
+          "id": 28070,
+          "make": "TOYOTA"
+        },
+        {
+          "name": "Corolla Cross",
+          "id": 29274,
+          "make": "TOYOTA"
+        },
+        {
+          "name": "GR86",
+          "id": 29364,
+          "make": "TOYOTA"
+        },
+        {
+          "name": "Crown",
+          "id": 31077,
+          "make": "TOYOTA"
+        },
+        {
+          "name": "GR Corolla",
+          "id": 31079,
+          "make": "TOYOTA"
+        },
+        {
+          "name": "Grand Highlander",
+          "id": 32304,
+          "make": "TOYOTA"
+        },
+        {
+          "name": "Crown Signia",
+          "id": 34866,
+          "make": "TOYOTA"
+        },
+        {
+          "name": "bZ",
+          "id": 37150,
+          "make": "TOYOTA"
+        },
+        {
+          "name": "bZ Woodland",
+          "id": 37355,
+          "make": "TOYOTA"
+        }
+      ]
+    },
+    "honda|2024": {
+      "make": "Honda",
+      "year": 2024,
+      "source": {
+        "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeYear/make/Honda/modelyear/2024?format=json",
+        "retrievedAt": "2026-10-16T19:51:31.761Z",
+        "status": 200,
+        "contentType": "application/json",
+        "sha256": "77f5ca90f18f697e59730c8b5dbca214c6238729f653b260009f32fdb9826941",
+        "bytes": 6289
+      },
+      "models": [
+        {
+          "name": "Accord",
+          "id": 1861,
+          "make": "HONDA"
+        },
+        {
+          "name": "Civic",
+          "id": 1863,
+          "make": "HONDA"
+        },
+        {
+          "name": "Pilot",
+          "id": 1864,
+          "make": "HONDA"
+        },
+        {
+          "name": "CR-V",
+          "id": 1865,
+          "make": "HONDA"
+        },
+        {
+          "name": "Ridgeline",
+          "id": 1866,
+          "make": "HONDA"
+        },
+        {
+          "name": "Odyssey",
+          "id": 1869,
+          "make": "HONDA"
+        },
+        {
+          "name": "PCX150",
+          "id": 3234,
+          "make": "HONDA"
+        },
+        {
+          "name": "Gold Wing",
+          "id": 3249,
+          "make": "HONDA"
+        },
+        {
+          "name": "NC700X",
+          "id": 3251,
+          "make": "HONDA"
+        },
+        {
+          "name": "Metropolitan",
+          "id": 3252,
+          "make": "HONDA"
+        },
+        {
+          "name": "NPS50 (Ruckus)",
+          "id": 3253,
+          "make": "HONDA"
+        },
+        {
+          "name": "ST1300PA",
+          "id": 3255,
+          "make": "HONDA"
+        },
+        {
+          "name": "Transalp",
+          "id": 3777,
+          "make": "HONDA"
+        },
+        {
+          "name": "Passport",
+          "id": 5959,
+          "make": "HONDA"
+        },
+        {
+          "name": "HR-V",
+          "id": 9212,
+          "make": "HONDA"
+        },
+        {
+          "name": "TRX90X",
+          "id": 11588,
+          "make": "HONDA"
+        },
+        {
+          "name": "TRX250",
+          "id": 11592,
+          "make": "HONDA"
+        },
+        {
+          "name": "NSS300 (Forza)",
+          "id": 11762,
+          "make": "HONDA"
+        },
+        {
+          "name": "Cota 4RT 260",
+          "id": 11796,
+          "make": "HONDA"
+        },
+        {
+          "name": "NC750X",
+          "id": 11819,
+          "make": "HONDA"
+        },
+        {
+          "name": "VT750 (Shadow Aero 750)",
+          "id": 12058,
+          "make": "HONDA"
+        },
+        {
+          "name": "VT1300 (Fury)",
+          "id": 12123,
+          "make": "HONDA"
+        },
+        {
+          "name": "VT750 (Shadow Phantom 750)",
+          "id": 12132,
+          "make": "HONDA"
+        },
+        {
+          "name": "Cota 300RR",
+          "id": 27889,
+          "make": "HONDA"
+        },
+        {
+          "name": "SXS1000M (Pioneer 1000)",
+          "id": 27897,
+          "make": "HONDA"
+        },
+        {
+          "name": "SXS700M (Pioneer 700)",
+          "id": 27898,
+          "make": "HONDA"
+        },
+        {
+          "name": "SXS500M (Pioneer 500)",
+          "id": 27899,
+          "make": "HONDA"
+        },
+        {
+          "name": "Trail125",
+          "id": 27942,
+          "make": "HONDA"
+        },
+        {
+          "name": "CRF300L",
+          "id": 28626,
+          "make": "HONDA"
+        },
+        {
+          "name": "Monkey",
+          "id": 28850,
+          "make": "HONDA"
+        },
+        {
+          "name": "Civic Si",
+          "id": 29417,
+          "make": "HONDA"
+        },
+        {
+          "name": "Navi",
+          "id": 29509,
+          "make": "HONDA"
+        },
+        {
+          "name": "Civic Type R",
+          "id": 31535,
+          "make": "HONDA"
+        },
+        {
+          "name": "XR150L",
+          "id": 31564,
+          "make": "HONDA"
+        },
+        {
+          "name": "SCL500",
+          "id": 32079,
+          "make": "HONDA"
+        },
+        {
+          "name": "ADV160",
+          "id": 32124,
+          "make": "HONDA"
+        },
+        {
+          "name": "Prologue",
+          "id": 33174,
+          "make": "HONDA"
+        },
+        {
+          "name": "CRF230F",
+          "id": 33259,
+          "make": "HONDA"
+        },
+        {
+          "name": "CRF125F",
+          "id": 33279,
+          "make": "HONDA"
+        },
+        {
+          "name": "CRF150F",
+          "id": 33281,
+          "make": "HONDA"
+        },
+        {
+          "name": "CRF150R",
+          "id": 33282,
+          "make": "HONDA"
+        },
+        {
+          "name": "CRF250L",
+          "id": 33285,
+          "make": "HONDA"
+        },
+        {
+          "name": "CRF250R",
+          "id": 33286,
+          "make": "HONDA"
+        },
+        {
+          "name": "CRF50F",
+          "id": 33288,
+          "make": "HONDA"
+        },
+        {
+          "name": "CRF110F",
+          "id": 33289,
+          "make": "HONDA"
+        },
+        {
+          "name": "CRF450R",
+          "id": 33290,
+          "make": "HONDA"
+        },
+        {
+          "name": "CRF450X",
+          "id": 33291,
+          "make": "HONDA"
+        },
+        {
+          "name": "CRF250RX",
+          "id": 33292,
+          "make": "HONDA"
+        },
+        {
+          "name": "CRF250F",
+          "id": 33293,
+          "make": "HONDA"
+        },
+        {
+          "name": "XR650L",
+          "id": 33499,
+          "make": "HONDA"
+        },
+        {
+          "name": "CBR600RR",
+          "id": 33503,
+          "make": "HONDA"
+        },
+        {
+          "name": "CBR500R",
+          "id": 33505,
+          "make": "HONDA"
+        },
+        {
+          "name": "CB500F",
+          "id": 33508,
+          "make": "HONDA"
+        },
+        {
+          "name": "CB500X",
+          "id": 33510,
+          "make": "HONDA"
+        },
+        {
+          "name": "CBR1000RR",
+          "id": 33515,
+          "make": "HONDA"
+        },
+        {
+          "name": "CBR300R",
+          "id": 33524,
+          "make": "HONDA"
+        },
+        {
+          "name": "CB300R",
+          "id": 33535,
+          "make": "HONDA"
+        },
+        {
+          "name": "CBR650R",
+          "id": 33536,
+          "make": "HONDA"
+        },
+        {
+          "name": "CB650R",
+          "id": 33537,
+          "make": "HONDA"
+        },
+        {
+          "name": "NX500",
+          "id": 34007,
+          "make": "HONDA"
+        },
+        {
+          "name": "Cota 4RT 301RR",
+          "id": 34886,
+          "make": "HONDA"
+        },
+        {
+          "name": "Africa Twin",
+          "id": 35229,
+          "make": "HONDA"
+        },
+        {
+          "name": "Giorno",
+          "id": 36706,
+          "make": "HONDA"
+        },
+        {
+          "name": "Foreman",
+          "id": 36707,
+          "make": "HONDA"
+        },
+        {
+          "name": "Rubicon",
+          "id": 36708,
+          "make": "HONDA"
+        },
+        {
+          "name": "Foreman Rubicon",
+          "id": 36711,
+          "make": "HONDA"
+        },
+        {
+          "name": "Rancher",
+          "id": 36712,
+          "make": "HONDA"
+        },
+        {
+          "name": "Recon",
+          "id": 36713,
+          "make": "HONDA"
+        },
+        {
+          "name": "Rincon",
+          "id": 36714,
+          "make": "HONDA"
+        },
+        {
+          "name": "Rebel 1100",
+          "id": 36952,
+          "make": "HONDA"
+        },
+        {
+          "name": "Rebel 300",
+          "id": 36953,
+          "make": "HONDA"
+        },
+        {
+          "name": "Rebel 500",
+          "id": 36954,
+          "make": "HONDA"
+        },
+        {
+          "name": "Gold Wing Tour",
+          "id": 37126,
+          "make": "HONDA"
+        },
+        {
+          "name": "Grom",
+          "id": 37127,
+          "make": "HONDA"
+        },
+        {
+          "name": "Super Cub C125",
+          "id": 37131,
+          "make": "HONDA"
+        },
+        {
+          "name": "Africa Twin Adventure Sports",
+          "id": 37132,
+          "make": "HONDA"
+        },
+        {
+          "name": "SXS1000S (Talon 1000)",
+          "id": 37133,
+          "make": "HONDA"
+        },
+        {
+          "name": "Cota 4RT 260R",
+          "id": 37639,
+          "make": "HONDA"
+        },
+        {
+          "name": "SXS5M2 (Pioneer 520)",
+          "id": 37893,
+          "make": "HONDA"
+        }
+      ]
+    },
+    "honda|2025": {
+      "make": "Honda",
+      "year": 2025,
+      "source": {
+        "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeYear/make/Honda/modelyear/2025?format=json",
+        "retrievedAt": "2026-10-16T19:51:32.960Z",
+        "status": 200,
+        "contentType": "application/json",
+        "sha256": "c4bff45241d815164296a8c032bef8eab7e84ca996154282644dc967bbd41ec8",
+        "bytes": 5068
+      },
+      "models": [
+        {
+          "name": "Accord",
+          "id": 1861,
+          "make": "HONDA"
+        },
+        {
+          "name": "Civic",
+          "id": 1863,
+          "make": "HONDA"
+        },
+        {
+          "name": "Pilot",
+          "id": 1864,
+          "make": "HONDA"
+        },
+        {
+          "name": "CR-V",
+          "id": 1865,
+          "make": "HONDA"
+        },
+        {
+          "name": "Ridgeline",
+          "id": 1866,
+          "make": "HONDA"
+        },
+        {
+          "name": "Odyssey",
+          "id": 1869,
+          "make": "HONDA"
+        },
+        {
+          "name": "Gold Wing",
+          "id": 3249,
+          "make": "HONDA"
+        },
+        {
+          "name": "Metropolitan",
+          "id": 3252,
+          "make": "HONDA"
+        },
+        {
+          "name": "NPS50 (Ruckus)",
+          "id": 3253,
+          "make": "HONDA"
+        },
+        {
+          "name": "Transalp",
+          "id": 3777,
+          "make": "HONDA"
+        },
+        {
+          "name": "Passport",
+          "id": 5959,
+          "make": "HONDA"
+        },
+        {
+          "name": "HR-V",
+          "id": 9212,
+          "make": "HONDA"
+        },
+        {
+          "name": "TRX90X",
+          "id": 11588,
+          "make": "HONDA"
+        },
+        {
+          "name": "NC750X",
+          "id": 11819,
+          "make": "HONDA"
+        },
+        {
+          "name": "VT750 (Shadow Phantom 750)",
+          "id": 12132,
+          "make": "HONDA"
+        },
+        {
+          "name": "Nighthawk 750",
+          "id": 12554,
+          "make": "HONDA"
+        },
+        {
+          "name": "Fireblade",
+          "id": 27409,
+          "make": "HONDA"
+        },
+        {
+          "name": "SXS1000M (Pioneer 1000)",
+          "id": 27897,
+          "make": "HONDA"
+        },
+        {
+          "name": "SXS700M (Pioneer 700)",
+          "id": 27898,
+          "make": "HONDA"
+        },
+        {
+          "name": "Trail125",
+          "id": 27942,
+          "make": "HONDA"
+        },
+        {
+          "name": "CRF300L",
+          "id": 28626,
+          "make": "HONDA"
+        },
+        {
+          "name": "Monkey",
+          "id": 28850,
+          "make": "HONDA"
+        },
+        {
+          "name": "Civic Si",
+          "id": 29417,
+          "make": "HONDA"
+        },
+        {
+          "name": "Navi",
+          "id": 29509,
+          "make": "HONDA"
+        },
+        {
+          "name": "PCX",
+          "id": 29619,
+          "make": "HONDA"
+        },
+        {
+          "name": "SXS520M (Pioneer 520)",
+          "id": 30374,
+          "make": "HONDA"
+        },
+        {
+          "name": "Civic Type R",
+          "id": 31535,
+          "make": "HONDA"
+        },
+        {
+          "name": "XR150L",
+          "id": 31564,
+          "make": "HONDA"
+        },
+        {
+          "name": "SCL500",
+          "id": 32079,
+          "make": "HONDA"
+        },
+        {
+          "name": "ADV160",
+          "id": 32124,
+          "make": "HONDA"
+        },
+        {
+          "name": "Prologue",
+          "id": 33174,
+          "make": "HONDA"
+        },
+        {
+          "name": "CRF125F",
+          "id": 33279,
+          "make": "HONDA"
+        },
+        {
+          "name": "CRF150R",
+          "id": 33282,
+          "make": "HONDA"
+        },
+        {
+          "name": "CRF250R",
+          "id": 33286,
+          "make": "HONDA"
+        },
+        {
+          "name": "CRF50F",
+          "id": 33288,
+          "make": "HONDA"
+        },
+        {
+          "name": "CRF110F",
+          "id": 33289,
+          "make": "HONDA"
+        },
+        {
+          "name": "CRF450R",
+          "id": 33290,
+          "make": "HONDA"
+        },
+        {
+          "name": "CRF250F",
+          "id": 33293,
+          "make": "HONDA"
+        },
+        {
+          "name": "XR650L",
+          "id": 33499,
+          "make": "HONDA"
+        },
+        {
+          "name": "CBR600RR",
+          "id": 33503,
+          "make": "HONDA"
+        },
+        {
+          "name": "CBR500R",
+          "id": 33505,
+          "make": "HONDA"
+        },
+        {
+          "name": "CB500F",
+          "id": 33508,
+          "make": "HONDA"
+        },
+        {
+          "name": "CBR1000RR",
+          "id": 33515,
+          "make": "HONDA"
+        },
+        {
+          "name": "CB300F",
+          "id": 33526,
+          "make": "HONDA"
+        },
+        {
+          "name": "CB300R",
+          "id": 33535,
+          "make": "HONDA"
+        },
+        {
+          "name": "CBR650R",
+          "id": 33536,
+          "make": "HONDA"
+        },
+        {
+          "name": "CB650R",
+          "id": 33537,
+          "make": "HONDA"
+        },
+        {
+          "name": "NX500",
+          "id": 34007,
+          "make": "HONDA"
+        },
+        {
+          "name": "DAX 125",
+          "id": 35111,
+          "make": "HONDA"
+        },
+        {
+          "name": "Africa Twin",
+          "id": 35229,
+          "make": "HONDA"
+        },
+        {
+          "name": "Fury",
+          "id": 35230,
+          "make": "HONDA"
+        },
+        {
+          "name": "NT1100",
+          "id": 35732,
+          "make": "HONDA"
+        },
+        {
+          "name": "Giorno",
+          "id": 36706,
+          "make": "HONDA"
+        },
+        {
+          "name": "Foreman",
+          "id": 36707,
+          "make": "HONDA"
+        },
+        {
+          "name": "Rubicon",
+          "id": 36708,
+          "make": "HONDA"
+        },
+        {
+          "name": "Rancher",
+          "id": 36712,
+          "make": "HONDA"
+        },
+        {
+          "name": "Recon",
+          "id": 36713,
+          "make": "HONDA"
+        },
+        {
+          "name": "Rebel 1100",
+          "id": 36952,
+          "make": "HONDA"
+        },
+        {
+          "name": "Rebel 300",
+          "id": 36953,
+          "make": "HONDA"
+        },
+        {
+          "name": "Rebel 500",
+          "id": 36954,
+          "make": "HONDA"
+        },
+        {
+          "name": "Gold Wing Tour",
+          "id": 37126,
+          "make": "HONDA"
+        },
+        {
+          "name": "Grom",
+          "id": 37127,
+          "make": "HONDA"
+        },
+        {
+          "name": "Africa Twin Adventure Sports",
+          "id": 37132,
+          "make": "HONDA"
+        },
+        {
+          "name": "CB1000 Hornet",
+          "id": 37996,
+          "make": "HONDA"
+        }
+      ]
+    },
+    "honda|2026": {
+      "make": "Honda",
+      "year": 2026,
+      "source": {
+        "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeYear/make/Honda/modelyear/2026?format=json",
+        "retrievedAt": "2026-10-16T19:51:34.124Z",
+        "status": 200,
+        "contentType": "application/json",
+        "sha256": "512ebfd644611e860a3d9572dd1210df71c425ea0dfc857205040883911aba31",
+        "bytes": 5588
+      },
+      "models": [
+        {
+          "name": "Accord",
+          "id": 1861,
+          "make": "HONDA"
+        },
+        {
+          "name": "Civic",
+          "id": 1863,
+          "make": "HONDA"
+        },
+        {
+          "name": "Pilot",
+          "id": 1864,
+          "make": "HONDA"
+        },
+        {
+          "name": "CR-V",
+          "id": 1865,
+          "make": "HONDA"
+        },
+        {
+          "name": "Ridgeline",
+          "id": 1866,
+          "make": "HONDA"
+        },
+        {
+          "name": "Odyssey",
+          "id": 1869,
+          "make": "HONDA"
+        },
+        {
+          "name": "Gold Wing",
+          "id": 3249,
+          "make": "HONDA"
+        },
+        {
+          "name": "Metropolitan",
+          "id": 3252,
+          "make": "HONDA"
+        },
+        {
+          "name": "Transalp",
+          "id": 3777,
+          "make": "HONDA"
+        },
+        {
+          "name": "Prelude",
+          "id": 5107,
+          "make": "HONDA"
+        },
+        {
+          "name": "Passport",
+          "id": 5959,
+          "make": "HONDA"
+        },
+        {
+          "name": "HR-V",
+          "id": 9212,
+          "make": "HONDA"
+        },
+        {
+          "name": "TRX90X",
+          "id": 11588,
+          "make": "HONDA"
+        },
+        {
+          "name": "FourTrax Rancher",
+          "id": 11689,
+          "make": "HONDA"
+        },
+        {
+          "name": "FourTrax Foreman",
+          "id": 11728,
+          "make": "HONDA"
+        },
+        {
+          "name": "NC750X",
+          "id": 11819,
+          "make": "HONDA"
+        },
+        {
+          "name": "TRX250X",
+          "id": 11835,
+          "make": "HONDA"
+        },
+        {
+          "name": "FourTrax Recon",
+          "id": 11837,
+          "make": "HONDA"
+        },
+        {
+          "name": "Fireblade",
+          "id": 27409,
+          "make": "HONDA"
+        },
+        {
+          "name": "FourTrax Foreman Rubicon",
+          "id": 27839,
+          "make": "HONDA"
+        },
+        {
+          "name": "SXS1000M (Pioneer 1000)",
+          "id": 27897,
+          "make": "HONDA"
+        },
+        {
+          "name": "SXS700M (Pioneer 700)",
+          "id": 27898,
+          "make": "HONDA"
+        },
+        {
+          "name": "CB1000F",
+          "id": 27928,
+          "make": "HONDA"
+        },
+        {
+          "name": "Trail125",
+          "id": 27942,
+          "make": "HONDA"
+        },
+        {
+          "name": "CRF300L",
+          "id": 28626,
+          "make": "HONDA"
+        },
+        {
+          "name": "Monkey",
+          "id": 28850,
+          "make": "HONDA"
+        },
+        {
+          "name": "Civic Si",
+          "id": 29417,
+          "make": "HONDA"
+        },
+        {
+          "name": "Navi",
+          "id": 29509,
+          "make": "HONDA"
+        },
+        {
+          "name": "PCX",
+          "id": 29619,
+          "make": "HONDA"
+        },
+        {
+          "name": "Ruckus",
+          "id": 29648,
+          "make": "HONDA"
+        },
+        {
+          "name": "SXS520M (Pioneer 520)",
+          "id": 30374,
+          "make": "HONDA"
+        },
+        {
+          "name": "Civic Type R",
+          "id": 31535,
+          "make": "HONDA"
+        },
+        {
+          "name": "XR150L",
+          "id": 31564,
+          "make": "HONDA"
+        },
+        {
+          "name": "SCL500",
+          "id": 32079,
+          "make": "HONDA"
+        },
+        {
+          "name": "ADV160",
+          "id": 32124,
+          "make": "HONDA"
+        },
+        {
+          "name": "Prologue",
+          "id": 33174,
+          "make": "HONDA"
+        },
+        {
+          "name": "CRF125F",
+          "id": 33279,
+          "make": "HONDA"
+        },
+        {
+          "name": "CRF150R",
+          "id": 33282,
+          "make": "HONDA"
+        },
+        {
+          "name": "CRF250R",
+          "id": 33286,
+          "make": "HONDA"
+        },
+        {
+          "name": "CRF50F",
+          "id": 33288,
+          "make": "HONDA"
+        },
+        {
+          "name": "CRF110F",
+          "id": 33289,
+          "make": "HONDA"
+        },
+        {
+          "name": "CRF450R",
+          "id": 33290,
+          "make": "HONDA"
+        },
+        {
+          "name": "CRF450X",
+          "id": 33291,
+          "make": "HONDA"
+        },
+        {
+          "name": "CRF450RL",
+          "id": 33310,
+          "make": "HONDA"
+        },
+        {
+          "name": "CBR600RR",
+          "id": 33503,
+          "make": "HONDA"
+        },
+        {
+          "name": "CBR500R",
+          "id": 33505,
+          "make": "HONDA"
+        },
+        {
+          "name": "CBR1000RR",
+          "id": 33515,
+          "make": "HONDA"
+        },
+        {
+          "name": "CB300R",
+          "id": 33535,
+          "make": "HONDA"
+        },
+        {
+          "name": "CBR650R",
+          "id": 33536,
+          "make": "HONDA"
+        },
+        {
+          "name": "CB650R",
+          "id": 33537,
+          "make": "HONDA"
+        },
+        {
+          "name": "NX500",
+          "id": 34007,
+          "make": "HONDA"
+        },
+        {
+          "name": "DAX 125",
+          "id": 35111,
+          "make": "HONDA"
+        },
+        {
+          "name": "Africa Twin",
+          "id": 35229,
+          "make": "HONDA"
+        },
+        {
+          "name": "NT1100",
+          "id": 35732,
+          "make": "HONDA"
+        },
+        {
+          "name": "Foreman",
+          "id": 36707,
+          "make": "HONDA"
+        },
+        {
+          "name": "Rubicon",
+          "id": 36708,
+          "make": "HONDA"
+        },
+        {
+          "name": "Rancher",
+          "id": 36712,
+          "make": "HONDA"
+        },
+        {
+          "name": "Rebel 1100",
+          "id": 36952,
+          "make": "HONDA"
+        },
+        {
+          "name": "Rebel 300",
+          "id": 36953,
+          "make": "HONDA"
+        },
+        {
+          "name": "Rebel 500",
+          "id": 36954,
+          "make": "HONDA"
+        },
+        {
+          "name": "Gold Wing Tour",
+          "id": 37126,
+          "make": "HONDA"
+        },
+        {
+          "name": "Grom",
+          "id": 37127,
+          "make": "HONDA"
+        },
+        {
+          "name": "Africa Twin Adventure Sports",
+          "id": 37132,
+          "make": "HONDA"
+        },
+        {
+          "name": "SXS1000S (Talon 1000)",
+          "id": 37133,
+          "make": "HONDA"
+        },
+        {
+          "name": "CB500 Hornet",
+          "id": 37270,
+          "make": "HONDA"
+        },
+        {
+          "name": "Cota 4RT 260R",
+          "id": 37639,
+          "make": "HONDA"
+        },
+        {
+          "name": "Cota 310RR",
+          "id": 37640,
+          "make": "HONDA"
+        },
+        {
+          "name": "CRF300F",
+          "id": 37641,
+          "make": "HONDA"
+        },
+        {
+          "name": "FourTrax Rubicon",
+          "id": 37642,
+          "make": "HONDA"
+        },
+        {
+          "name": "CB750 Hornet E-Clutch",
+          "id": 38058,
+          "make": "HONDA"
+        }
+      ]
+    },
+    "ford|2024": {
+      "make": "Ford",
+      "year": 2024,
+      "source": {
+        "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeYear/make/Ford/modelyear/2024?format=json",
+        "retrievedAt": "2026-10-16T19:51:35.089Z",
+        "status": 200,
+        "contentType": "application/json",
+        "sha256": "73d43a00f41ab670d93c46e4a35281e2c1d063b30709aad1a8ec1dc3390f878e",
+        "bytes": 4120
+      },
+      "models": [
+        {
+          "name": "Affordable Aluminum",
+          "id": 4563,
+          "make": "AFFORDABLE ALUMINUM"
+        },
+        {
+          "name": "Affordable Trailers",
+          "id": 26910,
+          "make": "AFFORDABLE TRAILERS"
+        },
+        {
+          "name": "Travel Park",
+          "id": 14916,
+          "make": "ASHFORD MFG"
+        },
+        {
+          "name": "Bradford #1",
+          "id": 22551,
+          "make": "BRADFORD #1"
+        },
+        {
+          "name": "Bradford Built",
+          "id": 18064,
+          "make": "BRADFORD BUILT"
+        },
+        {
+          "name": "CRANFORD RADIATOR INC.",
+          "id": 17910,
+          "make": "CRANFORD RADIATOR INC."
+        },
+        {
+          "name": "Eagle Ford Tanks & Trailers LLC",
+          "id": 4645,
+          "make": "EAGLE FORD TANKS & TRAILERS LLC"
+        },
+        {
+          "name": "Mustang",
+          "id": 1781,
+          "make": "FORD"
+        },
+        {
+          "name": "Edge",
+          "id": 1797,
+          "make": "FORD"
+        },
+        {
+          "name": "Escape",
+          "id": 1798,
+          "make": "FORD"
+        },
+        {
+          "name": "Expedition",
+          "id": 1799,
+          "make": "FORD"
+        },
+        {
+          "name": "Explorer",
+          "id": 1800,
+          "make": "FORD"
+        },
+        {
+          "name": "F-150",
+          "id": 1801,
+          "make": "FORD"
+        },
+        {
+          "name": "Ranger",
+          "id": 1803,
+          "make": "FORD"
+        },
+        {
+          "name": "F-250",
+          "id": 1805,
+          "make": "FORD"
+        },
+        {
+          "name": "F-250",
+          "id": 1805,
+          "make": "FORD"
+        },
+        {
+          "name": "F-350",
+          "id": 1806,
+          "make": "FORD"
+        },
+        {
+          "name": "F-350",
+          "id": 1806,
+          "make": "FORD"
+        },
+        {
+          "name": "F-450",
+          "id": 1807,
+          "make": "FORD"
+        },
+        {
+          "name": "F-450",
+          "id": 1807,
+          "make": "FORD"
+        },
+        {
+          "name": "F-550",
+          "id": 1808,
+          "make": "FORD"
+        },
+        {
+          "name": "F-550",
+          "id": 1808,
+          "make": "FORD"
+        },
+        {
+          "name": "F-650",
+          "id": 1809,
+          "make": "FORD"
+        },
+        {
+          "name": "F-750",
+          "id": 1810,
+          "make": "FORD"
+        },
+        {
+          "name": "E-350",
+          "id": 1818,
+          "make": "FORD"
+        },
+        {
+          "name": "E-450",
+          "id": 1819,
+          "make": "FORD"
+        },
+        {
+          "name": "Expedition MAX",
+          "id": 1820,
+          "make": "FORD"
+        },
+        {
+          "name": "Motorhome Chassis",
+          "id": 2737,
+          "make": "FORD"
+        },
+        {
+          "name": "Commercial Chassis",
+          "id": 3410,
+          "make": "FORD"
+        },
+        {
+          "name": "Transit",
+          "id": 3608,
+          "make": "FORD"
+        },
+        {
+          "name": "Transit",
+          "id": 3608,
+          "make": "FORD"
+        },
+        {
+          "name": "Transit",
+          "id": 3608,
+          "make": "FORD"
+        },
+        {
+          "name": "Transit",
+          "id": 3608,
+          "make": "FORD"
+        },
+        {
+          "name": "Bronco",
+          "id": 6825,
+          "make": "FORD"
+        },
+        {
+          "name": "F-600",
+          "id": 13979,
+          "make": "FORD"
+        },
+        {
+          "name": "F-600",
+          "id": 13979,
+          "make": "FORD"
+        },
+        {
+          "name": "'34",
+          "id": 14930,
+          "make": "FORD"
+        },
+        {
+          "name": "Bronco Sport",
+          "id": 27411,
+          "make": "FORD"
+        },
+        {
+          "name": "Mustang Mach-E",
+          "id": 27440,
+          "make": "FORD"
+        },
+        {
+          "name": "Maverick",
+          "id": 28967,
+          "make": "FORD"
+        },
+        {
+          "name": "GT MKII",
+          "id": 31551,
+          "make": "FORD"
+        },
+        {
+          "name": "Fords Trailer Sales",
+          "id": 9637,
+          "make": "FORDS TRAILER SALES"
+        },
+        {
+          "name": "Medford Steel",
+          "id": 23878,
+          "make": "MEDFORD STEEL"
+        },
+        {
+          "name": "Milford Pipe & Supply",
+          "id": 9047,
+          "make": "MILFORD PIPE & SUPPLY"
+        },
+        {
+          "name": "Stafford's Trailers",
+          "id": 23075,
+          "make": "STAFFORD'S TRAILERS"
+        },
+        {
+          "name": "Malibu Sedan",
+          "id": 18235,
+          "make": "STANFORD CUSTOMS"
+        },
+        {
+          "name": "Cordova Sedan",
+          "id": 18236,
+          "make": "STANFORD CUSTOMS"
+        },
+        {
+          "name": "Classic Sedan",
+          "id": 18237,
+          "make": "STANFORD CUSTOMS"
+        },
+        {
+          "name": "Swinford Mfg",
+          "id": 16298,
+          "make": "SWINFORD MFG"
+        }
+      ]
+    },
+    "ford|2025": {
+      "make": "Ford",
+      "year": 2025,
+      "source": {
+        "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeYear/make/Ford/modelyear/2025?format=json",
+        "retrievedAt": "2026-10-16T19:51:36.089Z",
+        "status": 200,
+        "contentType": "application/json",
+        "sha256": "531b4dd4ac55b77e325366b2e5193e4244343f421d260d70fe79eed2ff68f5f6",
+        "bytes": 4224
+      },
+      "models": [
+        {
+          "name": "Affordable Aluminum",
+          "id": 4563,
+          "make": "AFFORDABLE ALUMINUM"
+        },
+        {
+          "name": "Affordable Trailers",
+          "id": 26910,
+          "make": "AFFORDABLE TRAILERS"
+        },
+        {
+          "name": "Travel Park",
+          "id": 14916,
+          "make": "ASHFORD MFG"
+        },
+        {
+          "name": "Bradford #1",
+          "id": 22551,
+          "make": "BRADFORD #1"
+        },
+        {
+          "name": "Bradford Built",
+          "id": 18064,
+          "make": "BRADFORD BUILT"
+        },
+        {
+          "name": "CRANFORD RADIATOR INC.",
+          "id": 17910,
+          "make": "CRANFORD RADIATOR INC."
+        },
+        {
+          "name": "Eagle Ford Tanks & Trailers LLC",
+          "id": 4645,
+          "make": "EAGLE FORD TANKS & TRAILERS LLC"
+        },
+        {
+          "name": "Mustang",
+          "id": 1781,
+          "make": "FORD"
+        },
+        {
+          "name": "Escape",
+          "id": 1798,
+          "make": "FORD"
+        },
+        {
+          "name": "Expedition",
+          "id": 1799,
+          "make": "FORD"
+        },
+        {
+          "name": "Explorer",
+          "id": 1800,
+          "make": "FORD"
+        },
+        {
+          "name": "F-150",
+          "id": 1801,
+          "make": "FORD"
+        },
+        {
+          "name": "Ranger",
+          "id": 1803,
+          "make": "FORD"
+        },
+        {
+          "name": "F-250",
+          "id": 1805,
+          "make": "FORD"
+        },
+        {
+          "name": "F-250",
+          "id": 1805,
+          "make": "FORD"
+        },
+        {
+          "name": "F-350",
+          "id": 1806,
+          "make": "FORD"
+        },
+        {
+          "name": "F-350",
+          "id": 1806,
+          "make": "FORD"
+        },
+        {
+          "name": "F-450",
+          "id": 1807,
+          "make": "FORD"
+        },
+        {
+          "name": "F-450",
+          "id": 1807,
+          "make": "FORD"
+        },
+        {
+          "name": "F-550",
+          "id": 1808,
+          "make": "FORD"
+        },
+        {
+          "name": "F-550",
+          "id": 1808,
+          "make": "FORD"
+        },
+        {
+          "name": "F-650",
+          "id": 1809,
+          "make": "FORD"
+        },
+        {
+          "name": "F-750",
+          "id": 1810,
+          "make": "FORD"
+        },
+        {
+          "name": "E-350",
+          "id": 1818,
+          "make": "FORD"
+        },
+        {
+          "name": "E-450",
+          "id": 1819,
+          "make": "FORD"
+        },
+        {
+          "name": "Expedition MAX",
+          "id": 1820,
+          "make": "FORD"
+        },
+        {
+          "name": "Motorhome Chassis",
+          "id": 2737,
+          "make": "FORD"
+        },
+        {
+          "name": "Commercial Chassis",
+          "id": 3410,
+          "make": "FORD"
+        },
+        {
+          "name": "Transit",
+          "id": 3608,
+          "make": "FORD"
+        },
+        {
+          "name": "Transit",
+          "id": 3608,
+          "make": "FORD"
+        },
+        {
+          "name": "Transit",
+          "id": 3608,
+          "make": "FORD"
+        },
+        {
+          "name": "Transit",
+          "id": 3608,
+          "make": "FORD"
+        },
+        {
+          "name": "Bronco",
+          "id": 6825,
+          "make": "FORD"
+        },
+        {
+          "name": "F-600",
+          "id": 13979,
+          "make": "FORD"
+        },
+        {
+          "name": "F-600",
+          "id": 13979,
+          "make": "FORD"
+        },
+        {
+          "name": "'34",
+          "id": 14930,
+          "make": "FORD"
+        },
+        {
+          "name": "Bronco Sport",
+          "id": 27411,
+          "make": "FORD"
+        },
+        {
+          "name": "Mustang Mach-E",
+          "id": 27440,
+          "make": "FORD"
+        },
+        {
+          "name": "Maverick",
+          "id": 28967,
+          "make": "FORD"
+        },
+        {
+          "name": "GT MKII",
+          "id": 31551,
+          "make": "FORD"
+        },
+        {
+          "name": "Mustang GTD",
+          "id": 35300,
+          "make": "FORD"
+        },
+        {
+          "name": "Fords Trailer Sales",
+          "id": 9637,
+          "make": "FORDS TRAILER SALES"
+        },
+        {
+          "name": "Lyford Overland",
+          "id": 36061,
+          "make": "LYFORD OVERLAND"
+        },
+        {
+          "name": "Medford Steel",
+          "id": 23878,
+          "make": "MEDFORD STEEL"
+        },
+        {
+          "name": "Milford Pipe & Supply",
+          "id": 9047,
+          "make": "MILFORD PIPE & SUPPLY"
+        },
+        {
+          "name": "Stafford's Trailers",
+          "id": 23075,
+          "make": "STAFFORD'S TRAILERS"
+        },
+        {
+          "name": "Malibu Sedan",
+          "id": 18235,
+          "make": "STANFORD CUSTOMS"
+        },
+        {
+          "name": "Cordova Sedan",
+          "id": 18236,
+          "make": "STANFORD CUSTOMS"
+        },
+        {
+          "name": "Classic Sedan",
+          "id": 18237,
+          "make": "STANFORD CUSTOMS"
+        },
+        {
+          "name": "Swinford Mfg",
+          "id": 16298,
+          "make": "SWINFORD MFG"
+        }
+      ]
+    },
+    "ford|2026": {
+      "make": "Ford",
+      "year": 2026,
+      "source": {
+        "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeYear/make/Ford/modelyear/2026?format=json",
+        "retrievedAt": "2026-10-16T19:51:37.230Z",
+        "status": 200,
+        "contentType": "application/json",
+        "sha256": "c46c036d2828268945fd04c26b316ea1e4ef525dd4377b01e6fcf7062dcb15a0",
+        "bytes": 4224
+      },
+      "models": [
+        {
+          "name": "Affordable Aluminum",
+          "id": 4563,
+          "make": "AFFORDABLE ALUMINUM"
+        },
+        {
+          "name": "Affordable Trailers",
+          "id": 26910,
+          "make": "AFFORDABLE TRAILERS"
+        },
+        {
+          "name": "Travel Park",
+          "id": 14916,
+          "make": "ASHFORD MFG"
+        },
+        {
+          "name": "Bradford #1",
+          "id": 22551,
+          "make": "BRADFORD #1"
+        },
+        {
+          "name": "Bradford Built",
+          "id": 18064,
+          "make": "BRADFORD BUILT"
+        },
+        {
+          "name": "CRANFORD RADIATOR INC.",
+          "id": 17910,
+          "make": "CRANFORD RADIATOR INC."
+        },
+        {
+          "name": "Eagle Ford Tanks & Trailers LLC",
+          "id": 4645,
+          "make": "EAGLE FORD TANKS & TRAILERS LLC"
+        },
+        {
+          "name": "Mustang",
+          "id": 1781,
+          "make": "FORD"
+        },
+        {
+          "name": "Escape",
+          "id": 1798,
+          "make": "FORD"
+        },
+        {
+          "name": "Expedition",
+          "id": 1799,
+          "make": "FORD"
+        },
+        {
+          "name": "Explorer",
+          "id": 1800,
+          "make": "FORD"
+        },
+        {
+          "name": "F-150",
+          "id": 1801,
+          "make": "FORD"
+        },
+        {
+          "name": "Ranger",
+          "id": 1803,
+          "make": "FORD"
+        },
+        {
+          "name": "F-250",
+          "id": 1805,
+          "make": "FORD"
+        },
+        {
+          "name": "F-250",
+          "id": 1805,
+          "make": "FORD"
+        },
+        {
+          "name": "F-350",
+          "id": 1806,
+          "make": "FORD"
+        },
+        {
+          "name": "F-350",
+          "id": 1806,
+          "make": "FORD"
+        },
+        {
+          "name": "F-450",
+          "id": 1807,
+          "make": "FORD"
+        },
+        {
+          "name": "F-450",
+          "id": 1807,
+          "make": "FORD"
+        },
+        {
+          "name": "F-550",
+          "id": 1808,
+          "make": "FORD"
+        },
+        {
+          "name": "F-550",
+          "id": 1808,
+          "make": "FORD"
+        },
+        {
+          "name": "F-650",
+          "id": 1809,
+          "make": "FORD"
+        },
+        {
+          "name": "F-750",
+          "id": 1810,
+          "make": "FORD"
+        },
+        {
+          "name": "E-350",
+          "id": 1818,
+          "make": "FORD"
+        },
+        {
+          "name": "E-450",
+          "id": 1819,
+          "make": "FORD"
+        },
+        {
+          "name": "Expedition MAX",
+          "id": 1820,
+          "make": "FORD"
+        },
+        {
+          "name": "Motorhome Chassis",
+          "id": 2737,
+          "make": "FORD"
+        },
+        {
+          "name": "Commercial Chassis",
+          "id": 3410,
+          "make": "FORD"
+        },
+        {
+          "name": "Transit",
+          "id": 3608,
+          "make": "FORD"
+        },
+        {
+          "name": "Transit",
+          "id": 3608,
+          "make": "FORD"
+        },
+        {
+          "name": "Transit",
+          "id": 3608,
+          "make": "FORD"
+        },
+        {
+          "name": "Transit",
+          "id": 3608,
+          "make": "FORD"
+        },
+        {
+          "name": "Bronco",
+          "id": 6825,
+          "make": "FORD"
+        },
+        {
+          "name": "F-600",
+          "id": 13979,
+          "make": "FORD"
+        },
+        {
+          "name": "F-600",
+          "id": 13979,
+          "make": "FORD"
+        },
+        {
+          "name": "'34",
+          "id": 14930,
+          "make": "FORD"
+        },
+        {
+          "name": "Bronco Sport",
+          "id": 27411,
+          "make": "FORD"
+        },
+        {
+          "name": "Mustang Mach-E",
+          "id": 27440,
+          "make": "FORD"
+        },
+        {
+          "name": "Maverick",
+          "id": 28967,
+          "make": "FORD"
+        },
+        {
+          "name": "GT MKII",
+          "id": 31551,
+          "make": "FORD"
+        },
+        {
+          "name": "Mustang GTD",
+          "id": 35300,
+          "make": "FORD"
+        },
+        {
+          "name": "Fords Trailer Sales",
+          "id": 9637,
+          "make": "FORDS TRAILER SALES"
+        },
+        {
+          "name": "Lyford Overland",
+          "id": 36061,
+          "make": "LYFORD OVERLAND"
+        },
+        {
+          "name": "Medford Steel",
+          "id": 23878,
+          "make": "MEDFORD STEEL"
+        },
+        {
+          "name": "Milford Pipe & Supply",
+          "id": 9047,
+          "make": "MILFORD PIPE & SUPPLY"
+        },
+        {
+          "name": "Stafford's Trailers",
+          "id": 23075,
+          "make": "STAFFORD'S TRAILERS"
+        },
+        {
+          "name": "Malibu Sedan",
+          "id": 18235,
+          "make": "STANFORD CUSTOMS"
+        },
+        {
+          "name": "Cordova Sedan",
+          "id": 18236,
+          "make": "STANFORD CUSTOMS"
+        },
+        {
+          "name": "Classic Sedan",
+          "id": 18237,
+          "make": "STANFORD CUSTOMS"
+        },
+        {
+          "name": "Swinford Mfg",
+          "id": 16298,
+          "make": "SWINFORD MFG"
+        }
+      ]
+    },
+    "chevrolet|2024": {
+      "make": "Chevrolet",
+      "year": 2024,
+      "source": {
+        "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeYear/make/Chevrolet/modelyear/2024?format=json",
+        "retrievedAt": "2026-10-16T19:51:38.396Z",
+        "status": 200,
+        "contentType": "application/json",
+        "sha256": "9402850b62c3ad6ced99494fef0864d0df29bcc250d61353cb0dfb1d4f1b6a1d",
+        "bytes": 2754
+      },
+      "models": [
+        {
+          "name": "Camaro",
+          "id": 1829,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "Corvette",
+          "id": 1831,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "Malibu",
+          "id": 1834,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "Equinox",
+          "id": 1847,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "Express",
+          "id": 1848,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "Express",
+          "id": 1848,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "Express",
+          "id": 1848,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "Silverado",
+          "id": 1850,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "Silverado",
+          "id": 1850,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "Suburban",
+          "id": 1851,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "Tahoe",
+          "id": 1852,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "Tahoe",
+          "id": 1852,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "Traverse",
+          "id": 1853,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "Colorado",
+          "id": 4086,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "Colorado",
+          "id": 4086,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "Trailblazer",
+          "id": 4548,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "Trax",
+          "id": 10988,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "Blazer",
+          "id": 11502,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "5500HD",
+          "id": 13738,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "4500HD",
+          "id": 13740,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "4500XD",
+          "id": 13741,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "5500XD",
+          "id": 13742,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "6500XD",
+          "id": 24868,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "Silverado HD",
+          "id": 24906,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "Silverado HD",
+          "id": 24906,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "7500XD",
+          "id": 25609,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "Onix",
+          "id": 27445,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "3500HG",
+          "id": 31672,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "4500HG",
+          "id": 31673,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "5500HG",
+          "id": 31674,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "5500XG",
+          "id": 31675,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "Traverse Limited",
+          "id": 33684,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "Suburban HD",
+          "id": 35053,
+          "make": "CHEVROLET"
+        }
+      ]
+    },
+    "chevrolet|2025": {
+      "make": "Chevrolet",
+      "year": 2025,
+      "source": {
+        "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeYear/make/Chevrolet/modelyear/2025?format=json",
+        "retrievedAt": "2026-10-16T19:51:39.419Z",
+        "status": 200,
+        "contentType": "application/json",
+        "sha256": "1a6ad85a38c565cfe0c7c89a8dc7e5aa72b05ae076069766a47e2140cb999b60",
+        "bytes": 2514
+      },
+      "models": [
+        {
+          "name": "Corvette",
+          "id": 1831,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "Malibu",
+          "id": 1834,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "Equinox",
+          "id": 1847,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "Express",
+          "id": 1848,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "Express",
+          "id": 1848,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "Express",
+          "id": 1848,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "Silverado",
+          "id": 1850,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "Silverado",
+          "id": 1850,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "Suburban",
+          "id": 1851,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "Tahoe",
+          "id": 1852,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "Tahoe",
+          "id": 1852,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "Traverse",
+          "id": 1853,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "Traverse",
+          "id": 1853,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "Colorado",
+          "id": 4086,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "Trailblazer",
+          "id": 4548,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "Trax",
+          "id": 10988,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "Blazer",
+          "id": 11502,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "4500HD",
+          "id": 13740,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "4500XD",
+          "id": 13741,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "5500XD",
+          "id": 13742,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "6500XD",
+          "id": 24868,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "Silverado HD",
+          "id": 24906,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "Silverado HD",
+          "id": 24906,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "7500XD",
+          "id": 25609,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "3500HG",
+          "id": 31672,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "4500HG",
+          "id": 31673,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "5500HG",
+          "id": 31674,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "5500XG",
+          "id": 31675,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "BrightDrop",
+          "id": 34740,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "Suburban HD",
+          "id": 35053,
+          "make": "CHEVROLET"
+        }
+      ]
+    },
+    "chevrolet|2026": {
+      "make": "Chevrolet",
+      "year": 2026,
+      "source": {
+        "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeYear/make/Chevrolet/modelyear/2026?format=json",
+        "retrievedAt": "2026-10-16T19:51:40.730Z",
+        "status": 200,
+        "contentType": "application/json",
+        "sha256": "241466039ff98979a290846ee4db0ce212f21dbbd69779a148ee788aae18173e",
+        "bytes": 2436
+      },
+      "models": [
+        {
+          "name": "Corvette",
+          "id": 1831,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "Equinox",
+          "id": 1847,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "Express",
+          "id": 1848,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "Express",
+          "id": 1848,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "Express",
+          "id": 1848,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "Silverado",
+          "id": 1850,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "Silverado",
+          "id": 1850,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "Suburban",
+          "id": 1851,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "Tahoe",
+          "id": 1852,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "Tahoe",
+          "id": 1852,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "Traverse",
+          "id": 1853,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "Traverse",
+          "id": 1853,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "Colorado",
+          "id": 4086,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "Trailblazer",
+          "id": 4548,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "Trax",
+          "id": 10988,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "Blazer",
+          "id": 11502,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "4500HD",
+          "id": 13740,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "4500XD",
+          "id": 13741,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "5500XD",
+          "id": 13742,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "6500XD",
+          "id": 24868,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "Silverado HD",
+          "id": 24906,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "Silverado HD",
+          "id": 24906,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "7500XD",
+          "id": 25609,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "3500HG",
+          "id": 31672,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "4500HG",
+          "id": 31673,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "5500HG",
+          "id": 31674,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "5500XG",
+          "id": 31675,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "BrightDrop",
+          "id": 34740,
+          "make": "CHEVROLET"
+        },
+        {
+          "name": "Suburban HD",
+          "id": 35053,
+          "make": "CHEVROLET"
+        }
+      ]
+    },
+    "hyundai|2024": {
+      "make": "Hyundai",
+      "year": 2024,
+      "source": {
+        "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeYear/make/Hyundai/modelyear/2024?format=json",
+        "retrievedAt": "2026-10-16T19:51:41.812Z",
+        "status": 200,
+        "contentType": "application/json",
+        "sha256": "13b63bb901498a644a948cb7b74c3cb352f60c4f7bd3692652843ec610b4047a",
+        "bytes": 1363
+      },
+      "models": [
+        {
+          "name": "Santa Fe",
+          "id": 2057,
+          "make": "HYUNDAI"
+        },
+        {
+          "name": "Tucson",
+          "id": 2058,
+          "make": "HYUNDAI"
+        },
+        {
+          "name": "Sonata",
+          "id": 2459,
+          "make": "HYUNDAI"
+        },
+        {
+          "name": "Elantra",
+          "id": 2735,
+          "make": "HYUNDAI"
+        },
+        {
+          "name": "Kona",
+          "id": 22249,
+          "make": "HYUNDAI"
+        },
+        {
+          "name": "Nexo",
+          "id": 25183,
+          "make": "HYUNDAI"
+        },
+        {
+          "name": "Palisade",
+          "id": 25847,
+          "make": "HYUNDAI"
+        },
+        {
+          "name": "Venue",
+          "id": 26441,
+          "make": "HYUNDAI"
+        },
+        {
+          "name": "Santa Cruz",
+          "id": 28816,
+          "make": "HYUNDAI"
+        },
+        {
+          "name": "Ioniq 5",
+          "id": 28983,
+          "make": "HYUNDAI"
+        },
+        {
+          "name": "Elantra N",
+          "id": 29258,
+          "make": "HYUNDAI"
+        },
+        {
+          "name": "Xcient",
+          "id": 30756,
+          "make": "HYUNDAI"
+        },
+        {
+          "name": "Ioniq 6",
+          "id": 31360,
+          "make": "HYUNDAI"
+        },
+        {
+          "name": "Hyundai Steel Industries, Inc.",
+          "id": 12435,
+          "make": "HYUNDAI STEEL INDUSTRIES, INC."
+        },
+        {
+          "name": "Hyundai Translead Trailers",
+          "id": 11496,
+          "make": "HYUNDAI TRANSLEAD TRAILERS"
+        }
+      ]
+    },
+    "hyundai|2025": {
+      "make": "Hyundai",
+      "year": 2025,
+      "source": {
+        "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeYear/make/Hyundai/modelyear/2025?format=json",
+        "retrievedAt": "2026-10-16T19:51:42.797Z",
+        "status": 200,
+        "contentType": "application/json",
+        "sha256": "dc4c34b958bd23dbbc0d77723e5750fb01c869cf6f5759a53451ccd2974490c8",
+        "bytes": 1443
+      },
+      "models": [
+        {
+          "name": "Santa Fe",
+          "id": 2057,
+          "make": "HYUNDAI"
+        },
+        {
+          "name": "Tucson",
+          "id": 2058,
+          "make": "HYUNDAI"
+        },
+        {
+          "name": "Sonata",
+          "id": 2459,
+          "make": "HYUNDAI"
+        },
+        {
+          "name": "Elantra",
+          "id": 2735,
+          "make": "HYUNDAI"
+        },
+        {
+          "name": "Kona",
+          "id": 22249,
+          "make": "HYUNDAI"
+        },
+        {
+          "name": "Nexo",
+          "id": 25183,
+          "make": "HYUNDAI"
+        },
+        {
+          "name": "Palisade",
+          "id": 25847,
+          "make": "HYUNDAI"
+        },
+        {
+          "name": "Venue",
+          "id": 26441,
+          "make": "HYUNDAI"
+        },
+        {
+          "name": "Santa Cruz",
+          "id": 28816,
+          "make": "HYUNDAI"
+        },
+        {
+          "name": "Ioniq 5",
+          "id": 28983,
+          "make": "HYUNDAI"
+        },
+        {
+          "name": "Elantra N",
+          "id": 29258,
+          "make": "HYUNDAI"
+        },
+        {
+          "name": "Xcient",
+          "id": 30756,
+          "make": "HYUNDAI"
+        },
+        {
+          "name": "Ioniq 6",
+          "id": 31360,
+          "make": "HYUNDAI"
+        },
+        {
+          "name": "Ioniq 5 N",
+          "id": 33664,
+          "make": "HYUNDAI"
+        },
+        {
+          "name": "Hyundai Steel Industries, Inc.",
+          "id": 12435,
+          "make": "HYUNDAI STEEL INDUSTRIES, INC."
+        },
+        {
+          "name": "Hyundai Translead Trailers",
+          "id": 11496,
+          "make": "HYUNDAI TRANSLEAD TRAILERS"
+        }
+      ]
+    },
+    "hyundai|2026": {
+      "make": "Hyundai",
+      "year": 2026,
+      "source": {
+        "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeYear/make/Hyundai/modelyear/2026?format=json",
+        "retrievedAt": "2026-10-16T19:51:43.935Z",
+        "status": 200,
+        "contentType": "application/json",
+        "sha256": "7b3659e4c82207bb358a18101950b2404b18bd2ebfabb309d7e65db2ab87a9b7",
+        "bytes": 1601
+      },
+      "models": [
+        {
+          "name": "Santa Fe",
+          "id": 2057,
+          "make": "HYUNDAI"
+        },
+        {
+          "name": "Tucson",
+          "id": 2058,
+          "make": "HYUNDAI"
+        },
+        {
+          "name": "Sonata",
+          "id": 2459,
+          "make": "HYUNDAI"
+        },
+        {
+          "name": "Elantra",
+          "id": 2735,
+          "make": "HYUNDAI"
+        },
+        {
+          "name": "Kona",
+          "id": 22249,
+          "make": "HYUNDAI"
+        },
+        {
+          "name": "Nexo",
+          "id": 25183,
+          "make": "HYUNDAI"
+        },
+        {
+          "name": "Palisade",
+          "id": 25847,
+          "make": "HYUNDAI"
+        },
+        {
+          "name": "Venue",
+          "id": 26441,
+          "make": "HYUNDAI"
+        },
+        {
+          "name": "Santa Cruz",
+          "id": 28816,
+          "make": "HYUNDAI"
+        },
+        {
+          "name": "Ioniq 5",
+          "id": 28983,
+          "make": "HYUNDAI"
+        },
+        {
+          "name": "Elantra N",
+          "id": 29258,
+          "make": "HYUNDAI"
+        },
+        {
+          "name": "Xcient",
+          "id": 30756,
+          "make": "HYUNDAI"
+        },
+        {
+          "name": "Ioniq 6",
+          "id": 31360,
+          "make": "HYUNDAI"
+        },
+        {
+          "name": "Ioniq 5 N",
+          "id": 33664,
+          "make": "HYUNDAI"
+        },
+        {
+          "name": "Ioniq 9",
+          "id": 35749,
+          "make": "HYUNDAI"
+        },
+        {
+          "name": "Ioniq 6 N",
+          "id": 36896,
+          "make": "HYUNDAI"
+        },
+        {
+          "name": "Hyundai Steel Industries, Inc.",
+          "id": 12435,
+          "make": "HYUNDAI STEEL INDUSTRIES, INC."
+        },
+        {
+          "name": "Hyundai Translead Trailers",
+          "id": 11496,
+          "make": "HYUNDAI TRANSLEAD TRAILERS"
+        }
+      ]
+    },
+    "kia|2024": {
+      "make": "Kia",
+      "year": 2024,
+      "source": {
+        "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeYear/make/Kia/modelyear/2024?format=json",
+        "retrievedAt": "2026-10-16T19:51:45.152Z",
+        "status": 200,
+        "contentType": "application/json",
+        "sha256": "642abc3ef494dcb925d21e8f510d2f71a66a836a481571b7cfcecc2c022fd47f",
+        "bytes": 1078
+      },
+      "models": [
+        {
+          "name": "Soul",
+          "id": 2460,
+          "make": "KIA"
+        },
+        {
+          "name": "Forte",
+          "id": 2462,
+          "make": "KIA"
+        },
+        {
+          "name": "Sorento",
+          "id": 2769,
+          "make": "KIA"
+        },
+        {
+          "name": "Sportage",
+          "id": 2770,
+          "make": "KIA"
+        },
+        {
+          "name": "Niro",
+          "id": 15705,
+          "make": "KIA"
+        },
+        {
+          "name": "Telluride",
+          "id": 25756,
+          "make": "KIA"
+        },
+        {
+          "name": "Seltos",
+          "id": 26900,
+          "make": "KIA"
+        },
+        {
+          "name": "K5",
+          "id": 27527,
+          "make": "KIA"
+        },
+        {
+          "name": "Carnival",
+          "id": 28294,
+          "make": "KIA"
+        },
+        {
+          "name": "EV6",
+          "id": 29462,
+          "make": "KIA"
+        },
+        {
+          "name": "EV9",
+          "id": 32587,
+          "make": "KIA"
+        },
+        {
+          "name": "Miami",
+          "id": 15271,
+          "make": "MGS GRAND SPORT (MARDIKIAN)"
+        },
+        {
+          "name": "Tekiar",
+          "id": 33008,
+          "make": "TEKIAR"
+        }
+      ]
+    },
+    "kia|2025": {
+      "make": "Kia",
+      "year": 2025,
+      "source": {
+        "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeYear/make/Kia/modelyear/2025?format=json",
+        "retrievedAt": "2026-10-16T19:51:46.305Z",
+        "status": 200,
+        "contentType": "application/json",
+        "sha256": "fd6bc056e966130d80c74ba18f8bc9fc4946324c6515921f4302cad41a8c08dd",
+        "bytes": 1076
+      },
+      "models": [
+        {
+          "name": "Soul",
+          "id": 2460,
+          "make": "KIA"
+        },
+        {
+          "name": "Sorento",
+          "id": 2769,
+          "make": "KIA"
+        },
+        {
+          "name": "Sportage",
+          "id": 2770,
+          "make": "KIA"
+        },
+        {
+          "name": "Niro",
+          "id": 15705,
+          "make": "KIA"
+        },
+        {
+          "name": "Telluride",
+          "id": 25756,
+          "make": "KIA"
+        },
+        {
+          "name": "Seltos",
+          "id": 26900,
+          "make": "KIA"
+        },
+        {
+          "name": "K5",
+          "id": 27527,
+          "make": "KIA"
+        },
+        {
+          "name": "Carnival",
+          "id": 28294,
+          "make": "KIA"
+        },
+        {
+          "name": "EV6",
+          "id": 29462,
+          "make": "KIA"
+        },
+        {
+          "name": "EV9",
+          "id": 32587,
+          "make": "KIA"
+        },
+        {
+          "name": "K4",
+          "id": 34783,
+          "make": "KIA"
+        },
+        {
+          "name": "Miami",
+          "id": 15271,
+          "make": "MGS GRAND SPORT (MARDIKIAN)"
+        },
+        {
+          "name": "Tekiar",
+          "id": 33008,
+          "make": "TEKIAR"
+        }
+      ]
+    },
+    "kia|2026": {
+      "make": "Kia",
+      "year": 2026,
+      "source": {
+        "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeYear/make/Kia/modelyear/2026?format=json",
+        "retrievedAt": "2026-10-16T19:51:47.197Z",
+        "status": 200,
+        "contentType": "application/json",
+        "sha256": "8c4826cc1b107a816904c5fa015b333258c5245e6f9a1b21da09a2208a3ee611",
+        "bytes": 1006
+      },
+      "models": [
+        {
+          "name": "Sorento",
+          "id": 2769,
+          "make": "KIA"
+        },
+        {
+          "name": "Sportage",
+          "id": 2770,
+          "make": "KIA"
+        },
+        {
+          "name": "Niro",
+          "id": 15705,
+          "make": "KIA"
+        },
+        {
+          "name": "Telluride",
+          "id": 25756,
+          "make": "KIA"
+        },
+        {
+          "name": "Seltos",
+          "id": 26900,
+          "make": "KIA"
+        },
+        {
+          "name": "K5",
+          "id": 27527,
+          "make": "KIA"
+        },
+        {
+          "name": "Carnival",
+          "id": 28294,
+          "make": "KIA"
+        },
+        {
+          "name": "EV6",
+          "id": 29462,
+          "make": "KIA"
+        },
+        {
+          "name": "EV9",
+          "id": 32587,
+          "make": "KIA"
+        },
+        {
+          "name": "K4",
+          "id": 34783,
+          "make": "KIA"
+        },
+        {
+          "name": "Miami",
+          "id": 15271,
+          "make": "MGS GRAND SPORT (MARDIKIAN)"
+        },
+        {
+          "name": "Tekiar",
+          "id": 33008,
+          "make": "TEKIAR"
+        }
+      ]
+    },
+    "nissan|2024": {
+      "make": "Nissan",
+      "year": 2024,
+      "source": {
+        "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeYear/make/Nissan/modelyear/2024?format=json",
+        "retrievedAt": "2026-10-16T19:51:48.362Z",
+        "status": 200,
+        "contentType": "application/json",
+        "sha256": "099a19ac76dd9d0e8331cb8fdd3d5e0b93dcd0136dabfdb32a51fd986d7b7b28",
+        "bytes": 1250
+      },
+      "models": [
+        {
+          "name": "GT-R",
+          "id": 1890,
+          "make": "NISSAN"
+        },
+        {
+          "name": "Versa",
+          "id": 1894,
+          "make": "NISSAN"
+        },
+        {
+          "name": "Altima",
+          "id": 1904,
+          "make": "NISSAN"
+        },
+        {
+          "name": "Leaf",
+          "id": 1905,
+          "make": "NISSAN"
+        },
+        {
+          "name": "Sentra",
+          "id": 1907,
+          "make": "NISSAN"
+        },
+        {
+          "name": "Pathfinder",
+          "id": 1911,
+          "make": "NISSAN"
+        },
+        {
+          "name": "Rogue",
+          "id": 1913,
+          "make": "NISSAN"
+        },
+        {
+          "name": "Murano",
+          "id": 1914,
+          "make": "NISSAN"
+        },
+        {
+          "name": "Armada",
+          "id": 1915,
+          "make": "NISSAN"
+        },
+        {
+          "name": "NV200",
+          "id": 1918,
+          "make": "NISSAN"
+        },
+        {
+          "name": "Frontier",
+          "id": 1919,
+          "make": "NISSAN"
+        },
+        {
+          "name": "Titan",
+          "id": 1920,
+          "make": "NISSAN"
+        },
+        {
+          "name": "Kicks",
+          "id": 22791,
+          "make": "NISSAN"
+        },
+        {
+          "name": "Nissan Z",
+          "id": 30039,
+          "make": "NISSAN"
+        },
+        {
+          "name": "Ariya Hatchback",
+          "id": 30884,
+          "make": "NISSAN"
+        }
+      ]
+    },
+    "nissan|2025": {
+      "make": "Nissan",
+      "year": 2025,
+      "source": {
+        "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeYear/make/Nissan/modelyear/2025?format=json",
+        "retrievedAt": "2026-10-16T19:51:49.504Z",
+        "status": 200,
+        "contentType": "application/json",
+        "sha256": "952172ec6470be47999e3a03e82510598e4705b61c37c77acee99a30434b9b7b",
+        "bytes": 1107
+      },
+      "models": [
+        {
+          "name": "Versa",
+          "id": 1894,
+          "make": "NISSAN"
+        },
+        {
+          "name": "Altima",
+          "id": 1904,
+          "make": "NISSAN"
+        },
+        {
+          "name": "Leaf",
+          "id": 1905,
+          "make": "NISSAN"
+        },
+        {
+          "name": "Sentra",
+          "id": 1907,
+          "make": "NISSAN"
+        },
+        {
+          "name": "Pathfinder",
+          "id": 1911,
+          "make": "NISSAN"
+        },
+        {
+          "name": "Rogue",
+          "id": 1913,
+          "make": "NISSAN"
+        },
+        {
+          "name": "Murano",
+          "id": 1914,
+          "make": "NISSAN"
+        },
+        {
+          "name": "Armada",
+          "id": 1915,
+          "make": "NISSAN"
+        },
+        {
+          "name": "Frontier",
+          "id": 1919,
+          "make": "NISSAN"
+        },
+        {
+          "name": "Nissan Z",
+          "id": 30039,
+          "make": "NISSAN"
+        },
+        {
+          "name": "Kicks Play",
+          "id": 35324,
+          "make": "NISSAN"
+        },
+        {
+          "name": "Kicks MPV",
+          "id": 35389,
+          "make": "NISSAN"
+        },
+        {
+          "name": "Ariya MPV",
+          "id": 36667,
+          "make": "NISSAN"
+        }
+      ]
+    },
+    "nissan|2026": {
+      "make": "Nissan",
+      "year": 2026,
+      "source": {
+        "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeYear/make/Nissan/modelyear/2026?format=json",
+        "retrievedAt": "2026-10-16T19:51:50.531Z",
+        "status": 200,
+        "contentType": "application/json",
+        "sha256": "c045e6985f1d64a41a6c686208bcf3b40cd7509be10b41fe2250af214f9082ff",
+        "bytes": 953
+      },
+      "models": [
+        {
+          "name": "Altima",
+          "id": 1904,
+          "make": "NISSAN"
+        },
+        {
+          "name": "Leaf",
+          "id": 1905,
+          "make": "NISSAN"
+        },
+        {
+          "name": "Sentra",
+          "id": 1907,
+          "make": "NISSAN"
+        },
+        {
+          "name": "Pathfinder",
+          "id": 1911,
+          "make": "NISSAN"
+        },
+        {
+          "name": "Rogue",
+          "id": 1913,
+          "make": "NISSAN"
+        },
+        {
+          "name": "Murano",
+          "id": 1914,
+          "make": "NISSAN"
+        },
+        {
+          "name": "Armada",
+          "id": 1915,
+          "make": "NISSAN"
+        },
+        {
+          "name": "Frontier",
+          "id": 1919,
+          "make": "NISSAN"
+        },
+        {
+          "name": "Nissan Z",
+          "id": 30039,
+          "make": "NISSAN"
+        },
+        {
+          "name": "Kicks MPV",
+          "id": 35389,
+          "make": "NISSAN"
+        },
+        {
+          "name": "Ariya MPV",
+          "id": 36667,
+          "make": "NISSAN"
+        }
+      ]
+    },
+    "mazda|2024": {
+      "make": "Mazda",
+      "year": 2024,
+      "source": {
+        "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeYear/make/Mazda/modelyear/2024?format=json",
+        "retrievedAt": "2026-10-16T19:51:52.151Z",
+        "status": 200,
+        "contentType": "application/json",
+        "sha256": "4cd5e4ed12cf7ef5fcaf8d74523a96fab3469b439a80cd350a345aba4266e62e",
+        "bytes": 552
+      },
+      "models": [
+        {
+          "name": "MX-5",
+          "id": 2072,
+          "make": "MAZDA"
+        },
+        {
+          "name": "Mazda3",
+          "id": 2074,
+          "make": "MAZDA"
+        },
+        {
+          "name": "CX-5",
+          "id": 2369,
+          "make": "MAZDA"
+        },
+        {
+          "name": "CX-30",
+          "id": 26914,
+          "make": "MAZDA"
+        },
+        {
+          "name": "CX-50",
+          "id": 30046,
+          "make": "MAZDA"
+        },
+        {
+          "name": "CX-90",
+          "id": 31832,
+          "make": "MAZDA"
+        }
+      ]
+    },
+    "mazda|2025": {
+      "make": "Mazda",
+      "year": 2025,
+      "source": {
+        "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeYear/make/Mazda/modelyear/2025?format=json",
+        "retrievedAt": "2026-10-16T19:51:52.764Z",
+        "status": 200,
+        "contentType": "application/json",
+        "sha256": "743f0f3f3dac035b7c9da0dc9e9af7548a0432ee8122b09754bfa4da00722fe5",
+        "bytes": 626
+      },
+      "models": [
+        {
+          "name": "MX-5",
+          "id": 2072,
+          "make": "MAZDA"
+        },
+        {
+          "name": "Mazda3",
+          "id": 2074,
+          "make": "MAZDA"
+        },
+        {
+          "name": "CX-5",
+          "id": 2369,
+          "make": "MAZDA"
+        },
+        {
+          "name": "CX-30",
+          "id": 26914,
+          "make": "MAZDA"
+        },
+        {
+          "name": "CX-50",
+          "id": 30046,
+          "make": "MAZDA"
+        },
+        {
+          "name": "CX-90",
+          "id": 31832,
+          "make": "MAZDA"
+        },
+        {
+          "name": "CX-70",
+          "id": 33867,
+          "make": "MAZDA"
+        }
+      ]
+    },
+    "mazda|2026": {
+      "make": "Mazda",
+      "year": 2026,
+      "source": {
+        "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeYear/make/Mazda/modelyear/2026?format=json",
+        "retrievedAt": "2026-10-16T19:51:54.191Z",
+        "status": 200,
+        "contentType": "application/json",
+        "sha256": "33082f72ab617841a5a7ba1ed116d1e5128d54ea0347c478fc44cbaf25d080b6",
+        "bytes": 626
+      },
+      "models": [
+        {
+          "name": "MX-5",
+          "id": 2072,
+          "make": "MAZDA"
+        },
+        {
+          "name": "Mazda3",
+          "id": 2074,
+          "make": "MAZDA"
+        },
+        {
+          "name": "CX-5",
+          "id": 2369,
+          "make": "MAZDA"
+        },
+        {
+          "name": "CX-30",
+          "id": 26914,
+          "make": "MAZDA"
+        },
+        {
+          "name": "CX-50",
+          "id": 30046,
+          "make": "MAZDA"
+        },
+        {
+          "name": "CX-90",
+          "id": 31832,
+          "make": "MAZDA"
+        },
+        {
+          "name": "CX-70",
+          "id": 33867,
+          "make": "MAZDA"
+        }
+      ]
+    },
+    "subaru|2024": {
+      "make": "Subaru",
+      "year": 2024,
+      "source": {
+        "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeYear/make/Subaru/modelyear/2024?format=json",
+        "retrievedAt": "2026-10-16T19:51:54.994Z",
+        "status": 200,
+        "contentType": "application/json",
+        "sha256": "7363129bb04f70c8aa4b21a75cfc3ca86756bba1c43d800cea31c7543665896c",
+        "bytes": 794
+      },
+      "models": [
+        {
+          "name": "Legacy",
+          "id": 2232,
+          "make": "SUBARU"
+        },
+        {
+          "name": "Outback",
+          "id": 2233,
+          "make": "SUBARU"
+        },
+        {
+          "name": "Forester",
+          "id": 2234,
+          "make": "SUBARU"
+        },
+        {
+          "name": "Impreza",
+          "id": 2235,
+          "make": "SUBARU"
+        },
+        {
+          "name": "WRX",
+          "id": 2237,
+          "make": "SUBARU"
+        },
+        {
+          "name": "BRZ",
+          "id": 2238,
+          "make": "SUBARU"
+        },
+        {
+          "name": "Crosstrek",
+          "id": 13580,
+          "make": "SUBARU"
+        },
+        {
+          "name": "Ascent",
+          "id": 24836,
+          "make": "SUBARU"
+        },
+        {
+          "name": "Solterra",
+          "id": 30191,
+          "make": "SUBARU"
+        }
+      ]
+    },
+    "subaru|2025": {
+      "make": "Subaru",
+      "year": 2025,
+      "source": {
+        "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeYear/make/Subaru/modelyear/2025?format=json",
+        "retrievedAt": "2026-10-16T19:51:56.088Z",
+        "status": 200,
+        "contentType": "application/json",
+        "sha256": "40b1ff44038e1371e9d04f30f6168abd82ce36c5d6da50ef22401afda0e84c8a",
+        "bytes": 794
+      },
+      "models": [
+        {
+          "name": "Legacy",
+          "id": 2232,
+          "make": "SUBARU"
+        },
+        {
+          "name": "Outback",
+          "id": 2233,
+          "make": "SUBARU"
+        },
+        {
+          "name": "Forester",
+          "id": 2234,
+          "make": "SUBARU"
+        },
+        {
+          "name": "Impreza",
+          "id": 2235,
+          "make": "SUBARU"
+        },
+        {
+          "name": "WRX",
+          "id": 2237,
+          "make": "SUBARU"
+        },
+        {
+          "name": "BRZ",
+          "id": 2238,
+          "make": "SUBARU"
+        },
+        {
+          "name": "Crosstrek",
+          "id": 13580,
+          "make": "SUBARU"
+        },
+        {
+          "name": "Ascent",
+          "id": 24836,
+          "make": "SUBARU"
+        },
+        {
+          "name": "Solterra",
+          "id": 30191,
+          "make": "SUBARU"
+        }
+      ]
+    },
+    "subaru|2026": {
+      "make": "Subaru",
+      "year": 2026,
+      "source": {
+        "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeYear/make/Subaru/modelyear/2026?format=json",
+        "retrievedAt": "2026-10-16T19:51:57.207Z",
+        "status": 200,
+        "contentType": "application/json",
+        "sha256": "d86177b96a4f84db2226cdf540b8e5052b3976771d2ef45f8cd01acae8c142c0",
+        "bytes": 880
+      },
+      "models": [
+        {
+          "name": "Outback",
+          "id": 2233,
+          "make": "SUBARU"
+        },
+        {
+          "name": "Forester",
+          "id": 2234,
+          "make": "SUBARU"
+        },
+        {
+          "name": "Impreza",
+          "id": 2235,
+          "make": "SUBARU"
+        },
+        {
+          "name": "WRX",
+          "id": 2237,
+          "make": "SUBARU"
+        },
+        {
+          "name": "BRZ",
+          "id": 2238,
+          "make": "SUBARU"
+        },
+        {
+          "name": "Crosstrek",
+          "id": 13580,
+          "make": "SUBARU"
+        },
+        {
+          "name": "Ascent",
+          "id": 24836,
+          "make": "SUBARU"
+        },
+        {
+          "name": "Solterra",
+          "id": 30191,
+          "make": "SUBARU"
+        },
+        {
+          "name": "Trailseeker",
+          "id": 37354,
+          "make": "SUBARU"
+        },
+        {
+          "name": "Uncharted",
+          "id": 37418,
+          "make": "SUBARU"
+        }
+      ]
+    },
+    "tesla|2024": {
+      "make": "Tesla",
+      "year": 2024,
+      "source": {
+        "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeYear/make/Tesla/modelyear/2024?format=json",
+        "retrievedAt": "2026-10-16T19:51:58.320Z",
+        "status": 200,
+        "contentType": "application/json",
+        "sha256": "60c81489df39e11a1d2e93e14ebc9a81aa1ff8d8997a41c71e9bfabb6921659d",
+        "bytes": 567
+      },
+      "models": [
+        {
+          "name": "Model S",
+          "id": 1685,
+          "make": "TESLA"
+        },
+        {
+          "name": "Model X",
+          "id": 10199,
+          "make": "TESLA"
+        },
+        {
+          "name": "Model 3",
+          "id": 17834,
+          "make": "TESLA"
+        },
+        {
+          "name": "Model Y",
+          "id": 27027,
+          "make": "TESLA"
+        },
+        {
+          "name": "Semi",
+          "id": 30834,
+          "make": "TESLA"
+        },
+        {
+          "name": "Cybertruck",
+          "id": 33135,
+          "make": "TESLA"
+        }
+      ]
+    },
+    "tesla|2025": {
+      "make": "Tesla",
+      "year": 2025,
+      "source": {
+        "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeYear/make/Tesla/modelyear/2025?format=json",
+        "retrievedAt": "2026-10-16T19:51:59.454Z",
+        "status": 200,
+        "contentType": "application/json",
+        "sha256": "fdb7c555c9e0e089d9248757acee4a46290a073a6c67c7abd8f2fc113336f352",
+        "bytes": 567
+      },
+      "models": [
+        {
+          "name": "Model S",
+          "id": 1685,
+          "make": "TESLA"
+        },
+        {
+          "name": "Model X",
+          "id": 10199,
+          "make": "TESLA"
+        },
+        {
+          "name": "Model 3",
+          "id": 17834,
+          "make": "TESLA"
+        },
+        {
+          "name": "Model Y",
+          "id": 27027,
+          "make": "TESLA"
+        },
+        {
+          "name": "Semi",
+          "id": 30834,
+          "make": "TESLA"
+        },
+        {
+          "name": "Cybertruck",
+          "id": 33135,
+          "make": "TESLA"
+        }
+      ]
+    },
+    "tesla|2026": {
+      "make": "Tesla",
+      "year": 2026,
+      "source": {
+        "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeYear/make/Tesla/modelyear/2026?format=json",
+        "retrievedAt": "2026-10-16T19:52:00.553Z",
+        "status": 200,
+        "contentType": "application/json",
+        "sha256": "23d4af4ea9f9463c9fc02ee920142be4afdd0dffce2d14ee1ab868ff98cef145",
+        "bytes": 644
+      },
+      "models": [
+        {
+          "name": "Model S",
+          "id": 1685,
+          "make": "TESLA"
+        },
+        {
+          "name": "Model X",
+          "id": 10199,
+          "make": "TESLA"
+        },
+        {
+          "name": "Model 3",
+          "id": 17834,
+          "make": "TESLA"
+        },
+        {
+          "name": "Model Y",
+          "id": 27027,
+          "make": "TESLA"
+        },
+        {
+          "name": "Semi",
+          "id": 30834,
+          "make": "TESLA"
+        },
+        {
+          "name": "Cybertruck",
+          "id": 33135,
+          "make": "TESLA"
+        },
+        {
+          "name": "Cybercab",
+          "id": 38037,
+          "make": "TESLA"
+        }
+      ]
+    },
+    "lexus|2024": {
+      "make": "Lexus",
+      "year": 2024,
+      "source": {
+        "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeYear/make/Lexus/modelyear/2024?format=json",
+        "retrievedAt": "2026-10-16T19:55:04.291Z",
+        "status": 200,
+        "contentType": "application/json",
+        "sha256": "ddca4e297192f63fde34beb7ff13c0293f00e6e44e773f0d4ec52c0948c22696",
+        "bytes": 957
+      },
+      "models": [
+        {
+          "name": "LS",
+          "id": 2182,
+          "make": "LEXUS"
+        },
+        {
+          "name": "IS",
+          "id": 2184,
+          "make": "LEXUS"
+        },
+        {
+          "name": "LX",
+          "id": 2212,
+          "make": "LEXUS"
+        },
+        {
+          "name": "RX",
+          "id": 2214,
+          "make": "LEXUS"
+        },
+        {
+          "name": "GX",
+          "id": 2215,
+          "make": "LEXUS"
+        },
+        {
+          "name": "ES",
+          "id": 2475,
+          "make": "LEXUS"
+        },
+        {
+          "name": "RC",
+          "id": 3406,
+          "make": "LEXUS"
+        },
+        {
+          "name": "NX",
+          "id": 3653,
+          "make": "LEXUS"
+        },
+        {
+          "name": "LC",
+          "id": 24941,
+          "make": "LEXUS"
+        },
+        {
+          "name": "UX",
+          "id": 24984,
+          "make": "LEXUS"
+        },
+        {
+          "name": "RZ",
+          "id": 31443,
+          "make": "LEXUS"
+        },
+        {
+          "name": "TX",
+          "id": 32636,
+          "make": "LEXUS"
+        }
+      ]
+    },
+    "lexus|2025": {
+      "make": "Lexus",
+      "year": 2025,
+      "source": {
+        "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeYear/make/Lexus/modelyear/2025?format=json",
+        "retrievedAt": "2026-10-16T19:55:05.275Z",
+        "status": 200,
+        "contentType": "application/json",
+        "sha256": "46cb905da89ba66c2dbe6d1b7f5a72d903dbd3b3d65066875558f15aebc32cd7",
+        "bytes": 957
+      },
+      "models": [
+        {
+          "name": "LS",
+          "id": 2182,
+          "make": "LEXUS"
+        },
+        {
+          "name": "IS",
+          "id": 2184,
+          "make": "LEXUS"
+        },
+        {
+          "name": "LX",
+          "id": 2212,
+          "make": "LEXUS"
+        },
+        {
+          "name": "RX",
+          "id": 2214,
+          "make": "LEXUS"
+        },
+        {
+          "name": "GX",
+          "id": 2215,
+          "make": "LEXUS"
+        },
+        {
+          "name": "ES",
+          "id": 2475,
+          "make": "LEXUS"
+        },
+        {
+          "name": "RC",
+          "id": 3406,
+          "make": "LEXUS"
+        },
+        {
+          "name": "NX",
+          "id": 3653,
+          "make": "LEXUS"
+        },
+        {
+          "name": "LC",
+          "id": 24941,
+          "make": "LEXUS"
+        },
+        {
+          "name": "UX",
+          "id": 24984,
+          "make": "LEXUS"
+        },
+        {
+          "name": "RZ",
+          "id": 31443,
+          "make": "LEXUS"
+        },
+        {
+          "name": "TX",
+          "id": 32636,
+          "make": "LEXUS"
+        }
+      ]
+    },
+    "lexus|2026": {
+      "make": "Lexus",
+      "year": 2026,
+      "source": {
+        "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeYear/make/Lexus/modelyear/2026?format=json",
+        "retrievedAt": "2026-10-16T19:55:06.445Z",
+        "status": 200,
+        "contentType": "application/json",
+        "sha256": "7e41f1274293a448d9bfe056ce840dcddb101cb43d3af00d07eacbc10878f94c",
+        "bytes": 887
+      },
+      "models": [
+        {
+          "name": "LS",
+          "id": 2182,
+          "make": "LEXUS"
+        },
+        {
+          "name": "IS",
+          "id": 2184,
+          "make": "LEXUS"
+        },
+        {
+          "name": "LX",
+          "id": 2212,
+          "make": "LEXUS"
+        },
+        {
+          "name": "RX",
+          "id": 2214,
+          "make": "LEXUS"
+        },
+        {
+          "name": "GX",
+          "id": 2215,
+          "make": "LEXUS"
+        },
+        {
+          "name": "ES",
+          "id": 2475,
+          "make": "LEXUS"
+        },
+        {
+          "name": "NX",
+          "id": 3653,
+          "make": "LEXUS"
+        },
+        {
+          "name": "LC",
+          "id": 24941,
+          "make": "LEXUS"
+        },
+        {
+          "name": "UX",
+          "id": 24984,
+          "make": "LEXUS"
+        },
+        {
+          "name": "RZ",
+          "id": 31443,
+          "make": "LEXUS"
+        },
+        {
+          "name": "TX",
+          "id": 32636,
+          "make": "LEXUS"
+        }
+      ]
+    },
+    "volkswagen|2024": {
+      "make": "Volkswagen",
+      "year": 2024,
+      "source": {
+        "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeYear/make/Volkswagen/modelyear/2024?format=json",
+        "retrievedAt": "2026-10-16T19:55:07.503Z",
+        "status": 200,
+        "contentType": "application/json",
+        "sha256": "67dc9c262a63aa6f562fc8d3d4b4a9ca5a0c8d6146127bbe942f3ea9f22a1df9",
+        "bytes": 845
+      },
+      "models": [
+        {
+          "name": "Jetta",
+          "id": 3137,
+          "make": "VOLKSWAGEN"
+        },
+        {
+          "name": "Tiguan",
+          "id": 8151,
+          "make": "VOLKSWAGEN"
+        },
+        {
+          "name": "Golf GTI",
+          "id": 13670,
+          "make": "VOLKSWAGEN"
+        },
+        {
+          "name": "Golf R",
+          "id": 13844,
+          "make": "VOLKSWAGEN"
+        },
+        {
+          "name": "Atlas",
+          "id": 17618,
+          "make": "VOLKSWAGEN"
+        },
+        {
+          "name": "Atlas Cross Sport",
+          "id": 27124,
+          "make": "VOLKSWAGEN"
+        },
+        {
+          "name": "ID.4",
+          "id": 28219,
+          "make": "VOLKSWAGEN"
+        },
+        {
+          "name": "Taos",
+          "id": 28652,
+          "make": "VOLKSWAGEN"
+        },
+        {
+          "name": "Jetta GLI",
+          "id": 29681,
+          "make": "VOLKSWAGEN"
+        }
+      ]
+    },
+    "volkswagen|2025": {
+      "make": "Volkswagen",
+      "year": 2025,
+      "source": {
+        "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeYear/make/Volkswagen/modelyear/2025?format=json",
+        "retrievedAt": "2026-10-16T19:55:08.631Z",
+        "status": 200,
+        "contentType": "application/json",
+        "sha256": "a0ac96a52cb0f5b587c33831b217cdadea3cace50228360236327ab080eeeac3",
+        "bytes": 922
+      },
+      "models": [
+        {
+          "name": "Jetta",
+          "id": 3137,
+          "make": "VOLKSWAGEN"
+        },
+        {
+          "name": "GTI",
+          "id": 3140,
+          "make": "VOLKSWAGEN"
+        },
+        {
+          "name": "Tiguan",
+          "id": 8151,
+          "make": "VOLKSWAGEN"
+        },
+        {
+          "name": "Golf R",
+          "id": 13844,
+          "make": "VOLKSWAGEN"
+        },
+        {
+          "name": "Atlas",
+          "id": 17618,
+          "make": "VOLKSWAGEN"
+        },
+        {
+          "name": "Atlas Cross Sport",
+          "id": 27124,
+          "make": "VOLKSWAGEN"
+        },
+        {
+          "name": "ID.4",
+          "id": 28219,
+          "make": "VOLKSWAGEN"
+        },
+        {
+          "name": "Taos",
+          "id": 28652,
+          "make": "VOLKSWAGEN"
+        },
+        {
+          "name": "Jetta GLI",
+          "id": 29681,
+          "make": "VOLKSWAGEN"
+        },
+        {
+          "name": "ID. Buzz",
+          "id": 35143,
+          "make": "VOLKSWAGEN"
+        }
+      ]
+    },
+    "volkswagen|2026": {
+      "make": "Volkswagen",
+      "year": 2026,
+      "source": {
+        "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeYear/make/Volkswagen/modelyear/2026?format=json",
+        "retrievedAt": "2026-10-16T19:55:09.737Z",
+        "status": 200,
+        "contentType": "application/json",
+        "sha256": "a297a502a0884e630f46c80dde9b039a15bc5677dddd5f4c09fa995fe88eac58",
+        "bytes": 845
+      },
+      "models": [
+        {
+          "name": "Jetta",
+          "id": 3137,
+          "make": "VOLKSWAGEN"
+        },
+        {
+          "name": "Tiguan",
+          "id": 8151,
+          "make": "VOLKSWAGEN"
+        },
+        {
+          "name": "Golf GTI",
+          "id": 13670,
+          "make": "VOLKSWAGEN"
+        },
+        {
+          "name": "Golf R",
+          "id": 13844,
+          "make": "VOLKSWAGEN"
+        },
+        {
+          "name": "Atlas",
+          "id": 17618,
+          "make": "VOLKSWAGEN"
+        },
+        {
+          "name": "Atlas Cross Sport",
+          "id": 27124,
+          "make": "VOLKSWAGEN"
+        },
+        {
+          "name": "ID.4",
+          "id": 28219,
+          "make": "VOLKSWAGEN"
+        },
+        {
+          "name": "Taos",
+          "id": 28652,
+          "make": "VOLKSWAGEN"
+        },
+        {
+          "name": "Jetta GLI",
+          "id": 29681,
+          "make": "VOLKSWAGEN"
+        }
+      ]
+    },
+    "mercedes-benz|2024": {
+      "make": "Mercedes-Benz",
+      "year": 2024,
+      "source": {
+        "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeYear/make/Mercedes-Benz/modelyear/2024?format=json",
+        "retrievedAt": "2026-10-16T19:55:10.887Z",
+        "status": 200,
+        "contentType": "application/json",
+        "sha256": "c398ab6c998ab02d473d59572f9698af50d37e809e9f764e4447d8ff0171b61c",
+        "bytes": 2341
+      },
+      "models": [
+        {
+          "name": "Sprinter",
+          "id": 1703,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "Sprinter",
+          "id": 1703,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "Sprinter",
+          "id": 1703,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "Sprinter",
+          "id": 1703,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "SL-Class",
+          "id": 2079,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "E-Class",
+          "id": 2081,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "CLA-Class",
+          "id": 2083,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "GLA-Class",
+          "id": 2084,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "C-Class",
+          "id": 2085,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "S-Class",
+          "id": 2086,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "G-Class",
+          "id": 2131,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "AMG GT",
+          "id": 5881,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "GLC-Class",
+          "id": 5885,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "GLE-Class",
+          "id": 5886,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "GLS-Class",
+          "id": 14005,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "GLB-Class",
+          "id": 26498,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "EQS-Class Sedan",
+          "id": 29045,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "EQE-Class Sedan",
+          "id": 30229,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "EQB-Class",
+          "id": 30230,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "EQS-Class SUV",
+          "id": 30265,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "EQE-Class SUV",
+          "id": 31097,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "eSprinter",
+          "id": 33099,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "eSprinter",
+          "id": 33099,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "eSprinter",
+          "id": 33099,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "eSprinter",
+          "id": 33099,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "CLE",
+          "id": 33769,
+          "make": "MERCEDES-BENZ"
+        }
+      ]
+    },
+    "mercedes-benz|2025": {
+      "make": "Mercedes-Benz",
+      "year": 2025,
+      "source": {
+        "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeYear/make/Mercedes-Benz/modelyear/2025?format=json",
+        "retrievedAt": "2026-10-16T19:55:11.971Z",
+        "status": 200,
+        "contentType": "application/json",
+        "sha256": "781dac2f0be58f21dec2c09aac8f94c2b82f92bd1a86447d66268d737e9e9977",
+        "bytes": 2530
+      },
+      "models": [
+        {
+          "name": "Sprinter",
+          "id": 1703,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "Sprinter",
+          "id": 1703,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "Sprinter",
+          "id": 1703,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "Sprinter",
+          "id": 1703,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "SL-Class",
+          "id": 2079,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "E-Class",
+          "id": 2081,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "CLA-Class",
+          "id": 2083,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "GLA-Class",
+          "id": 2084,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "C-Class",
+          "id": 2085,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "S-Class",
+          "id": 2086,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "G-Class",
+          "id": 2131,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "AMG GT",
+          "id": 5881,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "GLC-Class",
+          "id": 5885,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "GLE-Class",
+          "id": 5886,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "GLS-Class",
+          "id": 14005,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "GLB-Class",
+          "id": 26498,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "EQS-Class Sedan",
+          "id": 29045,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "EQE-Class Sedan",
+          "id": 30229,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "EQB-Class",
+          "id": 30230,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "EQS-Class SUV",
+          "id": 30265,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "EQE-Class SUV",
+          "id": 31097,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "eSprinter",
+          "id": 33099,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "eSprinter",
+          "id": 33099,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "eSprinter",
+          "id": 33099,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "eSprinter",
+          "id": 33099,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "CLE",
+          "id": 33769,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "Tourrider Business",
+          "id": 38440,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "Tourrider Premium",
+          "id": 38441,
+          "make": "MERCEDES-BENZ"
+        }
+      ]
+    },
+    "mercedes-benz|2026": {
+      "make": "Mercedes-Benz",
+      "year": 2026,
+      "source": {
+        "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeYear/make/Mercedes-Benz/modelyear/2026?format=json",
+        "retrievedAt": "2026-10-16T19:55:13.129Z",
+        "status": 200,
+        "contentType": "application/json",
+        "sha256": "68f47dd212dbbf93092142e7e9430c01dda91a20aa85c05add492aeff393b99d",
+        "bytes": 2444
+      },
+      "models": [
+        {
+          "name": "Sprinter",
+          "id": 1703,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "Sprinter",
+          "id": 1703,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "Sprinter",
+          "id": 1703,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "Sprinter",
+          "id": 1703,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "SL-Class",
+          "id": 2079,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "E-Class",
+          "id": 2081,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "CLA-Class",
+          "id": 2083,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "GLA-Class",
+          "id": 2084,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "C-Class",
+          "id": 2085,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "S-Class",
+          "id": 2086,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "G-Class",
+          "id": 2131,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "AMG GT",
+          "id": 5881,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "GLC-Class",
+          "id": 5885,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "GLE-Class",
+          "id": 5886,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "GLS-Class",
+          "id": 14005,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "GLB-Class",
+          "id": 26498,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "EQS-Class Sedan",
+          "id": 29045,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "EQE-Class Sedan",
+          "id": 30229,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "EQS-Class SUV",
+          "id": 30265,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "EQE-Class SUV",
+          "id": 31097,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "eSprinter",
+          "id": 33099,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "eSprinter",
+          "id": 33099,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "eSprinter",
+          "id": 33099,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "eSprinter",
+          "id": 33099,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "CLE",
+          "id": 33769,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "Tourrider Business",
+          "id": 38440,
+          "make": "MERCEDES-BENZ"
+        },
+        {
+          "name": "Tourrider Premium",
+          "id": 38441,
+          "make": "MERCEDES-BENZ"
+        }
+      ]
+    },
+    "audi|2024": {
+      "make": "Audi",
+      "year": 2024,
+      "source": {
+        "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeYear/make/Audi/modelyear/2024?format=json",
+        "retrievedAt": "2026-10-16T19:55:14.278Z",
+        "status": 200,
+        "contentType": "application/json",
+        "sha256": "d9ba1e108b55d09138f7e1ac9ed41179c9d42f7b9fcd08b939dbe14665745da9",
+        "bytes": 2252
+      },
+      "models": [
+        {
+          "name": "A4",
+          "id": 3146,
+          "make": "AUDI"
+        },
+        {
+          "name": "S4",
+          "id": 3147,
+          "make": "AUDI"
+        },
+        {
+          "name": "A6",
+          "id": 3148,
+          "make": "AUDI"
+        },
+        {
+          "name": "A3",
+          "id": 3676,
+          "make": "AUDI"
+        },
+        {
+          "name": "S6",
+          "id": 3677,
+          "make": "AUDI"
+        },
+        {
+          "name": "S8",
+          "id": 3678,
+          "make": "AUDI"
+        },
+        {
+          "name": "Q7",
+          "id": 3679,
+          "make": "AUDI"
+        },
+        {
+          "name": "A5",
+          "id": 3787,
+          "make": "AUDI"
+        },
+        {
+          "name": "S5",
+          "id": 3788,
+          "make": "AUDI"
+        },
+        {
+          "name": "Q5",
+          "id": 3862,
+          "make": "AUDI"
+        },
+        {
+          "name": "RS 5",
+          "id": 4014,
+          "make": "AUDI"
+        },
+        {
+          "name": "A7",
+          "id": 4015,
+          "make": "AUDI"
+        },
+        {
+          "name": "Q3",
+          "id": 4051,
+          "make": "AUDI"
+        },
+        {
+          "name": "SQ5",
+          "id": 4052,
+          "make": "AUDI"
+        },
+        {
+          "name": "S3",
+          "id": 8173,
+          "make": "AUDI"
+        },
+        {
+          "name": "S7",
+          "id": 8258,
+          "make": "AUDI"
+        },
+        {
+          "name": "RS 7",
+          "id": 8685,
+          "make": "AUDI"
+        },
+        {
+          "name": "A4 allroad",
+          "id": 13759,
+          "make": "AUDI"
+        },
+        {
+          "name": "RS 3",
+          "id": 16783,
+          "make": "AUDI"
+        },
+        {
+          "name": "Q8",
+          "id": 25317,
+          "make": "AUDI"
+        },
+        {
+          "name": "A6 allroad",
+          "id": 27028,
+          "make": "AUDI"
+        },
+        {
+          "name": "Q5 e",
+          "id": 27029,
+          "make": "AUDI"
+        },
+        {
+          "name": "SQ7",
+          "id": 27401,
+          "make": "AUDI"
+        },
+        {
+          "name": "SQ8",
+          "id": 27402,
+          "make": "AUDI"
+        },
+        {
+          "name": "RS Q8",
+          "id": 27403,
+          "make": "AUDI"
+        },
+        {
+          "name": "RS e-tron GT",
+          "id": 28998,
+          "make": "AUDI"
+        },
+        {
+          "name": "Q4",
+          "id": 29351,
+          "make": "AUDI"
+        },
+        {
+          "name": "A8 L",
+          "id": 29708,
+          "make": "AUDI"
+        },
+        {
+          "name": "e-tron GT",
+          "id": 29994,
+          "make": "AUDI"
+        },
+        {
+          "name": "RS 6 Avant",
+          "id": 35165,
+          "make": "AUDI"
+        }
+      ]
+    },
+    "audi|2025": {
+      "make": "Audi",
+      "year": 2025,
+      "source": {
+        "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeYear/make/Audi/modelyear/2025?format=json",
+        "retrievedAt": "2026-10-16T19:55:15.304Z",
+        "status": 200,
+        "contentType": "application/json",
+        "sha256": "ee7204735e98199949ab4d2d269fd3c78736579003358526e8a69e7e63805ec7",
+        "bytes": 2395
+      },
+      "models": [
+        {
+          "name": "A4",
+          "id": 3146,
+          "make": "AUDI"
+        },
+        {
+          "name": "S4",
+          "id": 3147,
+          "make": "AUDI"
+        },
+        {
+          "name": "A6",
+          "id": 3148,
+          "make": "AUDI"
+        },
+        {
+          "name": "A3",
+          "id": 3676,
+          "make": "AUDI"
+        },
+        {
+          "name": "S6",
+          "id": 3677,
+          "make": "AUDI"
+        },
+        {
+          "name": "S8",
+          "id": 3678,
+          "make": "AUDI"
+        },
+        {
+          "name": "Q7",
+          "id": 3679,
+          "make": "AUDI"
+        },
+        {
+          "name": "A5",
+          "id": 3787,
+          "make": "AUDI"
+        },
+        {
+          "name": "S5",
+          "id": 3788,
+          "make": "AUDI"
+        },
+        {
+          "name": "Q5",
+          "id": 3862,
+          "make": "AUDI"
+        },
+        {
+          "name": "RS 5",
+          "id": 4014,
+          "make": "AUDI"
+        },
+        {
+          "name": "A7",
+          "id": 4015,
+          "make": "AUDI"
+        },
+        {
+          "name": "Q3",
+          "id": 4051,
+          "make": "AUDI"
+        },
+        {
+          "name": "SQ5",
+          "id": 4052,
+          "make": "AUDI"
+        },
+        {
+          "name": "S3",
+          "id": 8173,
+          "make": "AUDI"
+        },
+        {
+          "name": "S7",
+          "id": 8258,
+          "make": "AUDI"
+        },
+        {
+          "name": "RS 7",
+          "id": 8685,
+          "make": "AUDI"
+        },
+        {
+          "name": "A4 allroad",
+          "id": 13759,
+          "make": "AUDI"
+        },
+        {
+          "name": "RS 3",
+          "id": 16783,
+          "make": "AUDI"
+        },
+        {
+          "name": "Q8",
+          "id": 25317,
+          "make": "AUDI"
+        },
+        {
+          "name": "A6 allroad",
+          "id": 27028,
+          "make": "AUDI"
+        },
+        {
+          "name": "Q5 e",
+          "id": 27029,
+          "make": "AUDI"
+        },
+        {
+          "name": "SQ7",
+          "id": 27401,
+          "make": "AUDI"
+        },
+        {
+          "name": "SQ8",
+          "id": 27402,
+          "make": "AUDI"
+        },
+        {
+          "name": "RS Q8",
+          "id": 27403,
+          "make": "AUDI"
+        },
+        {
+          "name": "RS e-tron GT",
+          "id": 28998,
+          "make": "AUDI"
+        },
+        {
+          "name": "Q4",
+          "id": 29351,
+          "make": "AUDI"
+        },
+        {
+          "name": "A8 L",
+          "id": 29708,
+          "make": "AUDI"
+        },
+        {
+          "name": "Q6",
+          "id": 34850,
+          "make": "AUDI"
+        },
+        {
+          "name": "SQ6",
+          "id": 34851,
+          "make": "AUDI"
+        },
+        {
+          "name": "RS 6 Avant",
+          "id": 35165,
+          "make": "AUDI"
+        },
+        {
+          "name": "S e-tron GT",
+          "id": 35659,
+          "make": "AUDI"
+        }
+      ]
+    },
+    "audi|2026": {
+      "make": "Audi",
+      "year": 2026,
+      "source": {
+        "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeYear/make/Audi/modelyear/2026?format=json",
+        "retrievedAt": "2026-10-16T19:55:16.440Z",
+        "status": 200,
+        "contentType": "application/json",
+        "sha256": "2bea54c7a3d94c4666913dcf3129850bc7c47e08b020649e5d0e1d6cda1b418e",
+        "bytes": 1829
+      },
+      "models": [
+        {
+          "name": "A6",
+          "id": 3148,
+          "make": "AUDI"
+        },
+        {
+          "name": "A3",
+          "id": 3676,
+          "make": "AUDI"
+        },
+        {
+          "name": "S8",
+          "id": 3678,
+          "make": "AUDI"
+        },
+        {
+          "name": "Q7",
+          "id": 3679,
+          "make": "AUDI"
+        },
+        {
+          "name": "A5",
+          "id": 3787,
+          "make": "AUDI"
+        },
+        {
+          "name": "S5",
+          "id": 3788,
+          "make": "AUDI"
+        },
+        {
+          "name": "Q5",
+          "id": 3862,
+          "make": "AUDI"
+        },
+        {
+          "name": "Q3",
+          "id": 4051,
+          "make": "AUDI"
+        },
+        {
+          "name": "SQ5",
+          "id": 4052,
+          "make": "AUDI"
+        },
+        {
+          "name": "S3",
+          "id": 8173,
+          "make": "AUDI"
+        },
+        {
+          "name": "RS 7",
+          "id": 8685,
+          "make": "AUDI"
+        },
+        {
+          "name": "RS 3",
+          "id": 16783,
+          "make": "AUDI"
+        },
+        {
+          "name": "Q8",
+          "id": 25317,
+          "make": "AUDI"
+        },
+        {
+          "name": "A6 allroad",
+          "id": 27028,
+          "make": "AUDI"
+        },
+        {
+          "name": "SQ7",
+          "id": 27401,
+          "make": "AUDI"
+        },
+        {
+          "name": "SQ8",
+          "id": 27402,
+          "make": "AUDI"
+        },
+        {
+          "name": "RS Q8",
+          "id": 27403,
+          "make": "AUDI"
+        },
+        {
+          "name": "RS e-tron GT",
+          "id": 28998,
+          "make": "AUDI"
+        },
+        {
+          "name": "Q4",
+          "id": 29351,
+          "make": "AUDI"
+        },
+        {
+          "name": "A8 L",
+          "id": 29708,
+          "make": "AUDI"
+        },
+        {
+          "name": "Q6",
+          "id": 34850,
+          "make": "AUDI"
+        },
+        {
+          "name": "SQ6",
+          "id": 34851,
+          "make": "AUDI"
+        },
+        {
+          "name": "RS 6 Avant",
+          "id": 35165,
+          "make": "AUDI"
+        },
+        {
+          "name": "S e-tron GT",
+          "id": 35659,
+          "make": "AUDI"
+        }
+      ]
+    },
+    "bmw|2024": {
+      "make": "BMW",
+      "year": 2024,
+      "source": {
+        "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeYear/make/BMW/modelyear/2024?format=json",
+        "retrievedAt": "2026-10-16T19:55:17.542Z",
+        "status": 200,
+        "contentType": "application/json",
+        "sha256": "af3685764637339e13ef055e73590d9fef7b8b819ed8c1d37949bcc614687bb9",
+        "bytes": 4984
+      },
+      "models": [
+        {
+          "name": "M3",
+          "id": 1710,
+          "make": "BMW"
+        },
+        {
+          "name": "X6",
+          "id": 1714,
+          "make": "BMW"
+        },
+        {
+          "name": "X5",
+          "id": 1717,
+          "make": "BMW"
+        },
+        {
+          "name": "X3",
+          "id": 1719,
+          "make": "BMW"
+        },
+        {
+          "name": "740i",
+          "id": 1720,
+          "make": "BMW"
+        },
+        {
+          "name": "Z4",
+          "id": 1725,
+          "make": "BMW"
+        },
+        {
+          "name": "F 800 GS",
+          "id": 1739,
+          "make": "BMW"
+        },
+        {
+          "name": "S 1000 RR",
+          "id": 1742,
+          "make": "BMW"
+        },
+        {
+          "name": "K 1600 GT",
+          "id": 1752,
+          "make": "BMW"
+        },
+        {
+          "name": "K 1600 GTL",
+          "id": 1753,
+          "make": "BMW"
+        },
+        {
+          "name": "S 1000 R",
+          "id": 1759,
+          "make": "BMW"
+        },
+        {
+          "name": "228i",
+          "id": 2170,
+          "make": "BMW"
+        },
+        {
+          "name": "M235i",
+          "id": 2171,
+          "make": "BMW"
+        },
+        {
+          "name": "X1",
+          "id": 2300,
+          "make": "BMW"
+        },
+        {
+          "name": "530i",
+          "id": 2585,
+          "make": "BMW"
+        },
+        {
+          "name": "330i",
+          "id": 2777,
+          "make": "BMW"
+        },
+        {
+          "name": "760i",
+          "id": 2804,
+          "make": "BMW"
+        },
+        {
+          "name": "540i",
+          "id": 5195,
+          "make": "BMW"
+        },
+        {
+          "name": "X4",
+          "id": 5992,
+          "make": "BMW"
+        },
+        {
+          "name": "M2",
+          "id": 9567,
+          "make": "BMW"
+        },
+        {
+          "name": "340i",
+          "id": 9568,
+          "make": "BMW"
+        },
+        {
+          "name": "330e",
+          "id": 9569,
+          "make": "BMW"
+        },
+        {
+          "name": "M4",
+          "id": 9570,
+          "make": "BMW"
+        },
+        {
+          "name": "S 1000 XR",
+          "id": 10045,
+          "make": "BMW"
+        },
+        {
+          "name": "230i",
+          "id": 13825,
+          "make": "BMW"
+        },
+        {
+          "name": "M240i",
+          "id": 13826,
+          "make": "BMW"
+        },
+        {
+          "name": "430i",
+          "id": 13827,
+          "make": "BMW"
+        },
+        {
+          "name": "X2",
+          "id": 24940,
+          "make": "BMW"
+        },
+        {
+          "name": "X7",
+          "id": 25884,
+          "make": "BMW"
+        },
+        {
+          "name": "M340i",
+          "id": 26481,
+          "make": "BMW"
+        },
+        {
+          "name": "840i",
+          "id": 26483,
+          "make": "BMW"
+        },
+        {
+          "name": "M850i",
+          "id": 26484,
+          "make": "BMW"
+        },
+        {
+          "name": "M8",
+          "id": 26485,
+          "make": "BMW"
+        },
+        {
+          "name": "G 310 R",
+          "id": 26611,
+          "make": "BMW"
+        },
+        {
+          "name": "G 310 GS",
+          "id": 26612,
+          "make": "BMW"
+        },
+        {
+          "name": "C 400 GT",
+          "id": 26613,
+          "make": "BMW"
+        },
+        {
+          "name": "C 400 X",
+          "id": 26614,
+          "make": "BMW"
+        },
+        {
+          "name": "R 1250 RT",
+          "id": 26626,
+          "make": "BMW"
+        },
+        {
+          "name": "R 1250 R",
+          "id": 26628,
+          "make": "BMW"
+        },
+        {
+          "name": "R 1250 RS",
+          "id": 26629,
+          "make": "BMW"
+        },
+        {
+          "name": "K 1600 B",
+          "id": 26636,
+          "make": "BMW"
+        },
+        {
+          "name": "R 18 Classic",
+          "id": 28092,
+          "make": "BMW"
+        },
+        {
+          "name": "R 18",
+          "id": 28093,
+          "make": "BMW"
+        },
+        {
+          "name": "M440i",
+          "id": 28100,
+          "make": "BMW"
+        },
+        {
+          "name": "CE 04",
+          "id": 29435,
+          "make": "BMW"
+        },
+        {
+          "name": "iX",
+          "id": 29578,
+          "make": "BMW"
+        },
+        {
+          "name": "i4",
+          "id": 29579,
+          "make": "BMW"
+        },
+        {
+          "name": "i7",
+          "id": 30512,
+          "make": "BMW"
+        },
+        {
+          "name": "XM",
+          "id": 30516,
+          "make": "BMW"
+        },
+        {
+          "name": "Alpina B8",
+          "id": 31653,
+          "make": "BMW"
+        },
+        {
+          "name": "750e",
+          "id": 32327,
+          "make": "BMW"
+        },
+        {
+          "name": "i5",
+          "id": 32328,
+          "make": "BMW"
+        },
+        {
+          "name": "CE 02",
+          "id": 33564,
+          "make": "BMW"
+        },
+        {
+          "name": "R 18 Roctane",
+          "id": 33565,
+          "make": "BMW"
+        },
+        {
+          "name": "R 18 B",
+          "id": 33566,
+          "make": "BMW"
+        },
+        {
+          "name": "R 18 Transcontinental",
+          "id": 33567,
+          "make": "BMW"
+        },
+        {
+          "name": "F 900 GS",
+          "id": 33568,
+          "make": "BMW"
+        },
+        {
+          "name": "F 900 GS Adventure",
+          "id": 33569,
+          "make": "BMW"
+        },
+        {
+          "name": "F 900 R",
+          "id": 33570,
+          "make": "BMW"
+        },
+        {
+          "name": "F 900 XR",
+          "id": 33571,
+          "make": "BMW"
+        },
+        {
+          "name": "M 1000 XR",
+          "id": 33572,
+          "make": "BMW"
+        },
+        {
+          "name": "M 1000 R",
+          "id": 33573,
+          "make": "BMW"
+        },
+        {
+          "name": "M 1000 RR",
+          "id": 33574,
+          "make": "BMW"
+        },
+        {
+          "name": "R 1250 GS Adventure",
+          "id": 33575,
+          "make": "BMW"
+        },
+        {
+          "name": "R 1300 GS",
+          "id": 33576,
+          "make": "BMW"
+        },
+        {
+          "name": "R 12",
+          "id": 33577,
+          "make": "BMW"
+        },
+        {
+          "name": "R 12 nineT",
+          "id": 33578,
+          "make": "BMW"
+        }
+      ]
+    },
+    "bmw|2025": {
+      "make": "BMW",
+      "year": 2025,
+      "source": {
+        "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeYear/make/BMW/modelyear/2025?format=json",
+        "retrievedAt": "2026-10-16T19:55:18.674Z",
+        "status": 200,
+        "contentType": "application/json",
+        "sha256": "e6e3d3ae119ce4c270b5e6c1e85e69e949d5fdf1d3e5def0a0a6d7545231efed",
+        "bytes": 4683
+      },
+      "models": [
+        {
+          "name": "M3",
+          "id": 1710,
+          "make": "BMW"
+        },
+        {
+          "name": "X6",
+          "id": 1714,
+          "make": "BMW"
+        },
+        {
+          "name": "X5",
+          "id": 1717,
+          "make": "BMW"
+        },
+        {
+          "name": "X3",
+          "id": 1719,
+          "make": "BMW"
+        },
+        {
+          "name": "740i",
+          "id": 1720,
+          "make": "BMW"
+        },
+        {
+          "name": "Z4",
+          "id": 1725,
+          "make": "BMW"
+        },
+        {
+          "name": "F 800 GS",
+          "id": 1739,
+          "make": "BMW"
+        },
+        {
+          "name": "S 1000 RR",
+          "id": 1742,
+          "make": "BMW"
+        },
+        {
+          "name": "K 1600 GT",
+          "id": 1752,
+          "make": "BMW"
+        },
+        {
+          "name": "K 1600 GTL",
+          "id": 1753,
+          "make": "BMW"
+        },
+        {
+          "name": "S 1000 R",
+          "id": 1759,
+          "make": "BMW"
+        },
+        {
+          "name": "M5",
+          "id": 2024,
+          "make": "BMW"
+        },
+        {
+          "name": "228i",
+          "id": 2170,
+          "make": "BMW"
+        },
+        {
+          "name": "X1",
+          "id": 2300,
+          "make": "BMW"
+        },
+        {
+          "name": "530i",
+          "id": 2585,
+          "make": "BMW"
+        },
+        {
+          "name": "330i",
+          "id": 2777,
+          "make": "BMW"
+        },
+        {
+          "name": "760i",
+          "id": 2804,
+          "make": "BMW"
+        },
+        {
+          "name": "540i",
+          "id": 5195,
+          "make": "BMW"
+        },
+        {
+          "name": "X4",
+          "id": 5992,
+          "make": "BMW"
+        },
+        {
+          "name": "M2",
+          "id": 9567,
+          "make": "BMW"
+        },
+        {
+          "name": "M4",
+          "id": 9570,
+          "make": "BMW"
+        },
+        {
+          "name": "S 1000 XR",
+          "id": 10045,
+          "make": "BMW"
+        },
+        {
+          "name": "230i",
+          "id": 13825,
+          "make": "BMW"
+        },
+        {
+          "name": "M240i",
+          "id": 13826,
+          "make": "BMW"
+        },
+        {
+          "name": "430i",
+          "id": 13827,
+          "make": "BMW"
+        },
+        {
+          "name": "X2",
+          "id": 24940,
+          "make": "BMW"
+        },
+        {
+          "name": "X7",
+          "id": 25884,
+          "make": "BMW"
+        },
+        {
+          "name": "M340i",
+          "id": 26481,
+          "make": "BMW"
+        },
+        {
+          "name": "840i",
+          "id": 26483,
+          "make": "BMW"
+        },
+        {
+          "name": "M850i",
+          "id": 26484,
+          "make": "BMW"
+        },
+        {
+          "name": "M8",
+          "id": 26485,
+          "make": "BMW"
+        },
+        {
+          "name": "G 310 R",
+          "id": 26611,
+          "make": "BMW"
+        },
+        {
+          "name": "G 310 GS",
+          "id": 26612,
+          "make": "BMW"
+        },
+        {
+          "name": "C 400 GT",
+          "id": 26613,
+          "make": "BMW"
+        },
+        {
+          "name": "K 1600 B",
+          "id": 26636,
+          "make": "BMW"
+        },
+        {
+          "name": "R 18 Classic",
+          "id": 28092,
+          "make": "BMW"
+        },
+        {
+          "name": "R 18",
+          "id": 28093,
+          "make": "BMW"
+        },
+        {
+          "name": "M440i",
+          "id": 28100,
+          "make": "BMW"
+        },
+        {
+          "name": "CE 04",
+          "id": 29435,
+          "make": "BMW"
+        },
+        {
+          "name": "iX",
+          "id": 29578,
+          "make": "BMW"
+        },
+        {
+          "name": "i4",
+          "id": 29579,
+          "make": "BMW"
+        },
+        {
+          "name": "i7",
+          "id": 30512,
+          "make": "BMW"
+        },
+        {
+          "name": "XM",
+          "id": 30516,
+          "make": "BMW"
+        },
+        {
+          "name": "Alpina B8",
+          "id": 31653,
+          "make": "BMW"
+        },
+        {
+          "name": "750e",
+          "id": 32327,
+          "make": "BMW"
+        },
+        {
+          "name": "i5",
+          "id": 32328,
+          "make": "BMW"
+        },
+        {
+          "name": "CE 02",
+          "id": 33564,
+          "make": "BMW"
+        },
+        {
+          "name": "R 18 Roctane",
+          "id": 33565,
+          "make": "BMW"
+        },
+        {
+          "name": "R 18 B",
+          "id": 33566,
+          "make": "BMW"
+        },
+        {
+          "name": "R 18 Transcontinental",
+          "id": 33567,
+          "make": "BMW"
+        },
+        {
+          "name": "F 900 GS",
+          "id": 33568,
+          "make": "BMW"
+        },
+        {
+          "name": "F 900 GS Adventure",
+          "id": 33569,
+          "make": "BMW"
+        },
+        {
+          "name": "F 900 R",
+          "id": 33570,
+          "make": "BMW"
+        },
+        {
+          "name": "F 900 XR",
+          "id": 33571,
+          "make": "BMW"
+        },
+        {
+          "name": "M 1000 XR",
+          "id": 33572,
+          "make": "BMW"
+        },
+        {
+          "name": "M 1000 R",
+          "id": 33573,
+          "make": "BMW"
+        },
+        {
+          "name": "R 1300 GS",
+          "id": 33576,
+          "make": "BMW"
+        },
+        {
+          "name": "R 12",
+          "id": 33577,
+          "make": "BMW"
+        },
+        {
+          "name": "R 12 nineT",
+          "id": 33578,
+          "make": "BMW"
+        },
+        {
+          "name": "550e",
+          "id": 34628,
+          "make": "BMW"
+        },
+        {
+          "name": "F 900 GS-P",
+          "id": 35419,
+          "make": "BMW"
+        },
+        {
+          "name": "R 1300 GS Adventure",
+          "id": 35420,
+          "make": "BMW"
+        },
+        {
+          "name": "M235",
+          "id": 36379,
+          "make": "BMW"
+        }
+      ]
+    },
+    "bmw|2026": {
+      "make": "BMW",
+      "year": 2026,
+      "source": {
+        "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeYear/make/BMW/modelyear/2026?format=json",
+        "retrievedAt": "2026-10-16T19:55:19.833Z",
+        "status": 200,
+        "contentType": "application/json",
+        "sha256": "71add232b19c42d0dc64976e70226a5c22e93e8fd32e9623ff2d91f02895e998",
+        "bytes": 4233
+      },
+      "models": [
+        {
+          "name": "M3",
+          "id": 1710,
+          "make": "BMW"
+        },
+        {
+          "name": "X6",
+          "id": 1714,
+          "make": "BMW"
+        },
+        {
+          "name": "X5",
+          "id": 1717,
+          "make": "BMW"
+        },
+        {
+          "name": "X3",
+          "id": 1719,
+          "make": "BMW"
+        },
+        {
+          "name": "740i",
+          "id": 1720,
+          "make": "BMW"
+        },
+        {
+          "name": "Z4",
+          "id": 1725,
+          "make": "BMW"
+        },
+        {
+          "name": "F 800 GS",
+          "id": 1739,
+          "make": "BMW"
+        },
+        {
+          "name": "S 1000 RR",
+          "id": 1742,
+          "make": "BMW"
+        },
+        {
+          "name": "K 1600 GT",
+          "id": 1752,
+          "make": "BMW"
+        },
+        {
+          "name": "K 1600 GTL",
+          "id": 1753,
+          "make": "BMW"
+        },
+        {
+          "name": "S 1000 R",
+          "id": 1759,
+          "make": "BMW"
+        },
+        {
+          "name": "M5",
+          "id": 2024,
+          "make": "BMW"
+        },
+        {
+          "name": "X1",
+          "id": 2300,
+          "make": "BMW"
+        },
+        {
+          "name": "530i",
+          "id": 2585,
+          "make": "BMW"
+        },
+        {
+          "name": "330i",
+          "id": 2777,
+          "make": "BMW"
+        },
+        {
+          "name": "760i",
+          "id": 2804,
+          "make": "BMW"
+        },
+        {
+          "name": "540i",
+          "id": 5195,
+          "make": "BMW"
+        },
+        {
+          "name": "M2",
+          "id": 9567,
+          "make": "BMW"
+        },
+        {
+          "name": "M4",
+          "id": 9570,
+          "make": "BMW"
+        },
+        {
+          "name": "S 1000 XR",
+          "id": 10045,
+          "make": "BMW"
+        },
+        {
+          "name": "230i",
+          "id": 13825,
+          "make": "BMW"
+        },
+        {
+          "name": "M240i",
+          "id": 13826,
+          "make": "BMW"
+        },
+        {
+          "name": "430i",
+          "id": 13827,
+          "make": "BMW"
+        },
+        {
+          "name": "X2",
+          "id": 24940,
+          "make": "BMW"
+        },
+        {
+          "name": "X7",
+          "id": 25884,
+          "make": "BMW"
+        },
+        {
+          "name": "M340i",
+          "id": 26481,
+          "make": "BMW"
+        },
+        {
+          "name": "840i",
+          "id": 26483,
+          "make": "BMW"
+        },
+        {
+          "name": "M850i",
+          "id": 26484,
+          "make": "BMW"
+        },
+        {
+          "name": "C 400 GT",
+          "id": 26613,
+          "make": "BMW"
+        },
+        {
+          "name": "K 1600 B",
+          "id": 26636,
+          "make": "BMW"
+        },
+        {
+          "name": "M440i",
+          "id": 28100,
+          "make": "BMW"
+        },
+        {
+          "name": "CE 04",
+          "id": 29435,
+          "make": "BMW"
+        },
+        {
+          "name": "iX",
+          "id": 29578,
+          "make": "BMW"
+        },
+        {
+          "name": "i4",
+          "id": 29579,
+          "make": "BMW"
+        },
+        {
+          "name": "i7",
+          "id": 30512,
+          "make": "BMW"
+        },
+        {
+          "name": "XM",
+          "id": 30516,
+          "make": "BMW"
+        },
+        {
+          "name": "750e",
+          "id": 32327,
+          "make": "BMW"
+        },
+        {
+          "name": "i5",
+          "id": 32328,
+          "make": "BMW"
+        },
+        {
+          "name": "CE 02",
+          "id": 33564,
+          "make": "BMW"
+        },
+        {
+          "name": "F 900 GS",
+          "id": 33568,
+          "make": "BMW"
+        },
+        {
+          "name": "F 900 GS Adventure",
+          "id": 33569,
+          "make": "BMW"
+        },
+        {
+          "name": "F 900 R",
+          "id": 33570,
+          "make": "BMW"
+        },
+        {
+          "name": "F 900 XR",
+          "id": 33571,
+          "make": "BMW"
+        },
+        {
+          "name": "M 1000 XR",
+          "id": 33572,
+          "make": "BMW"
+        },
+        {
+          "name": "M 1000 R",
+          "id": 33573,
+          "make": "BMW"
+        },
+        {
+          "name": "M 1000 RR",
+          "id": 33574,
+          "make": "BMW"
+        },
+        {
+          "name": "R 1300 GS",
+          "id": 33576,
+          "make": "BMW"
+        },
+        {
+          "name": "R 12",
+          "id": 33577,
+          "make": "BMW"
+        },
+        {
+          "name": "R 12 nineT",
+          "id": 33578,
+          "make": "BMW"
+        },
+        {
+          "name": "550e",
+          "id": 34628,
+          "make": "BMW"
+        },
+        {
+          "name": "R 1300 GS Adventure",
+          "id": 35420,
+          "make": "BMW"
+        },
+        {
+          "name": "228",
+          "id": 35528,
+          "make": "BMW"
+        },
+        {
+          "name": "M235",
+          "id": 36379,
+          "make": "BMW"
+        },
+        {
+          "name": "R 1300 RT",
+          "id": 36591,
+          "make": "BMW"
+        },
+        {
+          "name": "R 1300 R",
+          "id": 36592,
+          "make": "BMW"
+        },
+        {
+          "name": "R 1300 RS",
+          "id": 36593,
+          "make": "BMW"
+        },
+        {
+          "name": "R 12 G/S",
+          "id": 36594,
+          "make": "BMW"
+        }
+      ]
+    },
+    "gmc|2024": {
+      "make": "GMC",
+      "year": 2024,
+      "source": {
+        "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeYear/make/GMC/modelyear/2024?format=json",
+        "retrievedAt": "2026-10-16T19:55:20.929Z",
+        "status": 200,
+        "contentType": "application/json",
+        "sha256": "7a47f3c2d8df40013f39a96b670bfbc1e886264a5489fe1be28e80379bc917ac",
+        "bytes": 939
+      },
+      "models": [
+        {
+          "name": "Acadia",
+          "id": 1855,
+          "make": "GMC"
+        },
+        {
+          "name": "Savana",
+          "id": 1856,
+          "make": "GMC"
+        },
+        {
+          "name": "Sierra",
+          "id": 1857,
+          "make": "GMC"
+        },
+        {
+          "name": "Terrain",
+          "id": 1858,
+          "make": "GMC"
+        },
+        {
+          "name": "Yukon",
+          "id": 1859,
+          "make": "GMC"
+        },
+        {
+          "name": "Canyon",
+          "id": 4093,
+          "make": "GMC"
+        },
+        {
+          "name": "Yukon XL",
+          "id": 4579,
+          "make": "GMC"
+        },
+        {
+          "name": "Sierra HD",
+          "id": 24909,
+          "make": "GMC"
+        },
+        {
+          "name": "Hummer EV SUV",
+          "id": 29077,
+          "make": "GMC"
+        },
+        {
+          "name": "Cruise Origin AV",
+          "id": 32043,
+          "make": "GMC"
+        },
+        {
+          "name": "Hummer EV Pickup",
+          "id": 32046,
+          "make": "GMC"
+        }
+      ]
+    },
+    "gmc|2025": {
+      "make": "GMC",
+      "year": 2025,
+      "source": {
+        "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeYear/make/GMC/modelyear/2025?format=json",
+        "retrievedAt": "2026-10-16T19:55:22.002Z",
+        "status": 200,
+        "contentType": "application/json",
+        "sha256": "d65ed2ee4497a4cf40928b9ad5c3f4102786330f9ff0cd81c3bc05bf0ccd10bf",
+        "bytes": 856
+      },
+      "models": [
+        {
+          "name": "Acadia",
+          "id": 1855,
+          "make": "GMC"
+        },
+        {
+          "name": "Savana",
+          "id": 1856,
+          "make": "GMC"
+        },
+        {
+          "name": "Sierra",
+          "id": 1857,
+          "make": "GMC"
+        },
+        {
+          "name": "Terrain",
+          "id": 1858,
+          "make": "GMC"
+        },
+        {
+          "name": "Yukon",
+          "id": 1859,
+          "make": "GMC"
+        },
+        {
+          "name": "Canyon",
+          "id": 4093,
+          "make": "GMC"
+        },
+        {
+          "name": "Yukon XL",
+          "id": 4579,
+          "make": "GMC"
+        },
+        {
+          "name": "Sierra HD",
+          "id": 24909,
+          "make": "GMC"
+        },
+        {
+          "name": "Hummer EV SUV",
+          "id": 29077,
+          "make": "GMC"
+        },
+        {
+          "name": "Hummer EV Pickup",
+          "id": 32046,
+          "make": "GMC"
+        }
+      ]
+    },
+    "gmc|2026": {
+      "make": "GMC",
+      "year": 2026,
+      "source": {
+        "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeYear/make/GMC/modelyear/2026?format=json",
+        "retrievedAt": "2026-10-16T19:55:23.126Z",
+        "status": 200,
+        "contentType": "application/json",
+        "sha256": "f7c5640ef0e7c1bd631b182b8a4071f7953d7a2a855eea4aefe84375f94d6b5f",
+        "bytes": 856
+      },
+      "models": [
+        {
+          "name": "Acadia",
+          "id": 1855,
+          "make": "GMC"
+        },
+        {
+          "name": "Savana",
+          "id": 1856,
+          "make": "GMC"
+        },
+        {
+          "name": "Sierra",
+          "id": 1857,
+          "make": "GMC"
+        },
+        {
+          "name": "Terrain",
+          "id": 1858,
+          "make": "GMC"
+        },
+        {
+          "name": "Yukon",
+          "id": 1859,
+          "make": "GMC"
+        },
+        {
+          "name": "Canyon",
+          "id": 4093,
+          "make": "GMC"
+        },
+        {
+          "name": "Yukon XL",
+          "id": 4579,
+          "make": "GMC"
+        },
+        {
+          "name": "Sierra HD",
+          "id": 24909,
+          "make": "GMC"
+        },
+        {
+          "name": "Hummer EV SUV",
+          "id": 29077,
+          "make": "GMC"
+        },
+        {
+          "name": "Hummer EV Pickup",
+          "id": 32046,
+          "make": "GMC"
+        }
+      ]
+    },
+    "rivian|2024": {
+      "make": "Rivian",
+      "year": 2024,
+      "source": {
+        "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeYear/make/Rivian/modelyear/2024?format=json",
+        "retrievedAt": "2026-10-16T19:55:24.282Z",
+        "status": 200,
+        "contentType": "application/json",
+        "sha256": "818a847fb605b7d9b5c5c3144dd3d2ccda7beb2612f3ef66f8cec9f096e0eb84",
+        "bytes": 413
+      },
+      "models": [
+        {
+          "name": "R1T",
+          "id": 28467,
+          "make": "RIVIAN"
+        },
+        {
+          "name": "R1S",
+          "id": 29173,
+          "make": "RIVIAN"
+        },
+        {
+          "name": "RCV",
+          "id": 29345,
+          "make": "RIVIAN"
+        },
+        {
+          "name": "EDV",
+          "id": 29437,
+          "make": "RIVIAN"
+        }
+      ]
+    },
+    "rivian|2025": {
+      "make": "Rivian",
+      "year": 2025,
+      "source": {
+        "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeYear/make/Rivian/modelyear/2025?format=json",
+        "retrievedAt": "2026-10-16T19:55:25.370Z",
+        "status": 200,
+        "contentType": "application/json",
+        "sha256": "9f99851502b5a9ea7ba22e35bcaa1ac3ebf7ff11783983f471e564cab618c3d3",
+        "bytes": 413
+      },
+      "models": [
+        {
+          "name": "R1T",
+          "id": 28467,
+          "make": "RIVIAN"
+        },
+        {
+          "name": "R1S",
+          "id": 29173,
+          "make": "RIVIAN"
+        },
+        {
+          "name": "RCV",
+          "id": 29345,
+          "make": "RIVIAN"
+        },
+        {
+          "name": "EDV",
+          "id": 29437,
+          "make": "RIVIAN"
+        }
+      ]
+    },
+    "rivian|2026": {
+      "make": "Rivian",
+      "year": 2026,
+      "source": {
+        "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeYear/make/Rivian/modelyear/2026?format=json",
+        "retrievedAt": "2026-10-16T19:55:26.511Z",
+        "status": 200,
+        "contentType": "application/json",
+        "sha256": "9c931bf2f41241af847c309acc33407c1abd4de52c956f2a0a671661888e650b",
+        "bytes": 413
+      },
+      "models": [
+        {
+          "name": "R1T",
+          "id": 28467,
+          "make": "RIVIAN"
+        },
+        {
+          "name": "R1S",
+          "id": 29173,
+          "make": "RIVIAN"
+        },
+        {
+          "name": "RCV",
+          "id": 29345,
+          "make": "RIVIAN"
+        },
+        {
+          "name": "EDV",
+          "id": 29437,
+          "make": "RIVIAN"
+        }
+      ]
+    },
+    "lucid|2024": {
+      "make": "Lucid",
+      "year": 2024,
+      "source": {
+        "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeYear/make/Lucid/modelyear/2024?format=json",
+        "retrievedAt": "2026-10-16T19:55:27.537Z",
+        "status": 200,
+        "contentType": "application/json",
+        "sha256": "a19073d8b14986c20b2895b1cd101a29c874f1e34ce3aa0537fe1e0419f3cad3",
+        "bytes": 186
+      },
+      "models": [
+        {
+          "name": "Air",
+          "id": 28593,
+          "make": "LUCID"
+        }
+      ]
+    },
+    "lucid|2025": {
+      "make": "Lucid",
+      "year": 2025,
+      "source": {
+        "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeYear/make/Lucid/modelyear/2025?format=json",
+        "retrievedAt": "2026-10-16T19:55:28.637Z",
+        "status": 200,
+        "contentType": "application/json",
+        "sha256": "45c21a80edc6e4fd45e3721b2909bc5bf38451769f6aa9ff1286b5216fa4d0b5",
+        "bytes": 264
+      },
+      "models": [
+        {
+          "name": "Air",
+          "id": 28593,
+          "make": "LUCID"
+        },
+        {
+          "name": "Gravity",
+          "id": 35254,
+          "make": "LUCID"
+        }
+      ]
+    },
+    "lucid|2026": {
+      "make": "Lucid",
+      "year": 2026,
+      "source": {
+        "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeYear/make/Lucid/modelyear/2026?format=json",
+        "retrievedAt": "2026-10-16T19:55:29.860Z",
+        "status": 200,
+        "contentType": "application/json",
+        "sha256": "00aedfd56ef402e9d13bfa7bb007f76a68b5d155d361f89d288614e415c84954",
+        "bytes": 264
+      },
+      "models": [
+        {
+          "name": "Air",
+          "id": 28593,
+          "make": "LUCID"
+        },
+        {
+          "name": "Gravity",
+          "id": 35254,
+          "make": "LUCID"
+        }
+      ]
+    },
+    "volvo|2024": {
+      "make": "Volvo",
+      "year": 2024,
+      "source": {
+        "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeYear/make/Volvo/modelyear/2024?format=json",
+        "retrievedAt": "2026-10-16T19:55:31.054Z",
+        "status": 200,
+        "contentType": "application/json",
+        "sha256": "905885edfb8d1762b8935dfa63103b4e2969455180dfd505585b6548eadce1f0",
+        "bytes": 5749
+      },
+      "models": [
+        {
+          "name": "S60",
+          "id": 1959,
+          "make": "VOLVO"
+        },
+        {
+          "name": "V60",
+          "id": 1961,
+          "make": "VOLVO"
+        },
+        {
+          "name": "XC60",
+          "id": 1962,
+          "make": "VOLVO"
+        },
+        {
+          "name": "XC90",
+          "id": 3132,
+          "make": "VOLVO"
+        },
+        {
+          "name": "V60CC",
+          "id": 10206,
+          "make": "VOLVO"
+        },
+        {
+          "name": "S90",
+          "id": 13798,
+          "make": "VOLVO"
+        },
+        {
+          "name": "V90CC",
+          "id": 13800,
+          "make": "VOLVO"
+        },
+        {
+          "name": "B10M",
+          "id": 14122,
+          "make": "VOLVO"
+        },
+        {
+          "name": "Cab Over Engine HT",
+          "id": 14126,
+          "make": "VOLVO"
+        },
+        {
+          "name": "Cab Over Engine HT",
+          "id": 14126,
+          "make": "VOLVO"
+        },
+        {
+          "name": "Cab Over Engine LT",
+          "id": 14127,
+          "make": "VOLVO"
+        },
+        {
+          "name": "Cab Over Engine LT",
+          "id": 14127,
+          "make": "VOLVO"
+        },
+        {
+          "name": "F12 w/F7 Cab",
+          "id": 14130,
+          "make": "VOLVO"
+        },
+        {
+          "name": "F12 w/F7 Cab",
+          "id": 14130,
+          "make": "VOLVO"
+        },
+        {
+          "name": "F6 w/F7 Cab",
+          "id": 14131,
+          "make": "VOLVO"
+        },
+        {
+          "name": "F6 w/F7 Cab",
+          "id": 14131,
+          "make": "VOLVO"
+        },
+        {
+          "name": "Cab Behind Engine",
+          "id": 14135,
+          "make": "VOLVO"
+        },
+        {
+          "name": "Cab Behind Engine",
+          "id": 14135,
+          "make": "VOLVO"
+        },
+        {
+          "name": "Volvo Trailers",
+          "id": 14140,
+          "make": "VOLVO"
+        },
+        {
+          "name": "XC40",
+          "id": 23714,
+          "make": "VOLVO"
+        },
+        {
+          "name": "VT",
+          "id": 27151,
+          "make": "VOLVO"
+        },
+        {
+          "name": "VS",
+          "id": 27152,
+          "make": "VOLVO"
+        },
+        {
+          "name": "C40",
+          "id": 28818,
+          "make": "VOLVO"
+        },
+        {
+          "name": "B12R",
+          "id": 31451,
+          "make": "VOLVO"
+        },
+        {
+          "name": "B7R",
+          "id": 31452,
+          "make": "VOLVO"
+        },
+        {
+          "name": "B12B",
+          "id": 31453,
+          "make": "VOLVO"
+        },
+        {
+          "name": "B12M",
+          "id": 31454,
+          "make": "VOLVO"
+        },
+        {
+          "name": "B9TL",
+          "id": 31455,
+          "make": "VOLVO"
+        },
+        {
+          "name": "B9R",
+          "id": 31456,
+          "make": "VOLVO"
+        },
+        {
+          "name": "B9S",
+          "id": 31457,
+          "make": "VOLVO"
+        },
+        {
+          "name": "B9L",
+          "id": 31458,
+          "make": "VOLVO"
+        },
+        {
+          "name": "BXR",
+          "id": 31459,
+          "make": "VOLVO"
+        },
+        {
+          "name": "B5R",
+          "id": 31460,
+          "make": "VOLVO"
+        },
+        {
+          "name": "BRLH",
+          "id": 31461,
+          "make": "VOLVO"
+        },
+        {
+          "name": "BXXR",
+          "id": 31462,
+          "make": "VOLVO"
+        },
+        {
+          "name": "BFE",
+          "id": 31463,
+          "make": "VOLVO"
+        },
+        {
+          "name": "BXRB",
+          "id": 31464,
+          "make": "VOLVO"
+        },
+        {
+          "name": "B8R",
+          "id": 31465,
+          "make": "VOLVO"
+        },
+        {
+          "name": "BRH",
+          "id": 31466,
+          "make": "VOLVO"
+        },
+        {
+          "name": "B5TL",
+          "id": 31467,
+          "make": "VOLVO"
+        },
+        {
+          "name": "BE",
+          "id": 31468,
+          "make": "VOLVO"
+        },
+        {
+          "name": "B8L",
+          "id": 31469,
+          "make": "VOLVO"
+        },
+        {
+          "name": "B13R",
+          "id": 31470,
+          "make": "VOLVO"
+        },
+        {
+          "name": "VHD",
+          "id": 1965,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "VHD",
+          "id": 1965,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "VNM",
+          "id": 1966,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "VNM",
+          "id": 1966,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "VNL",
+          "id": 1967,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "VNL",
+          "id": 1967,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "VAH",
+          "id": 1968,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "VAH",
+          "id": 1968,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "VNX",
+          "id": 1969,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "VNX",
+          "id": 1969,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "WX",
+          "id": 9353,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "WHL",
+          "id": 9354,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "WXLL",
+          "id": 9355,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "WG",
+          "id": 9356,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "WHR",
+          "id": 9357,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "WHLB",
+          "id": 9358,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "WHEB",
+          "id": 9359,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "WAH",
+          "id": 9360,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "ACL",
+          "id": 9361,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "WXLM",
+          "id": 9362,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "WCA",
+          "id": 9363,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "WIA",
+          "id": 9364,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "CACL",
+          "id": 9365,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "FE",
+          "id": 9366,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "CWG",
+          "id": 9367,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "NE64",
+          "id": 9368,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "NR64",
+          "id": 9369,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "VN",
+          "id": 9370,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "NE42",
+          "id": 9371,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "VNR",
+          "id": 15808,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "VNR",
+          "id": 15808,
+          "make": "VOLVO TRUCK"
+        }
+      ]
+    },
+    "volvo|2025": {
+      "make": "Volvo",
+      "year": 2025,
+      "source": {
+        "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeYear/make/Volvo/modelyear/2025?format=json",
+        "retrievedAt": "2026-10-16T19:55:32.356Z",
+        "status": 200,
+        "contentType": "application/json",
+        "sha256": "c560c12dd6bd58f86ba9723c6a8d631cec51515451f62b4169f5c0d088296c60",
+        "bytes": 5989
+      },
+      "models": [
+        {
+          "name": "S60",
+          "id": 1959,
+          "make": "VOLVO"
+        },
+        {
+          "name": "V60",
+          "id": 1961,
+          "make": "VOLVO"
+        },
+        {
+          "name": "XC60",
+          "id": 1962,
+          "make": "VOLVO"
+        },
+        {
+          "name": "XC90",
+          "id": 3132,
+          "make": "VOLVO"
+        },
+        {
+          "name": "V60CC",
+          "id": 10206,
+          "make": "VOLVO"
+        },
+        {
+          "name": "S90",
+          "id": 13798,
+          "make": "VOLVO"
+        },
+        {
+          "name": "V90CC",
+          "id": 13800,
+          "make": "VOLVO"
+        },
+        {
+          "name": "B10M",
+          "id": 14122,
+          "make": "VOLVO"
+        },
+        {
+          "name": "Cab Over Engine HT",
+          "id": 14126,
+          "make": "VOLVO"
+        },
+        {
+          "name": "Cab Over Engine HT",
+          "id": 14126,
+          "make": "VOLVO"
+        },
+        {
+          "name": "Cab Over Engine LT",
+          "id": 14127,
+          "make": "VOLVO"
+        },
+        {
+          "name": "Cab Over Engine LT",
+          "id": 14127,
+          "make": "VOLVO"
+        },
+        {
+          "name": "F12 w/F7 Cab",
+          "id": 14130,
+          "make": "VOLVO"
+        },
+        {
+          "name": "F12 w/F7 Cab",
+          "id": 14130,
+          "make": "VOLVO"
+        },
+        {
+          "name": "F6 w/F7 Cab",
+          "id": 14131,
+          "make": "VOLVO"
+        },
+        {
+          "name": "F6 w/F7 Cab",
+          "id": 14131,
+          "make": "VOLVO"
+        },
+        {
+          "name": "Cab Behind Engine",
+          "id": 14135,
+          "make": "VOLVO"
+        },
+        {
+          "name": "Cab Behind Engine",
+          "id": 14135,
+          "make": "VOLVO"
+        },
+        {
+          "name": "Volvo Trailers",
+          "id": 14140,
+          "make": "VOLVO"
+        },
+        {
+          "name": "XC40",
+          "id": 23714,
+          "make": "VOLVO"
+        },
+        {
+          "name": "VT",
+          "id": 27151,
+          "make": "VOLVO"
+        },
+        {
+          "name": "VS",
+          "id": 27152,
+          "make": "VOLVO"
+        },
+        {
+          "name": "B12R",
+          "id": 31451,
+          "make": "VOLVO"
+        },
+        {
+          "name": "B7R",
+          "id": 31452,
+          "make": "VOLVO"
+        },
+        {
+          "name": "B12B",
+          "id": 31453,
+          "make": "VOLVO"
+        },
+        {
+          "name": "B12M",
+          "id": 31454,
+          "make": "VOLVO"
+        },
+        {
+          "name": "B9TL",
+          "id": 31455,
+          "make": "VOLVO"
+        },
+        {
+          "name": "B9R",
+          "id": 31456,
+          "make": "VOLVO"
+        },
+        {
+          "name": "B9S",
+          "id": 31457,
+          "make": "VOLVO"
+        },
+        {
+          "name": "B9L",
+          "id": 31458,
+          "make": "VOLVO"
+        },
+        {
+          "name": "BXR",
+          "id": 31459,
+          "make": "VOLVO"
+        },
+        {
+          "name": "B5R",
+          "id": 31460,
+          "make": "VOLVO"
+        },
+        {
+          "name": "BRLH",
+          "id": 31461,
+          "make": "VOLVO"
+        },
+        {
+          "name": "BXXR",
+          "id": 31462,
+          "make": "VOLVO"
+        },
+        {
+          "name": "BFE",
+          "id": 31463,
+          "make": "VOLVO"
+        },
+        {
+          "name": "BXRB",
+          "id": 31464,
+          "make": "VOLVO"
+        },
+        {
+          "name": "B8R",
+          "id": 31465,
+          "make": "VOLVO"
+        },
+        {
+          "name": "BRH",
+          "id": 31466,
+          "make": "VOLVO"
+        },
+        {
+          "name": "B5TL",
+          "id": 31467,
+          "make": "VOLVO"
+        },
+        {
+          "name": "BE",
+          "id": 31468,
+          "make": "VOLVO"
+        },
+        {
+          "name": "B8L",
+          "id": 31469,
+          "make": "VOLVO"
+        },
+        {
+          "name": "B13R",
+          "id": 31470,
+          "make": "VOLVO"
+        },
+        {
+          "name": "EX30",
+          "id": 34308,
+          "make": "VOLVO"
+        },
+        {
+          "name": "EX90",
+          "id": 34309,
+          "make": "VOLVO"
+        },
+        {
+          "name": "EC40",
+          "id": 34313,
+          "make": "VOLVO"
+        },
+        {
+          "name": "EX40",
+          "id": 34314,
+          "make": "VOLVO"
+        },
+        {
+          "name": "VHD",
+          "id": 1965,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "VHD",
+          "id": 1965,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "VNL",
+          "id": 1967,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "VNL",
+          "id": 1967,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "VAH",
+          "id": 1968,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "VAH",
+          "id": 1968,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "WX",
+          "id": 9353,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "WHL",
+          "id": 9354,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "WXLL",
+          "id": 9355,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "WG",
+          "id": 9356,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "WHR",
+          "id": 9357,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "WHLB",
+          "id": 9358,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "WHEB",
+          "id": 9359,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "WAH",
+          "id": 9360,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "ACL",
+          "id": 9361,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "WXLM",
+          "id": 9362,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "WCA",
+          "id": 9363,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "WIA",
+          "id": 9364,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "CACL",
+          "id": 9365,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "FE",
+          "id": 9366,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "CWG",
+          "id": 9367,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "NE64",
+          "id": 9368,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "NR64",
+          "id": 9369,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "VN",
+          "id": 9370,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "NE42",
+          "id": 9371,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "VNR",
+          "id": 15808,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "VNR",
+          "id": 15808,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "VNL (4)",
+          "id": 33584,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "VNL (4)",
+          "id": 33584,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "VNR (4)",
+          "id": 35479,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "VNR (4)",
+          "id": 35479,
+          "make": "VOLVO TRUCK"
+        }
+      ]
+    },
+    "volvo|2026": {
+      "make": "Volvo",
+      "year": 2026,
+      "source": {
+        "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeYear/make/Volvo/modelyear/2026?format=json",
+        "retrievedAt": "2026-10-16T19:55:33.214Z",
+        "status": 200,
+        "contentType": "application/json",
+        "sha256": "77c1324e567c45d33f20fc5033d26d9ce7c73a6865fca6d1eeeea589388da53c",
+        "bytes": 5923
+      },
+      "models": [
+        {
+          "name": "XC60",
+          "id": 1962,
+          "make": "VOLVO"
+        },
+        {
+          "name": "XC90",
+          "id": 3132,
+          "make": "VOLVO"
+        },
+        {
+          "name": "V60CC",
+          "id": 10206,
+          "make": "VOLVO"
+        },
+        {
+          "name": "S90",
+          "id": 13798,
+          "make": "VOLVO"
+        },
+        {
+          "name": "V90CC",
+          "id": 13800,
+          "make": "VOLVO"
+        },
+        {
+          "name": "B10M",
+          "id": 14122,
+          "make": "VOLVO"
+        },
+        {
+          "name": "Cab Over Engine HT",
+          "id": 14126,
+          "make": "VOLVO"
+        },
+        {
+          "name": "Cab Over Engine HT",
+          "id": 14126,
+          "make": "VOLVO"
+        },
+        {
+          "name": "Cab Over Engine LT",
+          "id": 14127,
+          "make": "VOLVO"
+        },
+        {
+          "name": "Cab Over Engine LT",
+          "id": 14127,
+          "make": "VOLVO"
+        },
+        {
+          "name": "F12 w/F7 Cab",
+          "id": 14130,
+          "make": "VOLVO"
+        },
+        {
+          "name": "F12 w/F7 Cab",
+          "id": 14130,
+          "make": "VOLVO"
+        },
+        {
+          "name": "F6 w/F7 Cab",
+          "id": 14131,
+          "make": "VOLVO"
+        },
+        {
+          "name": "F6 w/F7 Cab",
+          "id": 14131,
+          "make": "VOLVO"
+        },
+        {
+          "name": "Cab Behind Engine",
+          "id": 14135,
+          "make": "VOLVO"
+        },
+        {
+          "name": "Cab Behind Engine",
+          "id": 14135,
+          "make": "VOLVO"
+        },
+        {
+          "name": "Volvo Trailers",
+          "id": 14140,
+          "make": "VOLVO"
+        },
+        {
+          "name": "XC40",
+          "id": 23714,
+          "make": "VOLVO"
+        },
+        {
+          "name": "VT",
+          "id": 27151,
+          "make": "VOLVO"
+        },
+        {
+          "name": "VS",
+          "id": 27152,
+          "make": "VOLVO"
+        },
+        {
+          "name": "B12R",
+          "id": 31451,
+          "make": "VOLVO"
+        },
+        {
+          "name": "B7R",
+          "id": 31452,
+          "make": "VOLVO"
+        },
+        {
+          "name": "B12B",
+          "id": 31453,
+          "make": "VOLVO"
+        },
+        {
+          "name": "B12M",
+          "id": 31454,
+          "make": "VOLVO"
+        },
+        {
+          "name": "B9TL",
+          "id": 31455,
+          "make": "VOLVO"
+        },
+        {
+          "name": "B9R",
+          "id": 31456,
+          "make": "VOLVO"
+        },
+        {
+          "name": "B9S",
+          "id": 31457,
+          "make": "VOLVO"
+        },
+        {
+          "name": "B9L",
+          "id": 31458,
+          "make": "VOLVO"
+        },
+        {
+          "name": "BXR",
+          "id": 31459,
+          "make": "VOLVO"
+        },
+        {
+          "name": "B5R",
+          "id": 31460,
+          "make": "VOLVO"
+        },
+        {
+          "name": "BRLH",
+          "id": 31461,
+          "make": "VOLVO"
+        },
+        {
+          "name": "BXXR",
+          "id": 31462,
+          "make": "VOLVO"
+        },
+        {
+          "name": "BFE",
+          "id": 31463,
+          "make": "VOLVO"
+        },
+        {
+          "name": "BXRB",
+          "id": 31464,
+          "make": "VOLVO"
+        },
+        {
+          "name": "B8R",
+          "id": 31465,
+          "make": "VOLVO"
+        },
+        {
+          "name": "BRH",
+          "id": 31466,
+          "make": "VOLVO"
+        },
+        {
+          "name": "B5TL",
+          "id": 31467,
+          "make": "VOLVO"
+        },
+        {
+          "name": "BE",
+          "id": 31468,
+          "make": "VOLVO"
+        },
+        {
+          "name": "B8L",
+          "id": 31469,
+          "make": "VOLVO"
+        },
+        {
+          "name": "B13R",
+          "id": 31470,
+          "make": "VOLVO"
+        },
+        {
+          "name": "EX30",
+          "id": 34308,
+          "make": "VOLVO"
+        },
+        {
+          "name": "EX90",
+          "id": 34309,
+          "make": "VOLVO"
+        },
+        {
+          "name": "EC40",
+          "id": 34313,
+          "make": "VOLVO"
+        },
+        {
+          "name": "EX40",
+          "id": 34314,
+          "make": "VOLVO"
+        },
+        {
+          "name": "EX30 CC",
+          "id": 36146,
+          "make": "VOLVO"
+        },
+        {
+          "name": "VHD",
+          "id": 1965,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "VHD",
+          "id": 1965,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "VNL",
+          "id": 1967,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "VNL",
+          "id": 1967,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "VAH",
+          "id": 1968,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "VAH",
+          "id": 1968,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "WX",
+          "id": 9353,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "WHL",
+          "id": 9354,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "WXLL",
+          "id": 9355,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "WG",
+          "id": 9356,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "WHR",
+          "id": 9357,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "WHLB",
+          "id": 9358,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "WHEB",
+          "id": 9359,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "WAH",
+          "id": 9360,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "ACL",
+          "id": 9361,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "WXLM",
+          "id": 9362,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "WCA",
+          "id": 9363,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "WIA",
+          "id": 9364,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "CACL",
+          "id": 9365,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "FE",
+          "id": 9366,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "CWG",
+          "id": 9367,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "NE64",
+          "id": 9368,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "NR64",
+          "id": 9369,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "VN",
+          "id": 9370,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "NE42",
+          "id": 9371,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "VNR",
+          "id": 15808,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "VNR",
+          "id": 15808,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "VNL (4)",
+          "id": 33584,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "VNL (4)",
+          "id": 33584,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "VNR (4)",
+          "id": 35479,
+          "make": "VOLVO TRUCK"
+        },
+        {
+          "name": "VNR (4)",
+          "id": 35479,
+          "make": "VOLVO TRUCK"
+        }
+      ]
+    },
+    "chrysler|2024": {
+      "make": "Chrysler",
+      "year": 2024,
+      "source": {
+        "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeYear/make/Chrysler/modelyear/2024?format=json",
+        "retrievedAt": "2026-10-16T19:55:34.185Z",
+        "status": 200,
+        "contentType": "application/json",
+        "sha256": "27f0ccb5459015ce81dc9772cb07013380eaeaf25982edb8207587e075891d18",
+        "bytes": 358
+      },
+      "models": [
+        {
+          "name": "Pacifica",
+          "id": 3628,
+          "make": "CHRYSLER"
+        },
+        {
+          "name": "Voyager",
+          "id": 15131,
+          "make": "CHRYSLER"
+        },
+        {
+          "name": "Grand Caravan",
+          "id": 27830,
+          "make": "CHRYSLER"
+        }
+      ]
+    },
+    "chrysler|2025": {
+      "make": "Chrysler",
+      "year": 2025,
+      "source": {
+        "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeYear/make/Chrysler/modelyear/2025?format=json",
+        "retrievedAt": "2026-10-16T19:55:35.308Z",
+        "status": 200,
+        "contentType": "application/json",
+        "sha256": "9c3572923521fcfa033fea8dd4d5b8d3da8d6758ccc3f3933be8e2989e0a64f3",
+        "bytes": 358
+      },
+      "models": [
+        {
+          "name": "Pacifica",
+          "id": 3628,
+          "make": "CHRYSLER"
+        },
+        {
+          "name": "Voyager",
+          "id": 15131,
+          "make": "CHRYSLER"
+        },
+        {
+          "name": "Grand Caravan",
+          "id": 27830,
+          "make": "CHRYSLER"
+        }
+      ]
+    },
+    "chrysler|2026": {
+      "make": "Chrysler",
+      "year": 2026,
+      "source": {
+        "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeYear/make/Chrysler/modelyear/2026?format=json",
+        "retrievedAt": "2026-10-16T19:55:36.486Z",
+        "status": 200,
+        "contentType": "application/json",
+        "sha256": "15c4711b9678627a9e820d32ffd711e913009f50147cb095a3d280fd87b39280",
+        "bytes": 358
+      },
+      "models": [
+        {
+          "name": "Pacifica",
+          "id": 3628,
+          "make": "CHRYSLER"
+        },
+        {
+          "name": "Voyager",
+          "id": 15131,
+          "make": "CHRYSLER"
+        },
+        {
+          "name": "Grand Caravan",
+          "id": 27830,
+          "make": "CHRYSLER"
+        }
+      ]
+    }
+  },
+  "failed": {}
+}

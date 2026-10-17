@@ -1,0 +1,1305 @@
+{
+  "results": {
+    "student": {
+      "profile": {
+        "budgetUsd": 25000,
+        "minSeats": 5,
+        "annualMiles": 6000,
+        "homeCharging": false,
+        "publicElectricityUsdPerKwh": 0.45,
+        "priorities": [
+          "price",
+          "running",
+          "efficiency"
+        ]
+      },
+      "candidateCount": 4,
+      "distinctCount": 4,
+      "top10": [
+        {
+          "id": "epa-47996",
+          "brand": "Toyota",
+          "model": "Corolla Hatchback",
+          "score": 56.94168974014837,
+          "groupScores": {
+            "affordability": 52.49946156552218,
+            "runningCost": 43.362831858407084,
+            "performance": 99.62793272039605,
+            "practicality": 100,
+            "rangeConvenience": 90,
+            "safety": null,
+            "environment": 37.12871287128713
+          },
+          "energyUsd": 685.7142857142857
+        },
+        {
+          "id": "epa-48016",
+          "brand": "Honda",
+          "model": "Civic 4Dr",
+          "score": 56.6229212012024,
+          "groupScores": {
+            "affordability": 51.52248956669586,
+            "runningCost": 44.75138121546962,
+            "performance": 97.2972972972973,
+            "practicality": 96.56666666666666,
+            "rangeConvenience": 90,
+            "safety": null,
+            "environment": 37.688442211055275
+          },
+          "energyUsd": 666.6666666666666
+        },
+        {
+          "id": "epa-48493",
+          "brand": "Toyota",
+          "model": "Corolla",
+          "score": 55.558912348448345,
+          "groupScores": {
+            "affordability": 55.63440186620037,
+            "runningCost": 43.362831858407084,
+            "performance": null,
+            "practicality": 100,
+            "rangeConvenience": 90,
+            "safety": null,
+            "environment": 37.12871287128713
+          },
+          "energyUsd": 685.7142857142857
+        },
+        {
+          "id": "epa-48911",
+          "brand": "Toyota",
+          "model": "Corolla Cross",
+          "score": 52.17683946712222,
+          "groupScores": {
+            "affordability": 51.759910454526754,
+            "runningCost": 39.02439024390244,
+            "performance": null,
+            "practicality": 100,
+            "rangeConvenience": 90,
+            "safety": null,
+            "environment": 35.21126760563381
+          },
+          "energyUsd": 750
+        }
+      ],
+      "warnings": [],
+      "unsupported": [
+        "safety"
+      ]
+    },
+    "performance": {
+      "profile": {
+        "budgetUsd": 80000,
+        "minHorsepowerHp": 180,
+        "targetHorsepowerHp": 300,
+        "priorities": [
+          "performance",
+          "range",
+          "price"
+        ]
+      },
+      "candidateCount": 29,
+      "distinctCount": 6,
+      "top10": [
+        {
+          "id": "epa-48042",
+          "brand": "Honda",
+          "model": "Civic 5Dr",
+          "score": 84.29279121907413,
+          "groupScores": {
+            "affordability": 75.48145351250157,
+            "runningCost": 26.470588235294116,
+            "performance": 99.3103448275862,
+            "practicality": 90,
+            "rangeConvenience": 90,
+            "safety": null,
+            "environment": 29.182879377431906
+          },
+          "energyUsd": 2000
+        },
+        {
+          "id": "epa-47243",
+          "brand": "Toyota",
+          "model": "Prius",
+          "score": 80.73904765467299,
+          "groupScores": {
+            "affordability": 89.12156425055552,
+            "runningCost": 67.00350587750052,
+            "performance": 74.2506187551563,
+            "practicality": 100,
+            "rangeConvenience": 90,
+            "safety": null,
+            "environment": 49.18032786885246
+          },
+          "energyUsd": 842.1052631578947
+        },
+        {
+          "id": "epa-46974",
+          "brand": "Nissan",
+          "model": "LEAF SV",
+          "score": 79.79076063048387,
+          "groupScores": {
+            "affordability": 83.0121358165186,
+            "runningCost": null,
+            "performance": 81.41521760981003,
+            "practicality": 100,
+            "rangeConvenience": 67.5,
+            "safety": null,
+            "environment": 100
+          },
+          "energyUsd": null
+        },
+        {
+          "id": "epa-48018",
+          "brand": "Honda",
+          "model": "Civic 4Dr",
+          "score": 80.67013538042926,
+          "groupScores": {
+            "affordability": 88.4209639197566,
+            "runningCost": 60.00999750062484,
+            "performance": 76.41509433962264,
+            "practicality": 96.56666666666666,
+            "rangeConvenience": 90,
+            "safety": null,
+            "environment": 45.31722054380664
+          },
+          "energyUsd": 979.5918367346939
+        },
+        {
+          "id": "epa-48505",
+          "brand": "Honda",
+          "model": "Accord Hybrid",
+          "score": 80.60284479765686,
+          "groupScores": {
+            "affordability": 83.98064477084804,
+            "runningCost": 59.01639344262294,
+            "performance": 77.85467128027682,
+            "practicality": 100,
+            "rangeConvenience": 90,
+            "safety": null,
+            "environment": 44.91017964071857
+          },
+          "energyUsd": 1000
+        },
+        {
+          "id": "epa-46694",
+          "brand": "Honda",
+          "model": "CR-V FWD",
+          "score": 80.04337001606227,
+          "groupScores": {
+            "affordability": 85.19449470512888,
+            "runningCost": 50,
+            "performance": 77.85467128027682,
+            "practicality": 100,
+            "rangeConvenience": 90,
+            "safety": null,
+            "environment": 40.21447721179625
+          },
+          "energyUsd": 1200
+        }
+      ],
+      "warnings": [],
+      "unsupported": [
+        "safety"
+      ]
+    },
+    "sevenSeats": {
+      "profile": {
+        "budgetUsd": 60000,
+        "minSeats": 7,
+        "priorities": [
+          "space",
+          "safety",
+          "running"
+        ]
+      },
+      "candidateCount": 0,
+      "distinctCount": 0,
+      "top10": [],
+      "warnings": [
+        "Official safety ratings are unavailable for these candidates; safety cannot differentiate these matches."
+      ],
+      "unsupported": [
+        "affordability",
+        "runningCost",
+        "performance",
+        "practicality",
+        "rangeConvenience",
+        "safety",
+        "environment"
+      ]
+    },
+    "city": {
+      "profile": {
+        "budgetUsd": 40000,
+        "minSeats": 4,
+        "annualMiles": 4000,
+        "cityDrivingShare": 0.9,
+        "targetLengthMm": 4400,
+        "priorities": [
+          "price",
+          "space",
+          "running"
+        ]
+      },
+      "candidateCount": 39,
+      "distinctCount": 10,
+      "top10": [
+        {
+          "id": "epa-48861",
+          "brand": "Toyota",
+          "model": "Prius",
+          "score": 79.57969302960237,
+          "groupScores": {
+            "affordability": 66.56342402253172,
+            "runningCost": 75.97049309312301,
+            "performance": 99.398699226899,
+            "practicality": 100,
+            "rangeConvenience": 90,
+            "safety": null,
+            "environment": 49.18032786885246
+          },
+          "energyUsd": 281.20300751879705
+        },
+        {
+          "id": "epa-48503",
+          "brand": "Honda",
+          "model": "Civic 5Dr",
+          "score": 76.99170730796251,
+          "groupScores": {
+            "affordability": 63.76985459476748,
+            "runningCost": 70.48444288260974,
+            "performance": 98.78048780487805,
+            "practicality": 98.9170151568777,
+            "rangeConvenience": 90,
+            "safety": null,
+            "environment": 44.64285714285714
+          },
+          "energyUsd": 323.5555555555556
+        },
+        {
+          "id": "epa-48869",
+          "brand": "Ford",
+          "model": "Maverick HEV FWD",
+          "score": 76.75758912109005,
+          "groupScores": {
+            "affordability": 69.82548353247252,
+            "runningCost": 62.34604344374097,
+            "performance": null,
+            "practicality": 100,
+            "rangeConvenience": 90,
+            "safety": null,
+            "environment": 39.0625
+          },
+          "energyUsd": 388.57142857142856
+        },
+        {
+          "id": "epa-46973",
+          "brand": "Nissan",
+          "model": "LEAF",
+          "score": 81.20522230626564,
+          "groupScores": {
+            "affordability": 66.89355846806393,
+            "runningCost": null,
+            "performance": 96.74818597151304,
+            "practicality": 99.6650478692048,
+            "rangeConvenience": 54.75,
+            "safety": null,
+            "environment": 100
+          },
+          "energyUsd": null
+        },
+        {
+          "id": "epa-47996",
+          "brand": "Toyota",
+          "model": "Corolla Hatchback",
+          "score": 77.61314913386748,
+          "groupScores": {
+            "affordability": 73.8863343714979,
+            "runningCost": 51.10960440983761,
+            "performance": 99.62793272039605,
+            "practicality": 99.94937699758668,
+            "rangeConvenience": 90,
+            "safety": null,
+            "environment": 37.12871287128713
+          },
+          "energyUsd": 489.0243902439024
+        },
+        {
+          "id": "epa-48018",
+          "brand": "Honda",
+          "model": "Civic 4Dr",
+          "score": 76.34694342841799,
+          "groupScores": {
+            "affordability": 65.6248045354943,
+            "runningCost": 70.67908914231786,
+            "performance": 98.78048780487805,
+            "practicality": 93.747274837485,
+            "rangeConvenience": 90,
+            "safety": null,
+            "environment": 45.31722054380664
+          },
+          "energyUsd": 322.0425531914894
+        },
+        {
+          "id": "epa-48493",
+          "brand": "Toyota",
+          "model": "Corolla",
+          "score": 77.30565221935227,
+          "groupScores": {
+            "affordability": 76.24836594688406,
+            "runningCost": 51.10960440983761,
+            "performance": null,
+            "practicality": 100,
+            "rangeConvenience": 90,
+            "safety": null,
+            "environment": 37.12871287128713
+          },
+          "energyUsd": 489.0243902439024
+        },
+        {
+          "id": "epa-46694",
+          "brand": "Honda",
+          "model": "CR-V FWD",
+          "score": 72.8890334210045,
+          "groupScores": {
+            "affordability": 58.99221026298543,
+            "runningCost": 63.46951959478232,
+            "performance": 98.25327510917032,
+            "practicality": 96.03616372637389,
+            "rangeConvenience": 90,
+            "safety": null,
+            "environment": 40.21447721179625
+          },
+          "energyUsd": 379.328165374677
+        },
+        {
+          "id": "epa-48939",
+          "brand": "Toyota",
+          "model": "Corolla Cross Hybrid AWD",
+          "score": 76.05427668982945,
+          "groupScores": {
+            "affordability": 66.33595360695581,
+            "runningCost": 65.5960995577987,
+            "performance": null,
+            "practicality": 100,
+            "rangeConvenience": 90,
+            "safety": null,
+            "environment": 41.78272980501392
+          },
+          "energyUsd": 362.10526315789474
+        },
+        {
+          "id": "epa-48505",
+          "brand": "Honda",
+          "model": "Accord Hybrid",
+          "score": 71.51731794765298,
+          "groupScores": {
+            "affordability": 56.72142505773886,
+            "runningCost": 71.10751959630434,
+            "performance": 98.25327510917032,
+            "practicality": 88.75514682295591,
+            "rangeConvenience": 90,
+            "safety": null,
+            "environment": 44.91017964071857
+          },
+          "energyUsd": 318.716577540107
+        }
+      ],
+      "warnings": [],
+      "unsupported": [
+        "safety"
+      ]
+    },
+    "highway": {
+      "profile": {
+        "budgetUsd": 60000,
+        "minSeats": 5,
+        "annualMiles": 25000,
+        "cityDrivingShare": 0.1,
+        "longTripsPerYear": 12,
+        "priorities": [
+          "range",
+          "running",
+          "space"
+        ]
+      },
+      "candidateCount": 39,
+      "distinctCount": 10,
+      "top10": [
+        {
+          "id": "epa-47243",
+          "brand": "Toyota",
+          "model": "Prius",
+          "score": 82.90121737995754,
+          "groupScores": {
+            "affordability": 82.16922180611373,
+            "runningCost": 66.29473278747405,
+            "performance": 99.398699226899,
+            "practicality": 100,
+            "rangeConvenience": 90,
+            "safety": null,
+            "environment": 49.18032786885246
+          },
+          "energyUsd": 1782.5814536340852
+        },
+        {
+          "id": "epa-48018",
+          "brand": "Honda",
+          "model": "Civic 4Dr",
+          "score": 79.79717819710997,
+          "groupScores": {
+            "affordability": 81.11574710137948,
+            "runningCost": 58.287150419583035,
+            "performance": 98.78048780487805,
+            "practicality": 96.56666666666666,
+            "rangeConvenience": 90,
+            "safety": null,
+            "environment": 45.31722054380664
+          },
+          "energyUsd": 2114.893617021277
+        },
+        {
+          "id": "epa-48869",
+          "brand": "Ford",
+          "model": "Maverick HEV FWD",
+          "score": 74.93537758073121,
+          "groupScores": {
+            "affordability": 83.88817936383295,
+            "runningCost": 44.190147901719506,
+            "performance": null,
+            "practicality": 100,
+            "rangeConvenience": 90,
+            "safety": null,
+            "environment": 39.0625
+          },
+          "energyUsd": 2809.5238095238096
+        },
+        {
+          "id": "epa-46974",
+          "brand": "Nissan",
+          "model": "LEAF SV",
+          "score": 72.28556470005321,
+          "groupScores": {
+            "affordability": 73.32399525096777,
+            "runningCost": null,
+            "performance": 96.55501251639052,
+            "practicality": 100,
+            "rangeConvenience": 52.833333333333336,
+            "safety": null,
+            "environment": 100
+          },
+          "energyUsd": null
+        },
+        {
+          "id": "epa-48503",
+          "brand": "Honda",
+          "model": "Civic 5Dr",
+          "score": 79.72492545285999,
+          "groupScores": {
+            "affordability": 79.83992095847826,
+            "runningCost": 56.35707844905322,
+            "performance": 98.78048780487805,
+            "practicality": 100,
+            "rangeConvenience": 90,
+            "safety": null,
+            "environment": 44.64285714285714
+          },
+          "energyUsd": 2199.9999999999995
+        },
+        {
+          "id": "epa-48505",
+          "brand": "Honda",
+          "model": "Accord Hybrid",
+          "score": 79.16748281740416,
+          "groupScores": {
+            "affordability": 74.67634649127793,
+            "runningCost": 55.43497789442164,
+            "performance": 98.25327510917032,
+            "practicality": 100,
+            "rangeConvenience": 90,
+            "safety": null,
+            "environment": 44.91017964071857
+          },
+          "energyUsd": 2241.5329768270944
+        },
+        {
+          "id": "epa-47996",
+          "brand": "Toyota",
+          "model": "Corolla Hatchback",
+          "score": 77.91222509976899,
+          "groupScores": {
+            "affordability": 86.42443944868506,
+            "runningCost": 49.84779335109463,
+            "performance": 99.62793272039605,
+            "practicality": 100,
+            "rangeConvenience": 90,
+            "safety": null,
+            "environment": 37.12871287128713
+          },
+          "energyUsd": 2507.6219512195125
+        },
+        {
+          "id": "epa-46694",
+          "brand": "Honda",
+          "model": "CR-V FWD",
+          "score": 76.26035616485731,
+          "groupScores": {
+            "affordability": 76.39707165780054,
+            "runningCost": 45.56431739773286,
+            "performance": 98.25327510917032,
+            "practicality": 100,
+            "rangeConvenience": 90,
+            "safety": null,
+            "environment": 40.21447721179625
+          },
+          "energyUsd": 2732.558139534884
+        },
+        {
+          "id": "epa-48493",
+          "brand": "Toyota",
+          "model": "Corolla",
+          "score": 76.7180421066433,
+          "groupScores": {
+            "affordability": 87.83903618617545,
+            "runningCost": 49.84779335109463,
+            "performance": null,
+            "practicality": 100,
+            "rangeConvenience": 90,
+            "safety": null,
+            "environment": 37.12871287128713
+          },
+          "energyUsd": 2507.6219512195125
+        },
+        {
+          "id": "epa-48939",
+          "brand": "Toyota",
+          "model": "Corolla Cross Hybrid AWD",
+          "score": 76.1458186639163,
+          "groupScores": {
+            "affordability": 81.59629506582502,
+            "runningCost": 48.219978483147656,
+            "performance": null,
+            "practicality": 100,
+            "rangeConvenience": 90,
+            "safety": null,
+            "environment": 41.78272980501392
+          },
+          "energyUsd": 2590.6432748538014
+        }
+      ],
+      "warnings": [],
+      "unsupported": [
+        "safety"
+      ]
+    },
+    "homeEv": {
+      "profile": {
+        "budgetUsd": 45000,
+        "powertrains": [
+          "EV"
+        ],
+        "homeLevel2": true,
+        "homeElectricityUsdPerKwh": 0.16,
+        "annualMiles": 20000,
+        "priorities": [
+          "running",
+          "range",
+          "environment"
+        ]
+      },
+      "candidateCount": 4,
+      "distinctCount": 1,
+      "top10": [
+        {
+          "id": "epa-46974",
+          "brand": "Nissan",
+          "model": "LEAF SV",
+          "score": 90.03479903248021,
+          "groupScores": {
+            "affordability": 60.72480952726381,
+            "runningCost": 80.47808007728425,
+            "performance": 96.55501251639052,
+            "practicality": 100,
+            "rangeConvenience": 100,
+            "safety": null,
+            "environment": 100
+          },
+          "energyUsd": 985.0368
+        }
+      ],
+      "warnings": [],
+      "unsupported": [
+        "safety"
+      ]
+    },
+    "publicEv": {
+      "profile": {
+        "budgetUsd": 45000,
+        "powertrains": [
+          "EV"
+        ],
+        "homeCharging": false,
+        "publicElectricityUsdPerKwh": 0.55,
+        "annualMiles": 20000,
+        "priorities": [
+          "running",
+          "range",
+          "environment"
+        ]
+      },
+      "candidateCount": 4,
+      "distinctCount": 1,
+      "top10": [
+        {
+          "id": "epa-46974",
+          "brand": "Nissan",
+          "model": "LEAF SV",
+          "score": 59.76826598875328,
+          "groupScores": {
+            "affordability": 60.72480952726381,
+            "runningCost": 25.86413796484354,
+            "performance": 96.55501251639052,
+            "practicality": 100,
+            "rangeConvenience": 67.5,
+            "safety": null,
+            "environment": 100
+          },
+          "energyUsd": 3386.064
+        }
+      ],
+      "warnings": [],
+      "unsupported": [
+        "safety"
+      ]
+    },
+    "cargo": {
+      "profile": {
+        "budgetUsd": 60000,
+        "minSeats": 5,
+        "targetCargoVolumeL": 1100,
+        "minCargoVolumeL": 700,
+        "priorities": [
+          "space",
+          "performance",
+          "running"
+        ]
+      },
+      "candidateCount": 8,
+      "distinctCount": 1,
+      "top10": [
+        {
+          "id": "epa-46694",
+          "brand": "Honda",
+          "model": "CR-V FWD",
+          "score": 79.05244423222622,
+          "groupScores": {
+            "affordability": 76.39707165780054,
+            "runningCost": 50,
+            "performance": 77.85467128027682,
+            "practicality": 96.72272727272727,
+            "rangeConvenience": 90,
+            "safety": null,
+            "environment": 40.21447721179625
+          },
+          "energyUsd": 1200
+        }
+      ],
+      "warnings": [],
+      "unsupported": [
+        "safety"
+      ]
+    },
+    "safetyFamily": {
+      "profile": {
+        "budgetUsd": 50000,
+        "minSeats": 5,
+        "targetCargoVolumeL": 800,
+        "priorities": [
+          "safety",
+          "space",
+          "running"
+        ]
+      },
+      "candidateCount": 39,
+      "distinctCount": 10,
+      "top10": [
+        {
+          "id": "epa-48861",
+          "brand": "Toyota",
+          "model": "Prius",
+          "score": 84.60514666116495,
+          "groupScores": {
+            "affordability": 75.67221520572627,
+            "runningCost": 67.00350587750052,
+            "performance": 99.398699226899,
+            "practicality": 100,
+            "rangeConvenience": 90,
+            "safety": null,
+            "environment": 49.18032786885246
+          },
+          "energyUsd": 842.1052631578947
+        },
+        {
+          "id": "epa-48503",
+          "brand": "Honda",
+          "model": "Civic 5Dr",
+          "score": 79.21831918283523,
+          "groupScores": {
+            "affordability": 73.3348049184187,
+            "runningCost": 59.01639344262294,
+            "performance": 98.78048780487805,
+            "practicality": 93.3625,
+            "rangeConvenience": 90,
+            "safety": null,
+            "environment": 44.64285714285714
+          },
+          "energyUsd": 1000
+        },
+        {
+          "id": "epa-48869",
+          "brand": "Ford",
+          "model": "Maverick HEV FWD",
+          "score": 77.24637361538859,
+          "groupScores": {
+            "affordability": 78.33486338294074,
+            "runningCost": 47.43758212877792,
+            "performance": null,
+            "practicality": 100,
+            "rangeConvenience": 90,
+            "safety": null,
+            "environment": 39.0625
+          },
+          "energyUsd": 1263.157894736842
+        },
+        {
+          "id": "epa-46974",
+          "brand": "Nissan",
+          "model": "LEAF SV",
+          "score": 87.61338335329762,
+          "groupScores": {
+            "affordability": 65.62168766328809,
+            "runningCost": null,
+            "performance": 96.55501251639052,
+            "practicality": 91.76875,
+            "rangeConvenience": 67.5,
+            "safety": null,
+            "environment": 100
+          },
+          "energyUsd": null
+        },
+        {
+          "id": "epa-46694",
+          "brand": "Honda",
+          "model": "CR-V FWD",
+          "score": 78.97310175056639,
+          "groupScores": {
+            "affordability": 69.20946868582985,
+            "runningCost": 50,
+            "performance": 98.25327510917032,
+            "practicality": 100,
+            "rangeConvenience": 90,
+            "safety": null,
+            "environment": 40.21447721179625
+          },
+          "energyUsd": 1200
+        },
+        {
+          "id": "epa-48505",
+          "brand": "Honda",
+          "model": "Accord Hybrid",
+          "score": 72.93197264284761,
+          "groupScores": {
+            "affordability": 67.1897866364137,
+            "runningCost": 59.01639344262294,
+            "performance": 98.25327510917032,
+            "practicality": 79.55625,
+            "rangeConvenience": 90,
+            "safety": null,
+            "environment": 44.91017964071857
+          },
+          "energyUsd": 1000
+        },
+        {
+          "id": "epa-48018",
+          "brand": "Honda",
+          "model": "Civic 4Dr",
+          "score": 72.49910815913579,
+          "groupScores": {
+            "affordability": 74.89284705907023,
+            "runningCost": 60.00999750062484,
+            "performance": 98.78048780487805,
+            "practicality": 76.19375,
+            "rangeConvenience": 90,
+            "safety": null,
+            "environment": 45.31722054380664
+          },
+          "energyUsd": 979.5918367346939
+        },
+        {
+          "id": "epa-48939",
+          "brand": "Toyota",
+          "model": "Corolla Cross Hybrid AWD",
+          "score": 78.5981219688702,
+          "groupScores": {
+            "affordability": 75.48388890368793,
+            "runningCost": 52.437574316290124,
+            "performance": null,
+            "practicality": 100,
+            "rangeConvenience": 90,
+            "safety": null,
+            "environment": 41.78272980501392
+          },
+          "energyUsd": 1142.857142857143
+        },
+        {
+          "id": "epa-47996",
+          "brand": "Toyota",
+          "model": "Corolla Hatchback",
+          "score": 70.49151786719935,
+          "groupScores": {
+            "affordability": 81.55307323948772,
+            "runningCost": 43.362831858407084,
+            "performance": 99.62793272039605,
+            "practicality": 81.5,
+            "rangeConvenience": 90,
+            "safety": null,
+            "environment": 37.12871287128713
+          },
+          "energyUsd": 1371.4285714285713
+        },
+        {
+          "id": "epa-48493",
+          "brand": "Toyota",
+          "model": "Corolla",
+          "score": 76.41771395673926,
+          "groupScores": {
+            "affordability": 83.37764507762354,
+            "runningCost": 43.362831858407084,
+            "performance": null,
+            "practicality": 100,
+            "rangeConvenience": 90,
+            "safety": null,
+            "environment": 37.12871287128713
+          },
+          "energyUsd": 1371.4285714285713
+        }
+      ],
+      "warnings": [
+        "Official safety ratings are unavailable for these candidates; safety cannot differentiate these matches."
+      ],
+      "unsupported": [
+        "safety"
+      ]
+    },
+    "lowRunning": {
+      "profile": {
+        "budgetUsd": 60000,
+        "minSeats": 5,
+        "annualMiles": 18000,
+        "homeCharging": false,
+        "publicElectricityUsdPerKwh": 0.5,
+        "priorities": [
+          "running",
+          "efficiency",
+          "price"
+        ]
+      },
+      "candidateCount": 39,
+      "distinctCount": 10,
+      "top10": [
+        {
+          "id": "epa-47243",
+          "brand": "Toyota",
+          "model": "Prius",
+          "score": 75.29365954689973,
+          "groupScores": {
+            "affordability": 82.16922180611373,
+            "runningCost": 67.00350587750052,
+            "performance": 99.398699226899,
+            "practicality": 100,
+            "rangeConvenience": 90,
+            "safety": null,
+            "environment": 49.18032786885246
+          },
+          "energyUsd": 1263.157894736842
+        },
+        {
+          "id": "epa-48018",
+          "brand": "Honda",
+          "model": "Civic 4Dr",
+          "score": 71.00582848741884,
+          "groupScores": {
+            "affordability": 81.11574710137948,
+            "runningCost": 60.00999750062485,
+            "performance": 98.78048780487805,
+            "practicality": 96.56666666666666,
+            "rangeConvenience": 90,
+            "safety": null,
+            "environment": 45.31722054380664
+          },
+          "energyUsd": 1469.3877551020407
+        },
+        {
+          "id": "epa-48869",
+          "brand": "Ford",
+          "model": "Maverick HEV FWD",
+          "score": 62.522316384072624,
+          "groupScores": {
+            "affordability": 83.88817936383295,
+            "runningCost": 47.43758212877792,
+            "performance": null,
+            "practicality": 100,
+            "rangeConvenience": 90,
+            "safety": null,
+            "environment": 39.0625
+          },
+          "energyUsd": 1894.7368421052631
+        },
+        {
+          "id": "epa-46973",
+          "brand": "Nissan",
+          "model": "LEAF",
+          "score": 57.75759810710089,
+          "groupScores": {
+            "affordability": 81.96983346188935,
+            "runningCost": 30.171241020318785,
+            "performance": 96.74818597151304,
+            "practicality": 100,
+            "rangeConvenience": 54.75,
+            "safety": null,
+            "environment": 100
+          },
+          "energyUsd": 2738.376
+        },
+        {
+          "id": "epa-48503",
+          "brand": "Honda",
+          "model": "Civic 5Dr",
+          "score": 70.43270442296647,
+          "groupScores": {
+            "affordability": 79.83992095847826,
+            "runningCost": 59.01639344262294,
+            "performance": 98.78048780487805,
+            "practicality": 100,
+            "rangeConvenience": 90,
+            "safety": null,
+            "environment": 44.64285714285714
+          },
+          "energyUsd": 1500
+        },
+        {
+          "id": "epa-48505",
+          "brand": "Honda",
+          "model": "Accord Hybrid",
+          "score": 69.30766059443451,
+          "groupScores": {
+            "affordability": 74.67634649127793,
+            "runningCost": 59.01639344262294,
+            "performance": 98.25327510917032,
+            "practicality": 100,
+            "rangeConvenience": 90,
+            "safety": null,
+            "environment": 44.91017964071857
+          },
+          "energyUsd": 1500
+        },
+        {
+          "id": "epa-46694",
+          "brand": "Honda",
+          "model": "CR-V FWD",
+          "score": 64.83278337816914,
+          "groupScores": {
+            "affordability": 76.39707165780054,
+            "runningCost": 50,
+            "performance": 98.25327510917032,
+            "practicality": 100,
+            "rangeConvenience": 90,
+            "safety": null,
+            "environment": 40.21447721179625
+          },
+          "energyUsd": 1800
+        },
+        {
+          "id": "epa-47996",
+          "brand": "Toyota",
+          "model": "Corolla Hatchback",
+          "score": 63.54069906761341,
+          "groupScores": {
+            "affordability": 86.42443944868506,
+            "runningCost": 43.36283185840707,
+            "performance": 99.62793272039605,
+            "practicality": 100,
+            "rangeConvenience": 90,
+            "safety": null,
+            "environment": 37.12871287128713
+          },
+          "energyUsd": 2057.1428571428573
+        },
+        {
+          "id": "epa-48939",
+          "brand": "Toyota",
+          "model": "Corolla Cross Hybrid AWD",
+          "score": 64.8949719397323,
+          "groupScores": {
+            "affordability": 81.59629506582502,
+            "runningCost": 52.43757431629014,
+            "performance": null,
+            "practicality": 100,
+            "rangeConvenience": 90,
+            "safety": null,
+            "environment": 41.78272980501392
+          },
+          "energyUsd": 1714.2857142857142
+        },
+        {
+          "id": "epa-48493",
+          "brand": "Toyota",
+          "model": "Corolla",
+          "score": 61.09120341835869,
+          "groupScores": {
+            "affordability": 87.83903618617545,
+            "runningCost": 43.36283185840707,
+            "performance": null,
+            "practicality": 100,
+            "rangeConvenience": 90,
+            "safety": null,
+            "environment": 37.12871287128713
+          },
+          "energyUsd": 2057.1428571428573
+        }
+      ],
+      "warnings": [],
+      "unsupported": [
+        "safety"
+      ]
+    }
+  },
+  "overlap": [
+    {
+      "a": "performance",
+      "b": "student",
+      "jaccard": 0
+    },
+    {
+      "a": "performance",
+      "b": "sevenSeats",
+      "jaccard": 0
+    },
+    {
+      "a": "performance",
+      "b": "publicEv",
+      "jaccard": 0.16666666666666666
+    },
+    {
+      "a": "performance",
+      "b": "safetyFamily",
+      "jaccard": 0.3333333333333333
+    },
+    {
+      "a": "sevenSeats",
+      "b": "student",
+      "jaccard": 0
+    },
+    {
+      "a": "city",
+      "b": "student",
+      "jaccard": 0.16666666666666666
+    },
+    {
+      "a": "city",
+      "b": "performance",
+      "jaccard": 0.23076923076923078
+    },
+    {
+      "a": "city",
+      "b": "sevenSeats",
+      "jaccard": 0
+    },
+    {
+      "a": "city",
+      "b": "highway",
+      "jaccard": 0.6666666666666666
+    },
+    {
+      "a": "city",
+      "b": "homeEv",
+      "jaccard": 0
+    },
+    {
+      "a": "city",
+      "b": "publicEv",
+      "jaccard": 0
+    },
+    {
+      "a": "city",
+      "b": "safetyFamily",
+      "jaccard": 0.8181818181818182
+    },
+    {
+      "a": "city",
+      "b": "lowRunning",
+      "jaccard": 0.8181818181818182
+    },
+    {
+      "a": "highway",
+      "b": "student",
+      "jaccard": 0.16666666666666666
+    },
+    {
+      "a": "highway",
+      "b": "performance",
+      "jaccard": 0.45454545454545453
+    },
+    {
+      "a": "highway",
+      "b": "sevenSeats",
+      "jaccard": 0
+    },
+    {
+      "a": "highway",
+      "b": "homeEv",
+      "jaccard": 0.1
+    },
+    {
+      "a": "highway",
+      "b": "publicEv",
+      "jaccard": 0.1
+    },
+    {
+      "a": "highway",
+      "b": "safetyFamily",
+      "jaccard": 0.8181818181818182
+    },
+    {
+      "a": "highway",
+      "b": "lowRunning",
+      "jaccard": 0.8181818181818182
+    },
+    {
+      "a": "homeEv",
+      "b": "student",
+      "jaccard": 0
+    },
+    {
+      "a": "homeEv",
+      "b": "performance",
+      "jaccard": 0.16666666666666666
+    },
+    {
+      "a": "homeEv",
+      "b": "sevenSeats",
+      "jaccard": 0
+    },
+    {
+      "a": "homeEv",
+      "b": "publicEv",
+      "jaccard": 1
+    },
+    {
+      "a": "homeEv",
+      "b": "safetyFamily",
+      "jaccard": 0.1
+    },
+    {
+      "a": "homeEv",
+      "b": "lowRunning",
+      "jaccard": 0
+    },
+    {
+      "a": "publicEv",
+      "b": "student",
+      "jaccard": 0
+    },
+    {
+      "a": "publicEv",
+      "b": "sevenSeats",
+      "jaccard": 0
+    },
+    {
+      "a": "publicEv",
+      "b": "safetyFamily",
+      "jaccard": 0.1
+    },
+    {
+      "a": "cargo",
+      "b": "student",
+      "jaccard": 0
+    },
+    {
+      "a": "cargo",
+      "b": "performance",
+      "jaccard": 0.16666666666666666
+    },
+    {
+      "a": "cargo",
+      "b": "sevenSeats",
+      "jaccard": 0
+    },
+    {
+      "a": "cargo",
+      "b": "city",
+      "jaccard": 0.1
+    },
+    {
+      "a": "cargo",
+      "b": "highway",
+      "jaccard": 0.1
+    },
+    {
+      "a": "cargo",
+      "b": "homeEv",
+      "jaccard": 0
+    },
+    {
+      "a": "cargo",
+      "b": "publicEv",
+      "jaccard": 0
+    },
+    {
+      "a": "cargo",
+      "b": "safetyFamily",
+      "jaccard": 0.1
+    },
+    {
+      "a": "cargo",
+      "b": "lowRunning",
+      "jaccard": 0.1
+    },
+    {
+      "a": "safetyFamily",
+      "b": "student",
+      "jaccard": 0.16666666666666666
+    },
+    {
+      "a": "safetyFamily",
+      "b": "sevenSeats",
+      "jaccard": 0
+    },
+    {
+      "a": "lowRunning",
+      "b": "student",
+      "jaccard": 0.16666666666666666
+    },
+    {
+      "a": "lowRunning",
+      "b": "performance",
+      "jaccard": 0.3333333333333333
+    },
+    {
+      "a": "lowRunning",
+      "b": "sevenSeats",
+      "jaccard": 0
+    },
+    {
+      "a": "lowRunning",
+      "b": "publicEv",
+      "jaccard": 0
+    },
+    {
+      "a": "lowRunning",
+      "b": "safetyFamily",
+      "jaccard": 0.6666666666666666
+    }
+  ],
+  "explanation": "Shared results reflect the same verified local pool and overlapping requirements. Empty seven-seat results reflect missing seat evidence. Home/public EV can have identical models but different energy costs and convenience scores. No randomness or result cache."
+}

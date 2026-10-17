@@ -1,0 +1,678 @@
+[
+  {
+    "id": "epa-48016",
+    "match": {
+      "year": 2025,
+      "brand": "Honda",
+      "model": "Civic 4Dr",
+      "trim": null,
+      "drivetrain": "FWD",
+      "powertrain": "Gas"
+    },
+    "epaConfiguration": {
+      "transmission": "Automatic (variable gear ratios)",
+      "variant": {
+        "engineId": "5",
+        "cylinders": 4,
+        "engineDescription": "SIDI",
+        "transmissionDescription": null
+      }
+    },
+    "retailTrim": "LX",
+    "bodyType": "sedan",
+    "matchEvidence": "US 2025 Civic 4Dr, LX, FWD, Gas, Automatic (variable gear ratios); exact EPA engine 5. Select one documented retail trim within this EPA test group, not every trim. Manufacturer EPA ratings cross-checked against this configuration.",
+    "identitySource": {
+      "url": "https://hondanews.com/en-US/releases/release-c28e8d1efb94e520fef21ff3f800cb30-2025-honda-civic-sedan-specifications-features",
+      "evidence": "US 2025 Civic 4Dr, LX, FWD, Gas, Automatic (variable gear ratios); exact EPA engine 5. Select one documented retail trim within this EPA test group, not every trim. Manufacturer EPA ratings cross-checked against this configuration.",
+      "retrievedAt": "2026-10-16T19:27:19.885Z"
+    },
+    "specifications": {
+      "msrpUsd": 24250,
+      "seats": 5,
+      "horsepowerHp": 150,
+      "lengthMm": 4693.9,
+      "widthMm": 1800.9,
+      "heightMm": 1414.8,
+      "wheelbaseMm": 2735.6,
+      "cargoVolumeL": 419.1,
+      "torqueNm": 180.3
+    },
+    "fieldSources": {
+      "msrpUsd": {
+        "url": "https://hondanews.com/en-US/releases/release-d73d9911716c8277bb60a27897015f1e-2025-honda-civic-sedan-pricing-and-epa-ratings-2025",
+        "evidence": "January 3 2025 US price table: LX base MSRP USD 24250, excluding destination, tax, registration and options. Historical price.",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      },
+      "seats": {
+        "url": "https://hondanews.com/en-US/releases/release-c28e8d1efb94e520fef21ff3f800cb30-2025-honda-civic-sedan-specifications-features",
+        "evidence": "Selected US LX specification column: seats=5; inch ×25.4, cu ft ×28.316846592, lb-ft ×1.3558179483; hybrid hp is total system output, torque remains null. ",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      },
+      "horsepowerHp": {
+        "url": "https://hondanews.com/en-US/releases/release-c28e8d1efb94e520fef21ff3f800cb30-2025-honda-civic-sedan-specifications-features",
+        "evidence": "Selected US LX specification column: horsepowerHp=150; inch ×25.4, cu ft ×28.316846592, lb-ft ×1.3558179483; hybrid hp is total system output, torque remains null. ",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      },
+      "lengthMm": {
+        "url": "https://hondanews.com/en-US/releases/release-c28e8d1efb94e520fef21ff3f800cb30-2025-honda-civic-sedan-specifications-features",
+        "evidence": "Selected US LX specification column: lengthMm=4693.9; inch ×25.4, cu ft ×28.316846592, lb-ft ×1.3558179483; hybrid hp is total system output, torque remains null. ",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      },
+      "widthMm": {
+        "url": "https://hondanews.com/en-US/releases/release-c28e8d1efb94e520fef21ff3f800cb30-2025-honda-civic-sedan-specifications-features",
+        "evidence": "Selected US LX specification column: widthMm=1800.9; inch ×25.4, cu ft ×28.316846592, lb-ft ×1.3558179483; hybrid hp is total system output, torque remains null. ",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      },
+      "heightMm": {
+        "url": "https://hondanews.com/en-US/releases/release-c28e8d1efb94e520fef21ff3f800cb30-2025-honda-civic-sedan-specifications-features",
+        "evidence": "Selected US LX specification column: heightMm=1414.8; inch ×25.4, cu ft ×28.316846592, lb-ft ×1.3558179483; hybrid hp is total system output, torque remains null. ",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      },
+      "wheelbaseMm": {
+        "url": "https://hondanews.com/en-US/releases/release-c28e8d1efb94e520fef21ff3f800cb30-2025-honda-civic-sedan-specifications-features",
+        "evidence": "Selected US LX specification column: wheelbaseMm=2735.6; inch ×25.4, cu ft ×28.316846592, lb-ft ×1.3558179483; hybrid hp is total system output, torque remains null. ",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      },
+      "cargoVolumeL": {
+        "url": "https://hondanews.com/en-US/releases/release-c28e8d1efb94e520fef21ff3f800cb30-2025-honda-civic-sedan-specifications-features",
+        "evidence": "Selected US LX specification column: cargoVolumeL=419.1; inch ×25.4, cu ft ×28.316846592, lb-ft ×1.3558179483; hybrid hp is total system output, torque remains null. ",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      },
+      "torqueNm": {
+        "url": "https://hondanews.com/en-US/releases/release-c28e8d1efb94e520fef21ff3f800cb30-2025-honda-civic-sedan-specifications-features",
+        "evidence": "Selected US LX specification column: torqueNm=180.3; inch ×25.4, cu ft ×28.316846592, lb-ft ×1.3558179483; hybrid hp is total system output, torque remains null. ",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      }
+    }
+  },
+  {
+    "id": "epa-48017",
+    "match": {
+      "year": 2025,
+      "brand": "Honda",
+      "model": "Civic 4Dr",
+      "trim": null,
+      "drivetrain": "FWD",
+      "powertrain": "Gas"
+    },
+    "epaConfiguration": {
+      "transmission": "Automatic (AV-S7)",
+      "variant": {
+        "engineId": "6",
+        "cylinders": 4,
+        "engineDescription": "SIDI",
+        "transmissionDescription": null
+      }
+    },
+    "retailTrim": "Sport",
+    "bodyType": "sedan",
+    "matchEvidence": "US 2025 Civic 4Dr, Sport, FWD, Gas, Automatic (AV-S7); exact EPA engine 6. Select one documented retail trim within this EPA test group, not every trim. Manufacturer EPA ratings cross-checked against this configuration.",
+    "identitySource": {
+      "url": "https://hondanews.com/en-US/releases/release-c28e8d1efb94e520fef21ff3f800cb30-2025-honda-civic-sedan-specifications-features",
+      "evidence": "US 2025 Civic 4Dr, Sport, FWD, Gas, Automatic (AV-S7); exact EPA engine 6. Select one documented retail trim within this EPA test group, not every trim. Manufacturer EPA ratings cross-checked against this configuration.",
+      "retrievedAt": "2026-10-16T19:27:19.885Z"
+    },
+    "specifications": {
+      "msrpUsd": 26250,
+      "seats": 5,
+      "horsepowerHp": 150,
+      "lengthMm": 4693.9,
+      "widthMm": 1800.9,
+      "heightMm": 1414.8,
+      "wheelbaseMm": 2735.6,
+      "cargoVolumeL": 419.1,
+      "torqueNm": 180.3
+    },
+    "fieldSources": {
+      "msrpUsd": {
+        "url": "https://hondanews.com/en-US/releases/release-d73d9911716c8277bb60a27897015f1e-2025-honda-civic-sedan-pricing-and-epa-ratings-2025",
+        "evidence": "January 3 2025 US price table: Sport base MSRP USD 26250, excluding destination, tax, registration and options. Historical price.",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      },
+      "seats": {
+        "url": "https://hondanews.com/en-US/releases/release-c28e8d1efb94e520fef21ff3f800cb30-2025-honda-civic-sedan-specifications-features",
+        "evidence": "Selected US Sport specification column: seats=5; inch ×25.4, cu ft ×28.316846592, lb-ft ×1.3558179483; hybrid hp is total system output, torque remains null. ",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      },
+      "horsepowerHp": {
+        "url": "https://hondanews.com/en-US/releases/release-c28e8d1efb94e520fef21ff3f800cb30-2025-honda-civic-sedan-specifications-features",
+        "evidence": "Selected US Sport specification column: horsepowerHp=150; inch ×25.4, cu ft ×28.316846592, lb-ft ×1.3558179483; hybrid hp is total system output, torque remains null. ",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      },
+      "lengthMm": {
+        "url": "https://hondanews.com/en-US/releases/release-c28e8d1efb94e520fef21ff3f800cb30-2025-honda-civic-sedan-specifications-features",
+        "evidence": "Selected US Sport specification column: lengthMm=4693.9; inch ×25.4, cu ft ×28.316846592, lb-ft ×1.3558179483; hybrid hp is total system output, torque remains null. ",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      },
+      "widthMm": {
+        "url": "https://hondanews.com/en-US/releases/release-c28e8d1efb94e520fef21ff3f800cb30-2025-honda-civic-sedan-specifications-features",
+        "evidence": "Selected US Sport specification column: widthMm=1800.9; inch ×25.4, cu ft ×28.316846592, lb-ft ×1.3558179483; hybrid hp is total system output, torque remains null. ",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      },
+      "heightMm": {
+        "url": "https://hondanews.com/en-US/releases/release-c28e8d1efb94e520fef21ff3f800cb30-2025-honda-civic-sedan-specifications-features",
+        "evidence": "Selected US Sport specification column: heightMm=1414.8; inch ×25.4, cu ft ×28.316846592, lb-ft ×1.3558179483; hybrid hp is total system output, torque remains null. ",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      },
+      "wheelbaseMm": {
+        "url": "https://hondanews.com/en-US/releases/release-c28e8d1efb94e520fef21ff3f800cb30-2025-honda-civic-sedan-specifications-features",
+        "evidence": "Selected US Sport specification column: wheelbaseMm=2735.6; inch ×25.4, cu ft ×28.316846592, lb-ft ×1.3558179483; hybrid hp is total system output, torque remains null. ",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      },
+      "cargoVolumeL": {
+        "url": "https://hondanews.com/en-US/releases/release-c28e8d1efb94e520fef21ff3f800cb30-2025-honda-civic-sedan-specifications-features",
+        "evidence": "Selected US Sport specification column: cargoVolumeL=419.1; inch ×25.4, cu ft ×28.316846592, lb-ft ×1.3558179483; hybrid hp is total system output, torque remains null. ",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      },
+      "torqueNm": {
+        "url": "https://hondanews.com/en-US/releases/release-c28e8d1efb94e520fef21ff3f800cb30-2025-honda-civic-sedan-specifications-features",
+        "evidence": "Selected US Sport specification column: torqueNm=180.3; inch ×25.4, cu ft ×28.316846592, lb-ft ×1.3558179483; hybrid hp is total system output, torque remains null. ",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      }
+    }
+  },
+  {
+    "id": "epa-48018",
+    "match": {
+      "year": 2025,
+      "brand": "Honda",
+      "model": "Civic 4Dr",
+      "trim": null,
+      "drivetrain": "FWD",
+      "powertrain": "HEV"
+    },
+    "epaConfiguration": {
+      "transmission": "Automatic (variable gear ratios)",
+      "variant": {
+        "engineId": "14",
+        "cylinders": 4,
+        "engineDescription": "SIDI; Hybrid",
+        "transmissionDescription": null
+      }
+    },
+    "retailTrim": "Sport Hybrid",
+    "bodyType": "sedan",
+    "matchEvidence": "US 2025 Civic 4Dr, Sport Hybrid, FWD, HEV, Automatic (variable gear ratios); exact EPA engine 14. Select one documented retail trim within this EPA test group, not every trim. Manufacturer EPA ratings cross-checked against this configuration.",
+    "identitySource": {
+      "url": "https://hondanews.com/en-US/releases/release-c28e8d1efb94e520fef21ff3f800cb30-2025-honda-civic-sedan-specifications-features",
+      "evidence": "US 2025 Civic 4Dr, Sport Hybrid, FWD, HEV, Automatic (variable gear ratios); exact EPA engine 14. Select one documented retail trim within this EPA test group, not every trim. Manufacturer EPA ratings cross-checked against this configuration.",
+      "retrievedAt": "2026-10-16T19:27:19.885Z"
+    },
+    "specifications": {
+      "msrpUsd": 28950,
+      "seats": 5,
+      "horsepowerHp": 200,
+      "lengthMm": 4693.9,
+      "widthMm": 1800.9,
+      "heightMm": 1414.8,
+      "wheelbaseMm": 2735.6,
+      "cargoVolumeL": 419.1,
+      "systemHorsepowerHp": 200
+    },
+    "fieldSources": {
+      "msrpUsd": {
+        "url": "https://hondanews.com/en-US/releases/release-d73d9911716c8277bb60a27897015f1e-2025-honda-civic-sedan-pricing-and-epa-ratings-2025",
+        "evidence": "January 3 2025 US price table: Sport Hybrid base MSRP USD 28950, excluding destination, tax, registration and options. Historical price.",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      },
+      "seats": {
+        "url": "https://hondanews.com/en-US/releases/release-c28e8d1efb94e520fef21ff3f800cb30-2025-honda-civic-sedan-specifications-features",
+        "evidence": "Selected US Sport Hybrid specification column: seats=5; inch ×25.4, cu ft ×28.316846592, lb-ft ×1.3558179483; hybrid hp is total system output, torque remains null. ",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      },
+      "horsepowerHp": {
+        "url": "https://hondanews.com/en-US/releases/release-c28e8d1efb94e520fef21ff3f800cb30-2025-honda-civic-sedan-specifications-features",
+        "evidence": "Selected US Sport Hybrid specification column: horsepowerHp=200; inch ×25.4, cu ft ×28.316846592, lb-ft ×1.3558179483; hybrid hp is total system output, torque remains null. ",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      },
+      "lengthMm": {
+        "url": "https://hondanews.com/en-US/releases/release-c28e8d1efb94e520fef21ff3f800cb30-2025-honda-civic-sedan-specifications-features",
+        "evidence": "Selected US Sport Hybrid specification column: lengthMm=4693.9; inch ×25.4, cu ft ×28.316846592, lb-ft ×1.3558179483; hybrid hp is total system output, torque remains null. ",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      },
+      "widthMm": {
+        "url": "https://hondanews.com/en-US/releases/release-c28e8d1efb94e520fef21ff3f800cb30-2025-honda-civic-sedan-specifications-features",
+        "evidence": "Selected US Sport Hybrid specification column: widthMm=1800.9; inch ×25.4, cu ft ×28.316846592, lb-ft ×1.3558179483; hybrid hp is total system output, torque remains null. ",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      },
+      "heightMm": {
+        "url": "https://hondanews.com/en-US/releases/release-c28e8d1efb94e520fef21ff3f800cb30-2025-honda-civic-sedan-specifications-features",
+        "evidence": "Selected US Sport Hybrid specification column: heightMm=1414.8; inch ×25.4, cu ft ×28.316846592, lb-ft ×1.3558179483; hybrid hp is total system output, torque remains null. ",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      },
+      "wheelbaseMm": {
+        "url": "https://hondanews.com/en-US/releases/release-c28e8d1efb94e520fef21ff3f800cb30-2025-honda-civic-sedan-specifications-features",
+        "evidence": "Selected US Sport Hybrid specification column: wheelbaseMm=2735.6; inch ×25.4, cu ft ×28.316846592, lb-ft ×1.3558179483; hybrid hp is total system output, torque remains null. ",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      },
+      "cargoVolumeL": {
+        "url": "https://hondanews.com/en-US/releases/release-c28e8d1efb94e520fef21ff3f800cb30-2025-honda-civic-sedan-specifications-features",
+        "evidence": "Selected US Sport Hybrid specification column: cargoVolumeL=419.1; inch ×25.4, cu ft ×28.316846592, lb-ft ×1.3558179483; hybrid hp is total system output, torque remains null. ",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      },
+      "systemHorsepowerHp": {
+        "url": "https://hondanews.com/en-US/releases/release-c28e8d1efb94e520fef21ff3f800cb30-2025-honda-civic-sedan-specifications-features",
+        "evidence": "Selected US Sport Hybrid specification column: systemHorsepowerHp=200; inch ×25.4, cu ft ×28.316846592, lb-ft ×1.3558179483; hybrid hp is total system output, torque remains null. ",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      }
+    }
+  },
+  {
+    "id": "epa-48502",
+    "match": {
+      "year": 2025,
+      "brand": "Honda",
+      "model": "Civic 5Dr",
+      "trim": null,
+      "drivetrain": "FWD",
+      "powertrain": "Gas"
+    },
+    "epaConfiguration": {
+      "transmission": "Automatic (AV-S7)",
+      "variant": {
+        "engineId": "25",
+        "cylinders": 4,
+        "engineDescription": "SIDI",
+        "transmissionDescription": null
+      }
+    },
+    "retailTrim": "Sport",
+    "bodyType": "hatchback",
+    "matchEvidence": "US 2025 Civic 5Dr, Sport, FWD, Gas, Automatic (AV-S7); exact EPA engine 25. Select one documented retail trim within this EPA test group, not every trim. Manufacturer EPA ratings cross-checked against this configuration.",
+    "identitySource": {
+      "url": "https://hondanews.com/en-US/honda-automobiles/releases/release-008e554add341b8444085beaa2041012-2025-honda-civic-hatchback-specifications-features",
+      "evidence": "US 2025 Civic 5Dr, Sport, FWD, Gas, Automatic (AV-S7); exact EPA engine 25. Select one documented retail trim within this EPA test group, not every trim. Manufacturer EPA ratings cross-checked against this configuration.",
+      "retrievedAt": "2026-10-16T19:27:19.885Z"
+    },
+    "specifications": {
+      "msrpUsd": 27450,
+      "seats": 5,
+      "horsepowerHp": 150,
+      "lengthMm": 4546.6,
+      "widthMm": 1800.9,
+      "heightMm": 1414.8,
+      "wheelbaseMm": 2735.6,
+      "torqueNm": 180.3
+    },
+    "fieldSources": {
+      "msrpUsd": {
+        "url": "https://hondanews.com/en-US/honda-automobiles/releases/release-d73d9911716c8277bb60a278970139ac-2025-honda-civic-hatchback-pricing-and-epa-ratings-2025",
+        "evidence": "January 3 2025 US price table: Sport base MSRP USD 27450, excluding destination, tax, registration and options. Historical price.",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      },
+      "seats": {
+        "url": "https://hondanews.com/en-US/honda-automobiles/releases/release-008e554add341b8444085beaa2041012-2025-honda-civic-hatchback-specifications-features",
+        "evidence": "Selected US Sport specification column: seats=5; inch ×25.4, cu ft ×28.316846592, lb-ft ×1.3558179483; hybrid hp is total system output, torque remains null. ",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      },
+      "horsepowerHp": {
+        "url": "https://hondanews.com/en-US/honda-automobiles/releases/release-008e554add341b8444085beaa2041012-2025-honda-civic-hatchback-specifications-features",
+        "evidence": "Selected US Sport specification column: horsepowerHp=150; inch ×25.4, cu ft ×28.316846592, lb-ft ×1.3558179483; hybrid hp is total system output, torque remains null. ",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      },
+      "lengthMm": {
+        "url": "https://hondanews.com/en-US/honda-automobiles/releases/release-008e554add341b8444085beaa2041012-2025-honda-civic-hatchback-specifications-features",
+        "evidence": "Selected US Sport specification column: lengthMm=4546.6; inch ×25.4, cu ft ×28.316846592, lb-ft ×1.3558179483; hybrid hp is total system output, torque remains null. ",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      },
+      "widthMm": {
+        "url": "https://hondanews.com/en-US/honda-automobiles/releases/release-008e554add341b8444085beaa2041012-2025-honda-civic-hatchback-specifications-features",
+        "evidence": "Selected US Sport specification column: widthMm=1800.9; inch ×25.4, cu ft ×28.316846592, lb-ft ×1.3558179483; hybrid hp is total system output, torque remains null. ",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      },
+      "heightMm": {
+        "url": "https://hondanews.com/en-US/honda-automobiles/releases/release-008e554add341b8444085beaa2041012-2025-honda-civic-hatchback-specifications-features",
+        "evidence": "Selected US Sport specification column: heightMm=1414.8; inch ×25.4, cu ft ×28.316846592, lb-ft ×1.3558179483; hybrid hp is total system output, torque remains null. ",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      },
+      "wheelbaseMm": {
+        "url": "https://hondanews.com/en-US/honda-automobiles/releases/release-008e554add341b8444085beaa2041012-2025-honda-civic-hatchback-specifications-features",
+        "evidence": "Selected US Sport specification column: wheelbaseMm=2735.6; inch ×25.4, cu ft ×28.316846592, lb-ft ×1.3558179483; hybrid hp is total system output, torque remains null. ",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      },
+      "torqueNm": {
+        "url": "https://hondanews.com/en-US/honda-automobiles/releases/release-008e554add341b8444085beaa2041012-2025-honda-civic-hatchback-specifications-features",
+        "evidence": "Selected US Sport specification column: torqueNm=180.3; inch ×25.4, cu ft ×28.316846592, lb-ft ×1.3558179483; hybrid hp is total system output, torque remains null. ",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      }
+    }
+  },
+  {
+    "id": "epa-48503",
+    "match": {
+      "year": 2025,
+      "brand": "Honda",
+      "model": "Civic 5Dr",
+      "trim": null,
+      "drivetrain": "FWD",
+      "powertrain": "HEV"
+    },
+    "epaConfiguration": {
+      "transmission": "Automatic (variable gear ratios)",
+      "variant": {
+        "engineId": "34",
+        "cylinders": 4,
+        "engineDescription": "SIDI; Hybrid",
+        "transmissionDescription": null
+      }
+    },
+    "retailTrim": "Sport Hybrid",
+    "bodyType": "hatchback",
+    "matchEvidence": "US 2025 Civic 5Dr, Sport Hybrid, FWD, HEV, Automatic (variable gear ratios); exact EPA engine 34. Select one documented retail trim within this EPA test group, not every trim. Manufacturer EPA ratings cross-checked against this configuration.",
+    "identitySource": {
+      "url": "https://hondanews.com/en-US/honda-automobiles/releases/release-008e554add341b8444085beaa2041012-2025-honda-civic-hatchback-specifications-features",
+      "evidence": "US 2025 Civic 5Dr, Sport Hybrid, FWD, HEV, Automatic (variable gear ratios); exact EPA engine 34. Select one documented retail trim within this EPA test group, not every trim. Manufacturer EPA ratings cross-checked against this configuration.",
+      "retrievedAt": "2026-10-16T19:27:19.885Z"
+    },
+    "specifications": {
+      "msrpUsd": 30150,
+      "seats": 5,
+      "horsepowerHp": 200,
+      "lengthMm": 4546.6,
+      "widthMm": 1800.9,
+      "heightMm": 1414.8,
+      "wheelbaseMm": 2735.6,
+      "systemHorsepowerHp": 200
+    },
+    "fieldSources": {
+      "msrpUsd": {
+        "url": "https://hondanews.com/en-US/honda-automobiles/releases/release-d73d9911716c8277bb60a278970139ac-2025-honda-civic-hatchback-pricing-and-epa-ratings-2025",
+        "evidence": "January 3 2025 US price table: Sport Hybrid base MSRP USD 30150, excluding destination, tax, registration and options. Historical price.",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      },
+      "seats": {
+        "url": "https://hondanews.com/en-US/honda-automobiles/releases/release-008e554add341b8444085beaa2041012-2025-honda-civic-hatchback-specifications-features",
+        "evidence": "Selected US Sport Hybrid specification column: seats=5; inch ×25.4, cu ft ×28.316846592, lb-ft ×1.3558179483; hybrid hp is total system output, torque remains null. ",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      },
+      "horsepowerHp": {
+        "url": "https://hondanews.com/en-US/honda-automobiles/releases/release-008e554add341b8444085beaa2041012-2025-honda-civic-hatchback-specifications-features",
+        "evidence": "Selected US Sport Hybrid specification column: horsepowerHp=200; inch ×25.4, cu ft ×28.316846592, lb-ft ×1.3558179483; hybrid hp is total system output, torque remains null. ",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      },
+      "lengthMm": {
+        "url": "https://hondanews.com/en-US/honda-automobiles/releases/release-008e554add341b8444085beaa2041012-2025-honda-civic-hatchback-specifications-features",
+        "evidence": "Selected US Sport Hybrid specification column: lengthMm=4546.6; inch ×25.4, cu ft ×28.316846592, lb-ft ×1.3558179483; hybrid hp is total system output, torque remains null. ",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      },
+      "widthMm": {
+        "url": "https://hondanews.com/en-US/honda-automobiles/releases/release-008e554add341b8444085beaa2041012-2025-honda-civic-hatchback-specifications-features",
+        "evidence": "Selected US Sport Hybrid specification column: widthMm=1800.9; inch ×25.4, cu ft ×28.316846592, lb-ft ×1.3558179483; hybrid hp is total system output, torque remains null. ",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      },
+      "heightMm": {
+        "url": "https://hondanews.com/en-US/honda-automobiles/releases/release-008e554add341b8444085beaa2041012-2025-honda-civic-hatchback-specifications-features",
+        "evidence": "Selected US Sport Hybrid specification column: heightMm=1414.8; inch ×25.4, cu ft ×28.316846592, lb-ft ×1.3558179483; hybrid hp is total system output, torque remains null. ",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      },
+      "wheelbaseMm": {
+        "url": "https://hondanews.com/en-US/honda-automobiles/releases/release-008e554add341b8444085beaa2041012-2025-honda-civic-hatchback-specifications-features",
+        "evidence": "Selected US Sport Hybrid specification column: wheelbaseMm=2735.6; inch ×25.4, cu ft ×28.316846592, lb-ft ×1.3558179483; hybrid hp is total system output, torque remains null. ",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      },
+      "systemHorsepowerHp": {
+        "url": "https://hondanews.com/en-US/honda-automobiles/releases/release-008e554add341b8444085beaa2041012-2025-honda-civic-hatchback-specifications-features",
+        "evidence": "Selected US Sport Hybrid specification column: systemHorsepowerHp=200; inch ×25.4, cu ft ×28.316846592, lb-ft ×1.3558179483; hybrid hp is total system output, torque remains null. ",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      }
+    }
+  },
+  {
+    "id": "epa-47949",
+    "match": {
+      "year": 2025,
+      "brand": "Honda",
+      "model": "CR-V FWD",
+      "trim": null,
+      "drivetrain": "FWD",
+      "powertrain": "Gas"
+    },
+    "epaConfiguration": {
+      "transmission": "Automatic (variable gear ratios)",
+      "variant": {
+        "engineId": "202",
+        "cylinders": 4,
+        "engineDescription": "SIDI",
+        "transmissionDescription": null
+      }
+    },
+    "retailTrim": "LX 2WD",
+    "bodyType": "suv",
+    "matchEvidence": "US 2025 CR-V FWD, LX 2WD, FWD, Gas, Automatic (variable gear ratios); exact EPA engine 202. Select one documented retail trim within this EPA test group, not every trim. Manufacturer EPA ratings cross-checked against this configuration.",
+    "identitySource": {
+      "url": "https://hondanews.com/en-US/honda-automobiles/releases/release-f43bcac5ded8efe77b071fcb0c097416-2025-honda-cr-v-specifications-and-features",
+      "evidence": "US 2025 CR-V FWD, LX 2WD, FWD, Gas, Automatic (variable gear ratios); exact EPA engine 202. Select one documented retail trim within this EPA test group, not every trim. Manufacturer EPA ratings cross-checked against this configuration.",
+      "retrievedAt": "2026-10-16T19:27:19.885Z"
+    },
+    "specifications": {
+      "msrpUsd": 30100,
+      "seats": 5,
+      "horsepowerHp": 190,
+      "lengthMm": 4693.9,
+      "widthMm": 1866.9,
+      "heightMm": 1681.5,
+      "wheelbaseMm": 2700,
+      "cargoVolumeL": 1112.9,
+      "torqueNm": 242.7
+    },
+    "fieldSources": {
+      "msrpUsd": {
+        "url": "https://hondanews.com/en-US/honda-automobiles/releases/release-d73d9911716c8277bb60a2789701d8f5-2025-honda-cr-v-pricing-and-epa-ratings-2025",
+        "evidence": "January 3 2025 US price table: LX 2WD base MSRP USD 30100, excluding destination, tax, registration and options. Historical price.",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      },
+      "seats": {
+        "url": "https://www.hondainfocenter.com/2025/CR-V/Feature-Guide/Specifications/",
+        "evidence": "Selected US LX 2WD specification column: seats=5; inch ×25.4, cu ft ×28.316846592, lb-ft ×1.3558179483; hybrid hp is total system output, torque remains null. Cargo behind second row only.",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      },
+      "horsepowerHp": {
+        "url": "https://hondanews.com/en-US/honda-automobiles/releases/release-f43bcac5ded8efe77b071fcb0c097416-2025-honda-cr-v-specifications-and-features",
+        "evidence": "Selected US LX 2WD specification column: horsepowerHp=190; inch ×25.4, cu ft ×28.316846592, lb-ft ×1.3558179483; hybrid hp is total system output, torque remains null. Cargo behind second row only.",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      },
+      "lengthMm": {
+        "url": "https://hondanews.com/en-US/honda-automobiles/releases/release-f43bcac5ded8efe77b071fcb0c097416-2025-honda-cr-v-specifications-and-features",
+        "evidence": "Selected US LX 2WD specification column: lengthMm=4693.9; inch ×25.4, cu ft ×28.316846592, lb-ft ×1.3558179483; hybrid hp is total system output, torque remains null. Cargo behind second row only.",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      },
+      "widthMm": {
+        "url": "https://hondanews.com/en-US/honda-automobiles/releases/release-f43bcac5ded8efe77b071fcb0c097416-2025-honda-cr-v-specifications-and-features",
+        "evidence": "Selected US LX 2WD specification column: widthMm=1866.9; inch ×25.4, cu ft ×28.316846592, lb-ft ×1.3558179483; hybrid hp is total system output, torque remains null. Cargo behind second row only.",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      },
+      "heightMm": {
+        "url": "https://hondanews.com/en-US/honda-automobiles/releases/release-f43bcac5ded8efe77b071fcb0c097416-2025-honda-cr-v-specifications-and-features",
+        "evidence": "Selected US LX 2WD specification column: heightMm=1681.5; inch ×25.4, cu ft ×28.316846592, lb-ft ×1.3558179483; hybrid hp is total system output, torque remains null. Cargo behind second row only.",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      },
+      "wheelbaseMm": {
+        "url": "https://hondanews.com/en-US/honda-automobiles/releases/release-f43bcac5ded8efe77b071fcb0c097416-2025-honda-cr-v-specifications-and-features",
+        "evidence": "Selected US LX 2WD specification column: wheelbaseMm=2700; inch ×25.4, cu ft ×28.316846592, lb-ft ×1.3558179483; hybrid hp is total system output, torque remains null. Cargo behind second row only.",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      },
+      "cargoVolumeL": {
+        "url": "https://hondanews.com/en-US/honda-automobiles/releases/release-f43bcac5ded8efe77b071fcb0c097416-2025-honda-cr-v-specifications-and-features",
+        "evidence": "Selected US LX 2WD specification column: cargoVolumeL=1112.9; inch ×25.4, cu ft ×28.316846592, lb-ft ×1.3558179483; hybrid hp is total system output, torque remains null. Cargo behind second row only.",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      },
+      "torqueNm": {
+        "url": "https://hondanews.com/en-US/honda-automobiles/releases/release-f43bcac5ded8efe77b071fcb0c097416-2025-honda-cr-v-specifications-and-features",
+        "evidence": "Selected US LX 2WD specification column: torqueNm=242.7; inch ×25.4, cu ft ×28.316846592, lb-ft ×1.3558179483; hybrid hp is total system output, torque remains null. Cargo behind second row only.",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      }
+    }
+  },
+  {
+    "id": "epa-47950",
+    "match": {
+      "year": 2025,
+      "brand": "Honda",
+      "model": "CR-V FWD",
+      "trim": null,
+      "drivetrain": "FWD",
+      "powertrain": "HEV"
+    },
+    "epaConfiguration": {
+      "transmission": "Automatic (variable gear ratios)",
+      "variant": {
+        "engineId": "212",
+        "cylinders": 4,
+        "engineDescription": "SIDI; Hybrid",
+        "transmissionDescription": null
+      }
+    },
+    "retailTrim": "Sport Hybrid 2WD",
+    "bodyType": "suv",
+    "matchEvidence": "US 2025 CR-V FWD, Sport Hybrid 2WD, FWD, HEV, Automatic (variable gear ratios); exact EPA engine 212. Select one documented retail trim within this EPA test group, not every trim. Manufacturer EPA ratings cross-checked against this configuration.",
+    "identitySource": {
+      "url": "https://hondanews.com/en-US/honda-automobiles/releases/release-f43bcac5ded8efe77b071fcb0c097416-2025-honda-cr-v-specifications-and-features",
+      "evidence": "US 2025 CR-V FWD, Sport Hybrid 2WD, FWD, HEV, Automatic (variable gear ratios); exact EPA engine 212. Select one documented retail trim within this EPA test group, not every trim. Manufacturer EPA ratings cross-checked against this configuration.",
+      "retrievedAt": "2026-10-16T19:27:19.885Z"
+    },
+    "specifications": {
+      "msrpUsd": 34650,
+      "seats": 5,
+      "horsepowerHp": 204,
+      "lengthMm": 4693.9,
+      "widthMm": 1866.9,
+      "heightMm": 1681.5,
+      "wheelbaseMm": 2700,
+      "cargoVolumeL": 1027.9,
+      "systemHorsepowerHp": 204
+    },
+    "fieldSources": {
+      "msrpUsd": {
+        "url": "https://hondanews.com/en-US/honda-automobiles/releases/release-d73d9911716c8277bb60a2789701d8f5-2025-honda-cr-v-pricing-and-epa-ratings-2025",
+        "evidence": "January 3 2025 US price table: Sport Hybrid 2WD base MSRP USD 34650, excluding destination, tax, registration and options. Historical price.",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      },
+      "seats": {
+        "url": "https://www.hondainfocenter.com/2025/CR-V/Feature-Guide/Specifications/",
+        "evidence": "Selected US Sport Hybrid 2WD specification column: seats=5; inch ×25.4, cu ft ×28.316846592, lb-ft ×1.3558179483; hybrid hp is total system output, torque remains null. Cargo behind second row only.",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      },
+      "horsepowerHp": {
+        "url": "https://hondanews.com/en-US/honda-automobiles/releases/release-f43bcac5ded8efe77b071fcb0c097416-2025-honda-cr-v-specifications-and-features",
+        "evidence": "Selected US Sport Hybrid 2WD specification column: horsepowerHp=204; inch ×25.4, cu ft ×28.316846592, lb-ft ×1.3558179483; hybrid hp is total system output, torque remains null. Cargo behind second row only.",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      },
+      "lengthMm": {
+        "url": "https://hondanews.com/en-US/honda-automobiles/releases/release-f43bcac5ded8efe77b071fcb0c097416-2025-honda-cr-v-specifications-and-features",
+        "evidence": "Selected US Sport Hybrid 2WD specification column: lengthMm=4693.9; inch ×25.4, cu ft ×28.316846592, lb-ft ×1.3558179483; hybrid hp is total system output, torque remains null. Cargo behind second row only.",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      },
+      "widthMm": {
+        "url": "https://hondanews.com/en-US/honda-automobiles/releases/release-f43bcac5ded8efe77b071fcb0c097416-2025-honda-cr-v-specifications-and-features",
+        "evidence": "Selected US Sport Hybrid 2WD specification column: widthMm=1866.9; inch ×25.4, cu ft ×28.316846592, lb-ft ×1.3558179483; hybrid hp is total system output, torque remains null. Cargo behind second row only.",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      },
+      "heightMm": {
+        "url": "https://hondanews.com/en-US/honda-automobiles/releases/release-f43bcac5ded8efe77b071fcb0c097416-2025-honda-cr-v-specifications-and-features",
+        "evidence": "Selected US Sport Hybrid 2WD specification column: heightMm=1681.5; inch ×25.4, cu ft ×28.316846592, lb-ft ×1.3558179483; hybrid hp is total system output, torque remains null. Cargo behind second row only.",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      },
+      "wheelbaseMm": {
+        "url": "https://hondanews.com/en-US/honda-automobiles/releases/release-f43bcac5ded8efe77b071fcb0c097416-2025-honda-cr-v-specifications-and-features",
+        "evidence": "Selected US Sport Hybrid 2WD specification column: wheelbaseMm=2700; inch ×25.4, cu ft ×28.316846592, lb-ft ×1.3558179483; hybrid hp is total system output, torque remains null. Cargo behind second row only.",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      },
+      "cargoVolumeL": {
+        "url": "https://hondanews.com/en-US/honda-automobiles/releases/release-f43bcac5ded8efe77b071fcb0c097416-2025-honda-cr-v-specifications-and-features",
+        "evidence": "Selected US Sport Hybrid 2WD specification column: cargoVolumeL=1027.9; inch ×25.4, cu ft ×28.316846592, lb-ft ×1.3558179483; hybrid hp is total system output, torque remains null. Cargo behind second row only.",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      },
+      "systemHorsepowerHp": {
+        "url": "https://hondanews.com/en-US/honda-automobiles/releases/release-f43bcac5ded8efe77b071fcb0c097416-2025-honda-cr-v-specifications-and-features",
+        "evidence": "Selected US Sport Hybrid 2WD specification column: systemHorsepowerHp=204; inch ×25.4, cu ft ×28.316846592, lb-ft ×1.3558179483; hybrid hp is total system output, torque remains null. Cargo behind second row only.",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      }
+    }
+  },
+  {
+    "id": "epa-47957",
+    "match": {
+      "year": 2025,
+      "brand": "Honda",
+      "model": "CR-V AWD",
+      "trim": null,
+      "drivetrain": "AWD",
+      "powertrain": "HEV"
+    },
+    "epaConfiguration": {
+      "transmission": "Automatic (variable gear ratios)",
+      "variant": {
+        "engineId": "211",
+        "cylinders": 4,
+        "engineDescription": "SIDI; Hybrid",
+        "transmissionDescription": null
+      }
+    },
+    "retailTrim": "Sport Hybrid AWD",
+    "bodyType": "suv",
+    "matchEvidence": "US 2025 CR-V AWD, Sport Hybrid AWD, AWD, HEV, Automatic (variable gear ratios); exact EPA engine 211. Select one documented retail trim within this EPA test group, not every trim. Manufacturer EPA ratings cross-checked against this configuration.",
+    "identitySource": {
+      "url": "https://hondanews.com/en-US/honda-automobiles/releases/release-f43bcac5ded8efe77b071fcb0c097416-2025-honda-cr-v-specifications-and-features",
+      "evidence": "US 2025 CR-V AWD, Sport Hybrid AWD, AWD, HEV, Automatic (variable gear ratios); exact EPA engine 211. Select one documented retail trim within this EPA test group, not every trim. Manufacturer EPA ratings cross-checked against this configuration.",
+      "retrievedAt": "2026-10-16T19:27:19.885Z"
+    },
+    "specifications": {
+      "msrpUsd": 36150,
+      "seats": 5,
+      "horsepowerHp": 204,
+      "lengthMm": 4693.9,
+      "widthMm": 1866.9,
+      "heightMm": 1689.1,
+      "wheelbaseMm": 2700,
+      "cargoVolumeL": 1027.9,
+      "systemHorsepowerHp": 204
+    },
+    "fieldSources": {
+      "msrpUsd": {
+        "url": "https://hondanews.com/en-US/honda-automobiles/releases/release-d73d9911716c8277bb60a2789701d8f5-2025-honda-cr-v-pricing-and-epa-ratings-2025",
+        "evidence": "January 3 2025 US price table: Sport Hybrid AWD base MSRP USD 36150, excluding destination, tax, registration and options. Historical price.",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      },
+      "seats": {
+        "url": "https://www.hondainfocenter.com/2025/CR-V/Feature-Guide/Specifications/",
+        "evidence": "Selected US Sport Hybrid AWD specification column: seats=5; inch ×25.4, cu ft ×28.316846592, lb-ft ×1.3558179483; hybrid hp is total system output, torque remains null. Cargo behind second row only.",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      },
+      "horsepowerHp": {
+        "url": "https://hondanews.com/en-US/honda-automobiles/releases/release-f43bcac5ded8efe77b071fcb0c097416-2025-honda-cr-v-specifications-and-features",
+        "evidence": "Selected US Sport Hybrid AWD specification column: horsepowerHp=204; inch ×25.4, cu ft ×28.316846592, lb-ft ×1.3558179483; hybrid hp is total system output, torque remains null. Cargo behind second row only.",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      },
+      "lengthMm": {
+        "url": "https://hondanews.com/en-US/honda-automobiles/releases/release-f43bcac5ded8efe77b071fcb0c097416-2025-honda-cr-v-specifications-and-features",
+        "evidence": "Selected US Sport Hybrid AWD specification column: lengthMm=4693.9; inch ×25.4, cu ft ×28.316846592, lb-ft ×1.3558179483; hybrid hp is total system output, torque remains null. Cargo behind second row only.",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      },
+      "widthMm": {
+        "url": "https://hondanews.com/en-US/honda-automobiles/releases/release-f43bcac5ded8efe77b071fcb0c097416-2025-honda-cr-v-specifications-and-features",
+        "evidence": "Selected US Sport Hybrid AWD specification column: widthMm=1866.9; inch ×25.4, cu ft ×28.316846592, lb-ft ×1.3558179483; hybrid hp is total system output, torque remains null. Cargo behind second row only.",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      },
+      "heightMm": {
+        "url": "https://hondanews.com/en-US/honda-automobiles/releases/release-f43bcac5ded8efe77b071fcb0c097416-2025-honda-cr-v-specifications-and-features",
+        "evidence": "Selected US Sport Hybrid AWD specification column: heightMm=1689.1; inch ×25.4, cu ft ×28.316846592, lb-ft ×1.3558179483; hybrid hp is total system output, torque remains null. Cargo behind second row only.",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      },
+      "wheelbaseMm": {
+        "url": "https://hondanews.com/en-US/honda-automobiles/releases/release-f43bcac5ded8efe77b071fcb0c097416-2025-honda-cr-v-specifications-and-features",
+        "evidence": "Selected US Sport Hybrid AWD specification column: wheelbaseMm=2700; inch ×25.4, cu ft ×28.316846592, lb-ft ×1.3558179483; hybrid hp is total system output, torque remains null. Cargo behind second row only.",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      },
+      "cargoVolumeL": {
+        "url": "https://hondanews.com/en-US/honda-automobiles/releases/release-f43bcac5ded8efe77b071fcb0c097416-2025-honda-cr-v-specifications-and-features",
+        "evidence": "Selected US Sport Hybrid AWD specification column: cargoVolumeL=1027.9; inch ×25.4, cu ft ×28.316846592, lb-ft ×1.3558179483; hybrid hp is total system output, torque remains null. Cargo behind second row only.",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      },
+      "systemHorsepowerHp": {
+        "url": "https://hondanews.com/en-US/honda-automobiles/releases/release-f43bcac5ded8efe77b071fcb0c097416-2025-honda-cr-v-specifications-and-features",
+        "evidence": "Selected US Sport Hybrid AWD specification column: systemHorsepowerHp=204; inch ×25.4, cu ft ×28.316846592, lb-ft ×1.3558179483; hybrid hp is total system output, torque remains null. Cargo behind second row only.",
+        "retrievedAt": "2026-10-16T19:27:19.885Z"
+      }
+    }
+  }
+]

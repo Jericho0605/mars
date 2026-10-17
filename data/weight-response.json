@@ -1,0 +1,436 @@
+{
+  "testsPassed": 48,
+  "build": "passed",
+  "comparisons": {
+    "affordability": [
+      {
+        "value": 0,
+        "top3": [
+          {
+            "id": "epa-46973",
+            "brand": "Nissan",
+            "model": "LEAF",
+            "status": "verified"
+          },
+          {
+            "id": "epa-48374",
+            "brand": "Lucid",
+            "model": "Air Pure RWD with 19 inch wheels",
+            "status": "unverified"
+          },
+          {
+            "id": "epa-46957",
+            "brand": "Hyundai",
+            "model": "Ioniq 6 Long range RWD (18 inch Wheels)",
+            "status": "unverified"
+          }
+        ],
+        "unsupported": [
+          "safety"
+        ]
+      },
+      {
+        "value": 10,
+        "top3": [
+          {
+            "id": "epa-46973",
+            "brand": "Nissan",
+            "model": "LEAF",
+            "status": "verified"
+          },
+          {
+            "id": "epa-47243",
+            "brand": "Toyota",
+            "model": "Prius",
+            "status": "verified"
+          },
+          {
+            "id": "epa-48869",
+            "brand": "Ford",
+            "model": "Maverick HEV FWD",
+            "status": "verified"
+          }
+        ],
+        "unsupported": [
+          "safety"
+        ]
+      }
+    ],
+    "power": [
+      {
+        "value": 0,
+        "top3": [
+          {
+            "id": "epa-46973",
+            "brand": "Nissan",
+            "model": "LEAF",
+            "status": "verified"
+          },
+          {
+            "id": "epa-47243",
+            "brand": "Toyota",
+            "model": "Prius",
+            "status": "verified"
+          },
+          {
+            "id": "epa-48374",
+            "brand": "Lucid",
+            "model": "Air Pure RWD with 19 inch wheels",
+            "status": "unverified"
+          }
+        ],
+        "unsupported": [
+          "safety"
+        ]
+      },
+      {
+        "value": 10,
+        "top3": [
+          {
+            "id": "epa-46974",
+            "brand": "Nissan",
+            "model": "LEAF SV",
+            "status": "near"
+          },
+          {
+            "id": "epa-47243",
+            "brand": "Toyota",
+            "model": "Prius",
+            "status": "verified"
+          },
+          {
+            "id": "epa-48374",
+            "brand": "Lucid",
+            "model": "Air Pure RWD with 19 inch wheels",
+            "status": "unverified"
+          }
+        ],
+        "unsupported": [
+          "safety"
+        ]
+      }
+    ],
+    "space": [
+      {
+        "value": 0,
+        "top3": [
+          {
+            "id": "epa-46973",
+            "brand": "Nissan",
+            "model": "LEAF",
+            "status": "verified"
+          },
+          {
+            "id": "epa-47243",
+            "brand": "Toyota",
+            "model": "Prius",
+            "status": "verified"
+          },
+          {
+            "id": "epa-48374",
+            "brand": "Lucid",
+            "model": "Air Pure RWD with 19 inch wheels",
+            "status": "unverified"
+          }
+        ],
+        "unsupported": [
+          "safety"
+        ]
+      },
+      {
+        "value": 10,
+        "top3": [
+          {
+            "id": "epa-46973",
+            "brand": "Nissan",
+            "model": "LEAF",
+            "status": "verified"
+          },
+          {
+            "id": "epa-47243",
+            "brand": "Toyota",
+            "model": "Prius",
+            "status": "verified"
+          },
+          {
+            "id": "epa-48869",
+            "brand": "Ford",
+            "model": "Maverick HEV FWD",
+            "status": "verified"
+          }
+        ],
+        "unsupported": [
+          "safety"
+        ]
+      }
+    ],
+    "efficiency": [
+      {
+        "value": 0,
+        "top3": [
+          {
+            "id": "epa-47996",
+            "brand": "Toyota",
+            "model": "Corolla Hatchback",
+            "status": "verified"
+          },
+          {
+            "id": "epa-46973",
+            "brand": "Nissan",
+            "model": "LEAF",
+            "status": "verified"
+          },
+          {
+            "id": "epa-48869",
+            "brand": "Ford",
+            "model": "Maverick HEV FWD",
+            "status": "verified"
+          }
+        ],
+        "unsupported": [
+          "safety"
+        ]
+      },
+      {
+        "value": 10,
+        "top3": [
+          {
+            "id": "epa-46973",
+            "brand": "Nissan",
+            "model": "LEAF",
+            "status": "verified"
+          },
+          {
+            "id": "epa-48374",
+            "brand": "Lucid",
+            "model": "Air Pure RWD with 19 inch wheels",
+            "status": "unverified"
+          },
+          {
+            "id": "epa-46957",
+            "brand": "Hyundai",
+            "model": "Ioniq 6 Long range RWD (18 inch Wheels)",
+            "status": "unverified"
+          }
+        ],
+        "unsupported": [
+          "safety"
+        ]
+      }
+    ],
+    "charging": [
+      {
+        "value": 0,
+        "top3": [
+          {
+            "id": "epa-46973",
+            "brand": "Nissan",
+            "model": "LEAF",
+            "status": "verified"
+          },
+          {
+            "id": "epa-48374",
+            "brand": "Lucid",
+            "model": "Air Pure RWD with 19 inch wheels",
+            "status": "unverified"
+          },
+          {
+            "id": "epa-46957",
+            "brand": "Hyundai",
+            "model": "Ioniq 6 Long range RWD (18 inch Wheels)",
+            "status": "unverified"
+          }
+        ],
+        "unsupported": [
+          "safety"
+        ]
+      },
+      {
+        "value": 10,
+        "top3": [
+          {
+            "id": "epa-47243",
+            "brand": "Toyota",
+            "model": "Prius",
+            "status": "verified"
+          },
+          {
+            "id": "epa-46973",
+            "brand": "Nissan",
+            "model": "LEAF",
+            "status": "verified"
+          },
+          {
+            "id": "epa-48869",
+            "brand": "Ford",
+            "model": "Maverick HEV FWD",
+            "status": "verified"
+          }
+        ],
+        "unsupported": [
+          "safety"
+        ]
+      }
+    ],
+    "environment": [
+      {
+        "value": 0,
+        "top3": [
+          {
+            "id": "epa-46973",
+            "brand": "Nissan",
+            "model": "LEAF",
+            "status": "verified"
+          },
+          {
+            "id": "epa-47243",
+            "brand": "Toyota",
+            "model": "Prius",
+            "status": "verified"
+          },
+          {
+            "id": "epa-48869",
+            "brand": "Ford",
+            "model": "Maverick HEV FWD",
+            "status": "verified"
+          }
+        ],
+        "unsupported": [
+          "safety"
+        ]
+      },
+      {
+        "value": 10,
+        "top3": [
+          {
+            "id": "epa-46973",
+            "brand": "Nissan",
+            "model": "LEAF",
+            "status": "verified"
+          },
+          {
+            "id": "epa-48374",
+            "brand": "Lucid",
+            "model": "Air Pure RWD with 19 inch wheels",
+            "status": "unverified"
+          },
+          {
+            "id": "epa-46957",
+            "brand": "Hyundai",
+            "model": "Ioniq 6 Long range RWD (18 inch Wheels)",
+            "status": "unverified"
+          }
+        ],
+        "unsupported": [
+          "safety"
+        ]
+      }
+    ],
+    "range": [
+      {
+        "value": 0,
+        "top3": [
+          {
+            "id": "epa-46973",
+            "brand": "Nissan",
+            "model": "LEAF",
+            "status": "verified"
+          },
+          {
+            "id": "epa-47243",
+            "brand": "Toyota",
+            "model": "Prius",
+            "status": "verified"
+          },
+          {
+            "id": "epa-48374",
+            "brand": "Lucid",
+            "model": "Air Pure RWD with 19 inch wheels",
+            "status": "unverified"
+          }
+        ],
+        "unsupported": [
+          "safety"
+        ]
+      },
+      {
+        "value": 10,
+        "top3": [
+          {
+            "id": "epa-47836",
+            "brand": "Lucid",
+            "model": "Air G Touring XR AWD with19 inch wheels",
+            "status": "unverified"
+          },
+          {
+            "id": "epa-49124",
+            "brand": "Tesla",
+            "model": "Model S",
+            "status": "unverified"
+          },
+          {
+            "id": "epa-46957",
+            "brand": "Hyundai",
+            "model": "Ioniq 6 Long range RWD (18 inch Wheels)",
+            "status": "unverified"
+          }
+        ],
+        "unsupported": [
+          "safety"
+        ]
+      }
+    ],
+    "safety": [
+      {
+        "value": 0,
+        "top3": [
+          {
+            "id": "epa-46973",
+            "brand": "Nissan",
+            "model": "LEAF",
+            "status": "verified"
+          },
+          {
+            "id": "epa-47243",
+            "brand": "Toyota",
+            "model": "Prius",
+            "status": "verified"
+          },
+          {
+            "id": "epa-48374",
+            "brand": "Lucid",
+            "model": "Air Pure RWD with 19 inch wheels",
+            "status": "unverified"
+          }
+        ],
+        "unsupported": []
+      },
+      {
+        "value": 10,
+        "top3": [
+          {
+            "id": "epa-46973",
+            "brand": "Nissan",
+            "model": "LEAF",
+            "status": "verified"
+          },
+          {
+            "id": "epa-47243",
+            "brand": "Toyota",
+            "model": "Prius",
+            "status": "verified"
+          },
+          {
+            "id": "epa-48374",
+            "brand": "Lucid",
+            "model": "Air Pure RWD with 19 inch wheels",
+            "status": "unverified"
+          }
+        ],
+        "unsupported": [
+          "safety"
+        ]
+      }
+    ]
+  }
+}

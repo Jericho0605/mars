@@ -1,0 +1,122 @@
+{
+  "verifiedAt": "2026-10-16T19:37:15.863Z",
+  "total": 3654,
+  "curated": 40,
+  "newlyEnriched": 18,
+  "coreComplete": 30,
+  "photosAll": 23,
+  "photosCurated": 14,
+  "officialConfigurations": 40,
+  "uniqueOfficialPages": 18,
+  "inventoryConfigurations": 22,
+  "testsPassed": 61,
+  "build": "passed",
+  "coverage": {
+    "msrpUsd": {
+      "present": 40,
+      "total": 3654,
+      "percent": 1.0946907498631637,
+      "curatedPercent": 100
+    },
+    "seats": {
+      "present": 40,
+      "total": 3654,
+      "percent": 1.0946907498631637,
+      "curatedPercent": 100
+    },
+    "horsepowerHp": {
+      "present": 36,
+      "total": 3654,
+      "percent": 0.9852216748768473,
+      "curatedPercent": 90
+    },
+    "torqueNm": {
+      "present": 16,
+      "total": 3654,
+      "percent": 0.43787629994526545,
+      "curatedPercent": 40
+    },
+    "cargoVolumeL": {
+      "present": 30,
+      "total": 3654,
+      "percent": 0.8210180623973727,
+      "curatedPercent": 75
+    },
+    "lengthMm": {
+      "present": 30,
+      "total": 3654,
+      "percent": 0.8210180623973727,
+      "curatedPercent": 75
+    },
+    "widthMm": {
+      "present": 30,
+      "total": 3654,
+      "percent": 0.8210180623973727,
+      "curatedPercent": 75
+    },
+    "heightMm": {
+      "present": 30,
+      "total": 3654,
+      "percent": 0.8210180623973727,
+      "curatedPercent": 75
+    }
+  },
+  "scenarios": {
+    "student": {
+      "candidates": 4,
+      "distinct": 4
+    },
+    "performance": {
+      "candidates": 29,
+      "distinct": 6
+    },
+    "sevenSeats": {
+      "candidates": 0,
+      "distinct": 0
+    },
+    "city": {
+      "candidates": 39,
+      "distinct": 10
+    },
+    "highway": {
+      "candidates": 39,
+      "distinct": 10
+    },
+    "homeEv": {
+      "candidates": 4,
+      "distinct": 1
+    },
+    "publicEv": {
+      "candidates": 4,
+      "distinct": 1
+    },
+    "cargo": {
+      "candidates": 8,
+      "distinct": 1
+    },
+    "safetyFamily": {
+      "candidates": 39,
+      "distinct": 10
+    },
+    "lowRunning": {
+      "candidates": 39,
+      "distinct": 10
+    }
+  },
+  "http": {
+    "status": 200,
+    "matches": 10,
+    "engine": "rules-v2"
+  },
+  "browser": {
+    "fourStepFlow": "passed",
+    "priorityReorder": "passed",
+    "showMore": "passed — 7 additional cars",
+    "priceSort": "passed",
+    "threeCarComparison": "passed",
+    "screenshots": [
+      "data/v21-results-preview.png"
+    ],
+    "mobileDevice": "not physically tested; responsive CSS implemented"
+  }
+}

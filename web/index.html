@@ -1,0 +1,188 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>DriveWise — Intelligent Car Recommendation Engine</title>
+  <link rel="stylesheet" href="/style.css">
+  <link rel="stylesheet" href="/vehicle-types.css">
+  <link rel="stylesheet" href="/selection.css">
+  <link rel="stylesheet" href="/media.css">
+</head>
+<body>
+<header>
+  <a class="logo" href="#home"><span>↗</span> DriveWise</a>
+  <nav>
+    <a href="#quiz">Find My Car</a>
+    <a href="#compare">Compare Cars <b id="compare-count">0</b></a>
+    <a href="#about">About</a>
+  </nav>
+</header>
+<main>
+  <section id="home" class="view">
+    <div class="hero">
+      <div>
+        <p class="eyebrow">A LITTLE CLARITY. A BETTER DRIVE.</p>
+        <h1>Find the Right Car<br>for Your <em>Life.</em></h1>
+        <p class="lead">Tell us what matters to you. Our multi-objective recommendation engine evaluates thousands of models to find cars tailored to your budget, lifestyle, and driving needs.</p>
+        <a class="button" href="#quiz">Find My Car <span>↗</span></a>
+        <p class="fine">3,600+ real vehicles analyzed · Multi-objective utility matching · Clear trade-offs</p>
+      </div>
+      <div class="hero-art" id="hero-art">
+        <span class="art-label">MADE FOR YOUR EVERYDAY</span>
+        <div id="hero-car"></div>
+        <div class="art-caption">
+          <span>Less searching.<br><b>More possibilities.</b></span>
+          <span class="round-arrow">↗</span>
+        </div>
+      </div>
+    </div>
+
+    <section class="section">
+      <p class="eyebrow">SMART MATCHING ENGINE</p>
+      <h2>A simpler, more rigorous way to find your car.</h2>
+      <div class="how">
+        <div>
+          <span>01</span>
+          <h3>Input Your Needs</h3>
+          <p>Set your budget, passenger needs, everyday commute, and top lifestyle priorities.</p>
+        </div>
+        <div>
+          <span>02</span>
+          <h3>Multi-Objective Analysis</h3>
+          <p>We evaluate purchase value, running costs, performance, and practicality across 50 brands.</p>
+        </div>
+        <div>
+          <span>03</span>
+          <h3>Transparent Shortlist</h3>
+          <p>Explore your Top 3 matches with clear reasons, estimated annual costs, and head-to-head comparison.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">ROOM FOR EVERY KIND OF LIFE</p>
+          <h2>Explore by vehicle style</h2>
+        </div>
+        <a href="#quiz">Start questionnaire ↗</a>
+      </div>
+      <div id="type-intro" class="type-grid"></div>
+      <p class="fine">Explore Sedans, SUVs, Hatchbacks, Minivans, Pickup Trucks, and Sports Cars.</p>
+    </section>
+  </section>
+
+  <section id="quiz" class="view" hidden>
+    <div class="quiz-top">
+      <a href="#home">← Back to home</a>
+      <span id="step-count"></span>
+    </div>
+    <div class="progress"><div id="progress-fill"></div></div>
+    <form id="form" class="questionnaire">
+      <div id="steps"></div>
+      <p id="form-error" role="alert"></p>
+      <div class="step-actions">
+        <button type="button" id="back" class="secondary">← Back</button>
+        <button type="button" id="next">Continue →</button>
+      </div>
+    </form>
+  </section>
+
+  <section id="results" class="view" hidden>
+    <div class="section-heading">
+      <div>
+        <p class="eyebrow">TAILORED SHORTLIST</p>
+        <h1>Your Best Car Matches</h1>
+      </div>
+      <a class="button secondary" href="#quiz">Edit Preferences ↗</a>
+    </div>
+    <div id="summary" class="summary"></div>
+    <p id="result-status" role="status"></p>
+    
+    <div class="result-tools">
+      <label>Body style
+        <select id="result-type">
+          <option value="">All body styles</option>
+          <option value="sedan">Sedan</option>
+          <option value="suv">SUV</option>
+          <option value="hatchback">Hatchback</option>
+          <option value="minivan">Minivan</option>
+          <option value="pickup">Pickup Truck</option>
+          <option value="sports">Sports Car</option>
+        </select>
+      </label>
+      <label>Powertrain
+        <select id="result-powertrain">
+          <option value="">All powertrains</option>
+          <option value="Gas">Gasoline</option>
+          <option value="HEV">Hybrid (HEV)</option>
+          <option value="PHEV">Plug-in Hybrid (PHEV)</option>
+          <option value="EV">Electric (EV)</option>
+        </select>
+      </label>
+      <label>Sort by
+        <select id="result-sort">
+          <option value="match">Best match score</option>
+          <option value="price">Lowest price (MSRP)</option>
+          <option value="performance">Highest horsepower</option>
+          <option value="energy">Lowest annual energy cost</option>
+        </select>
+      </label>
+    </div>
+
+    <h2 id="match-heading">Top 3 Recommended Matches</h2>
+    <div id="cards" class="result-grid"></div>
+
+    <h2 id="more-title" hidden>More Great Matches</h2>
+    <div id="more-cards" class="result-grid" hidden></div>
+    <button id="show-more" type="button" class="secondary" hidden>Show More Matches</button>
+
+    <section id="alternative-section" hidden>
+      <h2>Close Alternatives to Consider</h2>
+      <p class="fine">These vehicles slightly vary from your initial preferences but offer outstanding value or versatility.</p>
+      <div id="alternatives" class="result-grid"></div>
+    </section>
+
+    <details id="incomplete">
+      <summary>Specifications & Data Coverage Notes</summary>
+      <div id="incomplete-list"></div>
+    </details>
+  </section>
+
+  <section id="compare" class="view" hidden>
+    <p class="eyebrow">HEAD TO HEAD</p>
+    <h1>Compare Vehicles Side-by-Side</h1>
+    <p>Select up to three cars from your matches to compare specifications, power, estimated costs, and dimensions.</p>
+    <div id="comparison" class="comparison"></div>
+    <a class="button secondary" href="#results">← Back to matches</a>
+  </section>
+
+  <section id="about" class="view" hidden>
+    <p class="eyebrow">ENGINEERING & METHODOLOGY</p>
+    <h1>A Clearer Road to Your Next Car.</h1>
+    <p class="lead">DriveWise matches your budget and lifestyle with real vehicle data across 50 automotive brands, using multi-objective utility functions and verified EPA energy calculations.</p>
+    <div class="about-grid">
+      <article>
+        <h3>Extensive Vehicle Database</h3>
+        <p>Over 3,600 vehicle test configurations covering Sedans, SUVs, Minivans, Pickups, and Sports Cars across Gasoline, Hybrid, Plug-in Hybrid, and Electric powertrains.</p>
+      </article>
+      <article>
+        <h3>Rigorous Multi-Objective Utility</h3>
+        <p>Our scoring algorithm balances purchase affordability, estimated yearly energy cost, real-world utility, horsepower, and safety with diminishing-return curves.</p>
+      </article>
+      <article>
+        <h3>Transparent & Explainable</h3>
+        <p>Every recommendation comes with clear reasons, estimated annual fuel/charging expenses, and trade-offs. No sponsored placements.</p>
+      </article>
+    </div>
+  </section>
+</main>
+<footer>
+  <a class="logo" href="#home">↗ DriveWise</a>
+  <span>Intelligent vehicle matching for real-world life.</span>
+  <span>US Vehicle Benchmark Database</span>
+</footer>
+<script type="module" src="/app.js"></script>
+</body>
+</html>

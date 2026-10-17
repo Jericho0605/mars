@@ -1,0 +1,104 @@
+{
+  "leaf": {
+    "src": "/images/leaf.jpg",
+    "referenceYear": 2025,
+    "sourcePage": "https://usa.nissannews.com/en-US/releases/2025-nissan-leaf-press-kit",
+    "originalUrl": "https://wieck-nissanao-production.s3.amazonaws.com/photos/94366669e9530100e98701883691d83368a44574/thumbnail-720x404.jpg",
+    "retrievedAt": "2026-10-16T18:18:20.685Z",
+    "credit": "Manufacturer official media image; trademarks and copyright belong to the respective owner",
+    "usage": "Reference photograph only; shown trim, paint and model year may differ from the recommended configuration"
+  },
+  "maverick": {
+    "src": "/images/maverick.jpg",
+    "referenceYear": 2025,
+    "sourcePage": "https://www.fromtheroad.ford.com/us/en/articles/2024/hybrid-meets-all-wheel-drive-on-new-tech-packed-2025-ford-maveri",
+    "originalUrl": "https://www.fromtheroad.ford.com/content/dam/fordmediasite/us/en/library/2024/hybrid-meets-all-wheel-drive-on-new-tech-packed-2025-ford-maverick/2025-ford-maverick-towing-4096x2304.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+    "retrievedAt": "2026-10-16T18:18:21.831Z",
+    "credit": "Manufacturer official media image; trademarks and copyright belong to the respective owner",
+    "usage": "Reference photograph only; shown trim, paint and model year may differ from the recommended configuration"
+  },
+  "prius": {
+    "src": "/images/prius.jpg",
+    "referenceYear": 2024,
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:2024_Toyota_Prius_XLE_AWD,_front_right,_06-01-2024.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/2024_Toyota_Prius_XLE_AWD%2C_front_right%2C_06-01-2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "retrievedAt": "2026-10-16T18:21:03.768Z",
+    "credit": "MercurySable99",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "usage": "Unmodified reference photo; image model year, trim, market and color may differ from recommendation",
+    "description": "2024 Toyota Prius XLE AWD photographed in New Castle, Pennsylvania. Finished in Guardian Gray."
+  },
+  "priusPhev": {
+    "src": "/images/priusPhev.jpg",
+    "referenceYear": 2024,
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:2024_Toyota_Prius_Prime_XSE_PHEV_in_Cutting_Edge_Metallic,_front_left.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/2024_Toyota_Prius_Prime_XSE_PHEV_in_Cutting_Edge_Metallic%2C_front_left.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "retrievedAt": "2026-10-16T18:21:03.831Z",
+    "credit": "Mr.choppers",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "usage": "Unmodified reference photo; image model year, trim, market and color may differ from recommendation",
+    "description": "2024 Toyota Prius Prime XSE PHEV in Cutting Edge Metallic (1L0; that's the color) with red/black interior. FWD, CVT-F, M20A-FXS engine with 220 combined hp. \"First use\" 2023-12-23."
+  },
+  "corolla": {
+    "src": "/images/corolla.jpg",
+    "referenceYear": 2024,
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:2024_Toyota_Corolla_LE_in_Classic_Silver_Metallic,_front_right.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/2024_Toyota_Corolla_LE_in_Classic_Silver_Metallic%2C_front_right.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "retrievedAt": "2026-10-16T18:21:03.857Z",
+    "credit": "Mr.choppers",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "usage": "Unmodified reference photo; image model year, trim, market and color may differ from recommendation",
+    "description": "A 2024 Toyota Corolla LE in Classic Silver Metallic in Rochester, NY. 2.0 inline-four, CVT."
+  },
+  "corollaCross": {
+    "src": "/images/corollaCross.jpg",
+    "referenceYear": 2024,
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:2024_Toyota_Corolla_Cross_LE_AWD_in_Wind_Chill_Pearl,_front_left.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/2024_Toyota_Corolla_Cross_LE_AWD_in_Wind_Chill_Pearl%2C_front_left.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "retrievedAt": "2026-10-16T18:21:04.104Z",
+    "credit": "Mr.choppers",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "usage": "Unmodified reference photo; image model year, trim, market and color may differ from recommendation",
+    "description": "A 2024 Toyota Corolla Cross LE AWD in Wind Chill Pearl; 2-liter M20A-FKS engine with 169hp and a CVT, model code MXGA15. Built at Mazda Toyota Manufacturing in Huntsville, Alabama."
+  },
+  "corollaHatchback": {
+    "src": "/images/corollaHatchback.jpg",
+    "referenceYear": 2022,
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:2022_Toyota_Corolla_Hatchback_SE_in_Classic_Silver_Metallic,_Front_Right,_09-10-2023.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/2022_Toyota_Corolla_Hatchback_SE_in_Classic_Silver_Metallic%2C_Front_Right%2C_09-10-2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "retrievedAt": "2026-10-16T18:21:04.320Z",
+    "credit": "Elise240SX",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "usage": "Unmodified reference photo; image model year, trim, market and color may differ from recommendation",
+    "description": "2022 Toyota Corolla Hatchback SE photographed in Sault Ste. Marie, Ontario, Canada."
+  },
+  "hondaCrv": {
+    "src": "/images/hondaCrv.jpg",
+    "referenceYear": 2025,
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:2025_Honda_CR-V_LX_2WD_in_Platinum_White_Pearl,_front_left,_2024-09-29.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/2025_Honda_CR-V_LX_2WD_in_Platinum_White_Pearl%2C_front_left%2C_2024-09-29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "retrievedAt": "2026-10-16T19:31:03.162Z",
+    "credit": "Elise240SX",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "description": "2025 Honda CR-V LX 2WD photographed in Sault Ste. Marie, Ontario, Canada.",
+    "usage": "Unmodified model/year reference; trim and market may differ."
+  },
+  "hondaCivicSedan": {
+    "src": "/images/hondaCivicSedan.jpg",
+    "referenceYear": 2025,
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:2025_Honda_Civic_Hybrid_Sport_Touring_(facelift),_rear_4.18.25.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/2025_Honda_Civic_Hybrid_Sport_Touring_%28facelift%29%2C_rear_4.18.25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "retrievedAt": "2026-10-16T19:31:03.971Z",
+    "credit": "Kevauto",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "description": "A 2025 Honda Civic Hybrid Sport Touring photographed in Manhasset, New York, USA",
+    "usage": "Unmodified model/year reference; trim and market may differ."
+  }
+}

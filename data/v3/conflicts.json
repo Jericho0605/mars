@@ -1,0 +1,2028 @@
+[
+  {
+    "id": "epa-46778",
+    "field": "cargoVolumeCuFt",
+    "type": "multiple-EPA-volume-fields",
+    "values": [
+      {
+        "field": "hlv",
+        "value": "17"
+      },
+      {
+        "field": "lv4",
+        "value": "17"
+      }
+    ],
+    "resolution": "left null pending body-style review"
+  },
+  {
+    "id": "epa-46778",
+    "field": "passengerVolumeCuFt",
+    "type": "multiple-EPA-volume-fields",
+    "values": [
+      {
+        "field": "hpv",
+        "value": "86"
+      },
+      {
+        "field": "pv4",
+        "value": "86"
+      }
+    ],
+    "resolution": "left null pending body-style review"
+  },
+  {
+    "id": "epa-46784",
+    "field": "cargoVolumeCuFt",
+    "type": "multiple-EPA-volume-fields",
+    "values": [
+      {
+        "field": "lv2",
+        "value": "11"
+      },
+      {
+        "field": "lv4",
+        "value": "11"
+      }
+    ],
+    "resolution": "left null pending body-style review"
+  },
+  {
+    "id": "epa-46784",
+    "field": "passengerVolumeCuFt",
+    "type": "multiple-EPA-volume-fields",
+    "values": [
+      {
+        "field": "pv2",
+        "value": "99"
+      },
+      {
+        "field": "pv4",
+        "value": "99"
+      }
+    ],
+    "resolution": "left null pending body-style review"
+  },
+  {
+    "id": "epa-46785",
+    "field": "cargoVolumeCuFt",
+    "type": "multiple-EPA-volume-fields",
+    "values": [
+      {
+        "field": "lv2",
+        "value": "11"
+      },
+      {
+        "field": "lv4",
+        "value": "11"
+      }
+    ],
+    "resolution": "left null pending body-style review"
+  },
+  {
+    "id": "epa-46785",
+    "field": "passengerVolumeCuFt",
+    "type": "multiple-EPA-volume-fields",
+    "values": [
+      {
+        "field": "pv2",
+        "value": "99"
+      },
+      {
+        "field": "pv4",
+        "value": "99"
+      }
+    ],
+    "resolution": "left null pending body-style review"
+  },
+  {
+    "id": "epa-46786",
+    "field": "cargoVolumeCuFt",
+    "type": "multiple-EPA-volume-fields",
+    "values": [
+      {
+        "field": "lv2",
+        "value": "11"
+      },
+      {
+        "field": "lv4",
+        "value": "11"
+      }
+    ],
+    "resolution": "left null pending body-style review"
+  },
+  {
+    "id": "epa-46786",
+    "field": "passengerVolumeCuFt",
+    "type": "multiple-EPA-volume-fields",
+    "values": [
+      {
+        "field": "pv2",
+        "value": "99"
+      },
+      {
+        "field": "pv4",
+        "value": "99"
+      }
+    ],
+    "resolution": "left null pending body-style review"
+  },
+  {
+    "id": "epa-46787",
+    "field": "cargoVolumeCuFt",
+    "type": "multiple-EPA-volume-fields",
+    "values": [
+      {
+        "field": "lv2",
+        "value": "11"
+      },
+      {
+        "field": "lv4",
+        "value": "11"
+      }
+    ],
+    "resolution": "left null pending body-style review"
+  },
+  {
+    "id": "epa-46787",
+    "field": "passengerVolumeCuFt",
+    "type": "multiple-EPA-volume-fields",
+    "values": [
+      {
+        "field": "pv2",
+        "value": "99"
+      },
+      {
+        "field": "pv4",
+        "value": "99"
+      }
+    ],
+    "resolution": "left null pending body-style review"
+  },
+  {
+    "id": "epa-46788",
+    "field": "cargoVolumeCuFt",
+    "type": "multiple-EPA-volume-fields",
+    "values": [
+      {
+        "field": "lv2",
+        "value": "11"
+      },
+      {
+        "field": "lv4",
+        "value": "11"
+      }
+    ],
+    "resolution": "left null pending body-style review"
+  },
+  {
+    "id": "epa-46788",
+    "field": "passengerVolumeCuFt",
+    "type": "multiple-EPA-volume-fields",
+    "values": [
+      {
+        "field": "pv2",
+        "value": "99"
+      },
+      {
+        "field": "pv4",
+        "value": "99"
+      }
+    ],
+    "resolution": "left null pending body-style review"
+  },
+  {
+    "id": "epa-46789",
+    "field": "cargoVolumeCuFt",
+    "type": "multiple-EPA-volume-fields",
+    "values": [
+      {
+        "field": "lv2",
+        "value": "11"
+      },
+      {
+        "field": "lv4",
+        "value": "11"
+      }
+    ],
+    "resolution": "left null pending body-style review"
+  },
+  {
+    "id": "epa-46789",
+    "field": "passengerVolumeCuFt",
+    "type": "multiple-EPA-volume-fields",
+    "values": [
+      {
+        "field": "pv2",
+        "value": "99"
+      },
+      {
+        "field": "pv4",
+        "value": "99"
+      }
+    ],
+    "resolution": "left null pending body-style review"
+  },
+  {
+    "id": "epa-46790",
+    "field": "cargoVolumeCuFt",
+    "type": "multiple-EPA-volume-fields",
+    "values": [
+      {
+        "field": "lv2",
+        "value": "11"
+      },
+      {
+        "field": "lv4",
+        "value": "11"
+      }
+    ],
+    "resolution": "left null pending body-style review"
+  },
+  {
+    "id": "epa-46790",
+    "field": "passengerVolumeCuFt",
+    "type": "multiple-EPA-volume-fields",
+    "values": [
+      {
+        "field": "pv2",
+        "value": "99"
+      },
+      {
+        "field": "pv4",
+        "value": "99"
+      }
+    ],
+    "resolution": "left null pending body-style review"
+  },
+  {
+    "id": "epa-46791",
+    "field": "cargoVolumeCuFt",
+    "type": "multiple-EPA-volume-fields",
+    "values": [
+      {
+        "field": "lv2",
+        "value": "11"
+      },
+      {
+        "field": "lv4",
+        "value": "11"
+      }
+    ],
+    "resolution": "left null pending body-style review"
+  },
+  {
+    "id": "epa-46791",
+    "field": "passengerVolumeCuFt",
+    "type": "multiple-EPA-volume-fields",
+    "values": [
+      {
+        "field": "pv2",
+        "value": "99"
+      },
+      {
+        "field": "pv4",
+        "value": "99"
+      }
+    ],
+    "resolution": "left null pending body-style review"
+  },
+  {
+    "id": "epa-46973",
+    "field": "cargoVolumeCuFt",
+    "existing": 24,
+    "incoming": 23.601,
+    "resolution": "retain manufacturer-trim measurement; preserve EPA observation",
+    "existingSource": {
+      "url": "https://www.fueleconomy.gov/ws/rest/vehicle/46973",
+      "retrievedAt": "2026-10-16T17:40:57.331Z",
+      "provider": "EPA",
+      "sourceField": "hlv",
+      "rawValue": "24",
+      "scope": "EPA interior volume, rounded cubic feet; not interchangeable with manufacturer cargo measurement",
+      "unit": "ft3",
+      "rawUnit": "ft3"
+    },
+    "incomingSource": {
+      "url": "https://usa.nissannews.com/en-US/releases/2024-nissan-leaf-press-kit",
+      "retrievedAt": "2026-10-16T18:00:00Z",
+      "evidence": "Model-year press-kit specification tables: S vs SV PLUS; seating 5. Motor output 147/214 hp, torque 236/250 lb-ft. Cargo second row upright 23.6 cu ft. Dimensions in inches converted to mm.",
+      "confidence": "official-manufacturer-manually-reviewed"
+    }
+  },
+  {
+    "id": "epa-46974",
+    "field": "cargoVolumeCuFt",
+    "existing": 24,
+    "incoming": 23.601,
+    "resolution": "retain manufacturer-trim measurement; preserve EPA observation",
+    "existingSource": {
+      "url": "https://www.fueleconomy.gov/ws/rest/vehicle/46974",
+      "retrievedAt": "2026-10-16T17:40:57.331Z",
+      "provider": "EPA",
+      "sourceField": "hlv",
+      "rawValue": "24",
+      "scope": "EPA interior volume, rounded cubic feet; not interchangeable with manufacturer cargo measurement",
+      "unit": "ft3",
+      "rawUnit": "ft3"
+    },
+    "incomingSource": {
+      "url": "https://usa.nissannews.com/en-US/releases/2024-nissan-leaf-press-kit",
+      "retrievedAt": "2026-10-16T18:00:00Z",
+      "evidence": "Model-year press-kit specification tables: S vs SV PLUS; seating 5. Motor output 147/214 hp, torque 236/250 lb-ft. Cargo second row upright 23.6 cu ft. Dimensions in inches converted to mm.",
+      "confidence": "official-manufacturer-manually-reviewed"
+    }
+  },
+  {
+    "id": "epa-47129",
+    "field": "nhtsaOverallRating",
+    "type": "NHTSA-release-or-applicability-conflict",
+    "observations": [
+      {
+        "row": 2200,
+        "release": "1",
+        "value": "5"
+      },
+      {
+        "row": 2201,
+        "release": "1",
+        "value": ""
+      }
+    ],
+    "resolution": "no field imported; no best-rating selection"
+  },
+  {
+    "id": "epa-47129",
+    "field": "nhtsaFrontalRating",
+    "type": "NHTSA-release-or-applicability-conflict",
+    "observations": [
+      {
+        "row": 2200,
+        "release": "1",
+        "value": "5"
+      },
+      {
+        "row": 2201,
+        "release": "1",
+        "value": ""
+      }
+    ],
+    "resolution": "no field imported; no best-rating selection"
+  },
+  {
+    "id": "epa-47129",
+    "field": "nhtsaSideRating",
+    "type": "NHTSA-release-or-applicability-conflict",
+    "observations": [
+      {
+        "row": 2200,
+        "release": "1",
+        "value": "5"
+      },
+      {
+        "row": 2201,
+        "release": "1",
+        "value": ""
+      }
+    ],
+    "resolution": "no field imported; no best-rating selection"
+  },
+  {
+    "id": "epa-47130",
+    "field": "nhtsaOverallRating",
+    "type": "NHTSA-release-or-applicability-conflict",
+    "observations": [
+      {
+        "row": 2200,
+        "release": "1",
+        "value": "5"
+      },
+      {
+        "row": 2201,
+        "release": "1",
+        "value": ""
+      }
+    ],
+    "resolution": "no field imported; no best-rating selection"
+  },
+  {
+    "id": "epa-47130",
+    "field": "nhtsaFrontalRating",
+    "type": "NHTSA-release-or-applicability-conflict",
+    "observations": [
+      {
+        "row": 2200,
+        "release": "1",
+        "value": "5"
+      },
+      {
+        "row": 2201,
+        "release": "1",
+        "value": ""
+      }
+    ],
+    "resolution": "no field imported; no best-rating selection"
+  },
+  {
+    "id": "epa-47130",
+    "field": "nhtsaSideRating",
+    "type": "NHTSA-release-or-applicability-conflict",
+    "observations": [
+      {
+        "row": 2200,
+        "release": "1",
+        "value": "5"
+      },
+      {
+        "row": 2201,
+        "release": "1",
+        "value": ""
+      }
+    ],
+    "resolution": "no field imported; no best-rating selection"
+  },
+  {
+    "id": "epa-47131",
+    "field": "nhtsaOverallRating",
+    "type": "NHTSA-release-or-applicability-conflict",
+    "observations": [
+      {
+        "row": 2200,
+        "release": "1",
+        "value": "5"
+      },
+      {
+        "row": 2201,
+        "release": "1",
+        "value": ""
+      }
+    ],
+    "resolution": "no field imported; no best-rating selection"
+  },
+  {
+    "id": "epa-47131",
+    "field": "nhtsaFrontalRating",
+    "type": "NHTSA-release-or-applicability-conflict",
+    "observations": [
+      {
+        "row": 2200,
+        "release": "1",
+        "value": "5"
+      },
+      {
+        "row": 2201,
+        "release": "1",
+        "value": ""
+      }
+    ],
+    "resolution": "no field imported; no best-rating selection"
+  },
+  {
+    "id": "epa-47131",
+    "field": "nhtsaSideRating",
+    "type": "NHTSA-release-or-applicability-conflict",
+    "observations": [
+      {
+        "row": 2200,
+        "release": "1",
+        "value": "5"
+      },
+      {
+        "row": 2201,
+        "release": "1",
+        "value": ""
+      }
+    ],
+    "resolution": "no field imported; no best-rating selection"
+  },
+  {
+    "id": "epa-47136",
+    "field": "nhtsaOverallRating",
+    "type": "NHTSA-release-or-applicability-conflict",
+    "observations": [
+      {
+        "row": 1846,
+        "release": "1",
+        "value": "5"
+      },
+      {
+        "row": 1847,
+        "release": "1",
+        "value": "4"
+      }
+    ],
+    "resolution": "no field imported; no best-rating selection"
+  },
+  {
+    "id": "epa-47148",
+    "field": "nhtsaOverallRating",
+    "type": "NHTSA-release-or-applicability-conflict",
+    "observations": [
+      {
+        "row": 1844,
+        "release": "1",
+        "value": "5"
+      },
+      {
+        "row": 1845,
+        "release": "1",
+        "value": "4"
+      }
+    ],
+    "resolution": "no field imported; no best-rating selection"
+  },
+  {
+    "id": "epa-47243",
+    "field": "cargoVolumeCuFt",
+    "existing": 24,
+    "incoming": 23.799,
+    "resolution": "retain manufacturer-trim measurement; preserve EPA observation",
+    "existingSource": {
+      "url": "https://www.fueleconomy.gov/ws/rest/vehicle/47243",
+      "retrievedAt": "2026-10-16T17:40:57.331Z",
+      "provider": "EPA",
+      "sourceField": "hlv",
+      "rawValue": "24",
+      "scope": "EPA interior volume, rounded cubic feet; not interchangeable with manufacturer cargo measurement",
+      "unit": "ft3",
+      "rawUnit": "ft3"
+    },
+    "incomingSource": {
+      "url": "https://www.toyota.com/content/dam/toyota/brochures/pdf/2024/prius_ebrochure.pdf",
+      "retrievedAt": "2026-10-16T18:00:00Z",
+      "evidence": "2024 brochure pp. 9–10,15–16: engine 150 hp; seating and capacities by selected LE/XLE column. Inches ×25.4, cu ft ×28.316846592.",
+      "confidence": "official-manufacturer-manually-reviewed"
+    }
+  },
+  {
+    "id": "epa-47244",
+    "field": "cargoVolumeCuFt",
+    "existing": 24,
+    "incoming": 23.799,
+    "resolution": "retain manufacturer-trim measurement; preserve EPA observation",
+    "existingSource": {
+      "url": "https://www.fueleconomy.gov/ws/rest/vehicle/47244",
+      "retrievedAt": "2026-10-16T17:40:57.331Z",
+      "provider": "EPA",
+      "sourceField": "hlv",
+      "rawValue": "24",
+      "scope": "EPA interior volume, rounded cubic feet; not interchangeable with manufacturer cargo measurement",
+      "unit": "ft3",
+      "rawUnit": "ft3"
+    },
+    "incomingSource": {
+      "url": "https://www.toyota.com/content/dam/toyota/brochures/pdf/2024/prius_ebrochure.pdf",
+      "retrievedAt": "2026-10-16T18:00:00Z",
+      "evidence": "2024 brochure pp. 9–10,15–16: engine 150 hp; seating and capacities by selected LE/XLE column. Inches ×25.4, cu ft ×28.316846592.",
+      "confidence": "official-manufacturer-manually-reviewed"
+    }
+  },
+  {
+    "id": "epa-47245",
+    "field": "cargoVolumeCuFt",
+    "existing": 24,
+    "incoming": 20.299,
+    "resolution": "retain manufacturer-trim measurement; preserve EPA observation",
+    "existingSource": {
+      "url": "https://www.fueleconomy.gov/ws/rest/vehicle/47245",
+      "retrievedAt": "2026-10-16T17:40:57.331Z",
+      "provider": "EPA",
+      "sourceField": "hlv",
+      "rawValue": "24",
+      "scope": "EPA interior volume, rounded cubic feet; not interchangeable with manufacturer cargo measurement",
+      "unit": "ft3",
+      "rawUnit": "ft3"
+    },
+    "incomingSource": {
+      "url": "https://www.toyota.com/content/dam/toyota/brochures/pdf/2024/prius_ebrochure.pdf",
+      "retrievedAt": "2026-10-16T18:00:00Z",
+      "evidence": "2024 brochure pp. 9–10,15–16: engine 150 hp; seating and capacities by selected LE/XLE column. Inches ×25.4, cu ft ×28.316846592.",
+      "confidence": "official-manufacturer-manually-reviewed"
+    }
+  },
+  {
+    "id": "epa-47246",
+    "field": "cargoVolumeCuFt",
+    "existing": 24,
+    "incoming": 20.299,
+    "resolution": "retain manufacturer-trim measurement; preserve EPA observation",
+    "existingSource": {
+      "url": "https://www.fueleconomy.gov/ws/rest/vehicle/47246",
+      "retrievedAt": "2026-10-16T17:40:57.331Z",
+      "provider": "EPA",
+      "sourceField": "hlv",
+      "rawValue": "24",
+      "scope": "EPA interior volume, rounded cubic feet; not interchangeable with manufacturer cargo measurement",
+      "unit": "ft3",
+      "rawUnit": "ft3"
+    },
+    "incomingSource": {
+      "url": "https://www.toyota.com/content/dam/toyota/brochures/pdf/2024/prius_ebrochure.pdf",
+      "retrievedAt": "2026-10-16T18:00:00Z",
+      "evidence": "2024 brochure pp. 9–10,15–16: engine 150 hp; seating and capacities by selected LE/XLE column. Inches ×25.4, cu ft ×28.316846592.",
+      "confidence": "official-manufacturer-manually-reviewed"
+    }
+  },
+  {
+    "id": "epa-47500",
+    "field": "cargoVolumeCuFt",
+    "existing": 20,
+    "incoming": 20.299,
+    "resolution": "retain manufacturer-trim measurement; preserve EPA observation",
+    "existingSource": {
+      "url": "https://www.fueleconomy.gov/ws/rest/vehicle/47500",
+      "retrievedAt": "2026-10-16T17:40:57.331Z",
+      "provider": "EPA",
+      "sourceField": "hlv",
+      "rawValue": "20",
+      "scope": "EPA interior volume, rounded cubic feet; not interchangeable with manufacturer cargo measurement",
+      "unit": "ft3",
+      "rawUnit": "ft3"
+    },
+    "incomingSource": {
+      "url": "https://www.toyota.com/content/dam/toyota/brochures/pdf/2024/priusprime_ebrochure.pdf",
+      "retrievedAt": "2026-10-16T18:00:00Z",
+      "evidence": "2024 brochure pp. 3,16: 6.6-second manufacturer 0–60 test; capacities and dimensions by SE/XSE column. Do not use conflicting printed kW conversion.",
+      "confidence": "official-manufacturer-manually-reviewed"
+    }
+  },
+  {
+    "id": "epa-47501",
+    "field": "cargoVolumeCuFt",
+    "existing": 20,
+    "incoming": 20.299,
+    "resolution": "retain manufacturer-trim measurement; preserve EPA observation",
+    "existingSource": {
+      "url": "https://www.fueleconomy.gov/ws/rest/vehicle/47501",
+      "retrievedAt": "2026-10-16T17:40:57.331Z",
+      "provider": "EPA",
+      "sourceField": "hlv",
+      "rawValue": "20",
+      "scope": "EPA interior volume, rounded cubic feet; not interchangeable with manufacturer cargo measurement",
+      "unit": "ft3",
+      "rawUnit": "ft3"
+    },
+    "incomingSource": {
+      "url": "https://www.toyota.com/content/dam/toyota/brochures/pdf/2024/priusprime_ebrochure.pdf",
+      "retrievedAt": "2026-10-16T18:00:00Z",
+      "evidence": "2024 brochure pp. 3,16: 6.6-second manufacturer 0–60 test; capacities and dimensions by SE/XSE column. Do not use conflicting printed kW conversion.",
+      "confidence": "official-manufacturer-manually-reviewed"
+    }
+  },
+  {
+    "id": "epa-47602",
+    "field": "seats",
+    "type": "NHTSA-release-or-applicability-conflict",
+    "observations": [
+      {
+        "row": 2195,
+        "release": "1",
+        "value": "2"
+      },
+      {
+        "row": 2196,
+        "release": "1",
+        "value": "5"
+      }
+    ],
+    "resolution": "no field imported; no best-rating selection"
+  },
+  {
+    "id": "epa-47602",
+    "field": "nhtsaFrontalRating",
+    "type": "NHTSA-release-or-applicability-conflict",
+    "observations": [
+      {
+        "row": 2195,
+        "release": "1",
+        "value": ""
+      },
+      {
+        "row": 2196,
+        "release": "1",
+        "value": "3"
+      }
+    ],
+    "resolution": "no field imported; no best-rating selection"
+  },
+  {
+    "id": "epa-47602",
+    "field": "nhtsaSideRating",
+    "type": "NHTSA-release-or-applicability-conflict",
+    "observations": [
+      {
+        "row": 2195,
+        "release": "1",
+        "value": ""
+      },
+      {
+        "row": 2196,
+        "release": "1",
+        "value": "5"
+      }
+    ],
+    "resolution": "no field imported; no best-rating selection"
+  },
+  {
+    "id": "epa-47624",
+    "field": "nhtsaOverallRating",
+    "type": "NHTSA-release-or-applicability-conflict",
+    "observations": [
+      {
+        "row": 2200,
+        "release": "1",
+        "value": "5"
+      },
+      {
+        "row": 2201,
+        "release": "1",
+        "value": ""
+      }
+    ],
+    "resolution": "no field imported; no best-rating selection"
+  },
+  {
+    "id": "epa-47624",
+    "field": "nhtsaFrontalRating",
+    "type": "NHTSA-release-or-applicability-conflict",
+    "observations": [
+      {
+        "row": 2200,
+        "release": "1",
+        "value": "5"
+      },
+      {
+        "row": 2201,
+        "release": "1",
+        "value": ""
+      }
+    ],
+    "resolution": "no field imported; no best-rating selection"
+  },
+  {
+    "id": "epa-47624",
+    "field": "nhtsaSideRating",
+    "type": "NHTSA-release-or-applicability-conflict",
+    "observations": [
+      {
+        "row": 2200,
+        "release": "1",
+        "value": "5"
+      },
+      {
+        "row": 2201,
+        "release": "1",
+        "value": ""
+      }
+    ],
+    "resolution": "no field imported; no best-rating selection"
+  },
+  {
+    "id": "epa-47625",
+    "field": "nhtsaOverallRating",
+    "type": "NHTSA-release-or-applicability-conflict",
+    "observations": [
+      {
+        "row": 2200,
+        "release": "1",
+        "value": "5"
+      },
+      {
+        "row": 2201,
+        "release": "1",
+        "value": ""
+      }
+    ],
+    "resolution": "no field imported; no best-rating selection"
+  },
+  {
+    "id": "epa-47625",
+    "field": "nhtsaFrontalRating",
+    "type": "NHTSA-release-or-applicability-conflict",
+    "observations": [
+      {
+        "row": 2200,
+        "release": "1",
+        "value": "5"
+      },
+      {
+        "row": 2201,
+        "release": "1",
+        "value": ""
+      }
+    ],
+    "resolution": "no field imported; no best-rating selection"
+  },
+  {
+    "id": "epa-47625",
+    "field": "nhtsaSideRating",
+    "type": "NHTSA-release-or-applicability-conflict",
+    "observations": [
+      {
+        "row": 2200,
+        "release": "1",
+        "value": "5"
+      },
+      {
+        "row": 2201,
+        "release": "1",
+        "value": ""
+      }
+    ],
+    "resolution": "no field imported; no best-rating selection"
+  },
+  {
+    "id": "epa-47996",
+    "field": "cargoVolumeCuFt",
+    "existing": 18,
+    "incoming": 17.799,
+    "resolution": "retain manufacturer-trim measurement; preserve EPA observation",
+    "existingSource": {
+      "url": "https://www.fueleconomy.gov/ws/rest/vehicle/47996",
+      "retrievedAt": "2026-10-16T17:40:57.331Z",
+      "provider": "EPA",
+      "sourceField": "hlv",
+      "rawValue": "18",
+      "scope": "EPA interior volume, rounded cubic feet; not interchangeable with manufacturer cargo measurement",
+      "unit": "ft3",
+      "rawUnit": "ft3"
+    },
+    "incomingSource": {
+      "url": "https://www.toyota.com/content/dam/toyota/brochures/pdf/2025/corolla-hb-ebro.pdf",
+      "retrievedAt": "2026-10-16T18:00:00Z",
+      "evidence": "2025 brochure p.15, selected SE/XSE column: engine 169 hp,151 lb-ft, five seats, seats-up cargo 17.8 cu ft, exterior inches.",
+      "confidence": "official-manufacturer-manually-reviewed"
+    }
+  },
+  {
+    "id": "epa-47997",
+    "field": "cargoVolumeCuFt",
+    "existing": 18,
+    "incoming": 17.799,
+    "resolution": "retain manufacturer-trim measurement; preserve EPA observation",
+    "existingSource": {
+      "url": "https://www.fueleconomy.gov/ws/rest/vehicle/47997",
+      "retrievedAt": "2026-10-16T17:40:57.331Z",
+      "provider": "EPA",
+      "sourceField": "hlv",
+      "rawValue": "18",
+      "scope": "EPA interior volume, rounded cubic feet; not interchangeable with manufacturer cargo measurement",
+      "unit": "ft3",
+      "rawUnit": "ft3"
+    },
+    "incomingSource": {
+      "url": "https://www.toyota.com/content/dam/toyota/brochures/pdf/2025/corolla-hb-ebro.pdf",
+      "retrievedAt": "2026-10-16T18:00:00Z",
+      "evidence": "2025 brochure p.15, selected SE/XSE column: engine 169 hp,151 lb-ft, five seats, seats-up cargo 17.8 cu ft, exterior inches.",
+      "confidence": "official-manufacturer-manually-reviewed"
+    }
+  },
+  {
+    "id": "epa-48016",
+    "field": "cargoVolumeCuFt",
+    "existing": 15,
+    "incoming": 14.8,
+    "resolution": "retain manufacturer-trim measurement; preserve EPA observation",
+    "existingSource": {
+      "url": "https://www.fueleconomy.gov/ws/rest/vehicle/48016",
+      "retrievedAt": "2026-10-16T17:40:57.331Z",
+      "provider": "EPA",
+      "sourceField": "lv4",
+      "rawValue": "15",
+      "scope": "EPA interior volume, rounded cubic feet; not interchangeable with manufacturer cargo measurement",
+      "unit": "ft3",
+      "rawUnit": "ft3"
+    },
+    "incomingSource": {
+      "url": "https://hondanews.com/en-US/releases/release-c28e8d1efb94e520fef21ff3f800cb30-2025-honda-civic-sedan-specifications-features",
+      "evidence": "Selected US LX specification column: cargoVolumeL=419.1; inch ×25.4, cu ft ×28.316846592, lb-ft ×1.3558179483; hybrid hp is total system output, torque remains null. ",
+      "retrievedAt": "2026-10-16T19:27:19.885Z",
+      "confidence": "official-manufacturer-manually-reviewed"
+    }
+  },
+  {
+    "id": "epa-48017",
+    "field": "cargoVolumeCuFt",
+    "existing": 15,
+    "incoming": 14.8,
+    "resolution": "retain manufacturer-trim measurement; preserve EPA observation",
+    "existingSource": {
+      "url": "https://www.fueleconomy.gov/ws/rest/vehicle/48017",
+      "retrievedAt": "2026-10-16T17:40:57.331Z",
+      "provider": "EPA",
+      "sourceField": "lv4",
+      "rawValue": "15",
+      "scope": "EPA interior volume, rounded cubic feet; not interchangeable with manufacturer cargo measurement",
+      "unit": "ft3",
+      "rawUnit": "ft3"
+    },
+    "incomingSource": {
+      "url": "https://hondanews.com/en-US/releases/release-c28e8d1efb94e520fef21ff3f800cb30-2025-honda-civic-sedan-specifications-features",
+      "evidence": "Selected US Sport specification column: cargoVolumeL=419.1; inch ×25.4, cu ft ×28.316846592, lb-ft ×1.3558179483; hybrid hp is total system output, torque remains null. ",
+      "retrievedAt": "2026-10-16T19:27:19.885Z",
+      "confidence": "official-manufacturer-manually-reviewed"
+    }
+  },
+  {
+    "id": "epa-48018",
+    "field": "cargoVolumeCuFt",
+    "existing": 15,
+    "incoming": 14.8,
+    "resolution": "retain manufacturer-trim measurement; preserve EPA observation",
+    "existingSource": {
+      "url": "https://www.fueleconomy.gov/ws/rest/vehicle/48018",
+      "retrievedAt": "2026-10-16T17:40:57.331Z",
+      "provider": "EPA",
+      "sourceField": "lv4",
+      "rawValue": "15",
+      "scope": "EPA interior volume, rounded cubic feet; not interchangeable with manufacturer cargo measurement",
+      "unit": "ft3",
+      "rawUnit": "ft3"
+    },
+    "incomingSource": {
+      "url": "https://hondanews.com/en-US/releases/release-c28e8d1efb94e520fef21ff3f800cb30-2025-honda-civic-sedan-specifications-features",
+      "evidence": "Selected US Sport Hybrid specification column: cargoVolumeL=419.1; inch ×25.4, cu ft ×28.316846592, lb-ft ×1.3558179483; hybrid hp is total system output, torque remains null. ",
+      "retrievedAt": "2026-10-16T19:27:19.885Z",
+      "confidence": "official-manufacturer-manually-reviewed"
+    }
+  },
+  {
+    "id": "epa-48042",
+    "field": "cargoVolumeCuFt",
+    "existing": 24,
+    "incoming": 24.501,
+    "resolution": "retain manufacturer-trim measurement; preserve EPA observation",
+    "existingSource": {
+      "url": "https://www.fueleconomy.gov/ws/rest/vehicle/48042",
+      "retrievedAt": "2026-10-16T17:40:57.331Z",
+      "provider": "EPA",
+      "sourceField": "hlv",
+      "rawValue": "24",
+      "scope": "EPA interior volume, rounded cubic feet; not interchangeable with manufacturer cargo measurement",
+      "unit": "ft3",
+      "rawUnit": "ft3"
+    },
+    "incomingSource": {
+      "url": "https://hondanews.com/en-US/honda-automobiles/releases/release-a0290fb377b9a07ba1686b65910857e4-2025-honda-civic-type-r-specifications-features",
+      "retrievedAt": "2026-10-16T19:36:06.100Z",
+      "evidence": "Selected 2025 Type R column: cargoVolumeL=693.8; seating 4; 315hp engine; seats-up cargo 24.5 cuft; exterior 180.9/74.4/55.4 inches. Conversions inch×25.4, cuft×28.316846592, lb-ft×1.3558179483. Hybrid engine/motor torque not used as combined system torque.",
+      "confidence": "official-manufacturer-manually-reviewed"
+    }
+  },
+  {
+    "id": "epa-48178",
+    "field": "cargoVolumeCuFt",
+    "existing": 15,
+    "incoming": 14.101,
+    "resolution": "retain manufacturer-trim measurement; preserve EPA observation",
+    "existingSource": {
+      "url": "https://www.fueleconomy.gov/ws/rest/vehicle/48178",
+      "retrievedAt": "2026-10-16T17:40:57.331Z",
+      "provider": "EPA",
+      "sourceField": "lv4",
+      "rawValue": "15",
+      "scope": "EPA interior volume, rounded cubic feet; not interchangeable with manufacturer cargo measurement",
+      "unit": "ft3",
+      "rawUnit": "ft3"
+    },
+    "incomingSource": {
+      "url": "https://hondanews.com/en-US/honda-automobiles/releases/release-410d07897fdd63d8043cb7275002c6b3-2025-honda-civic-si-specifications-features",
+      "retrievedAt": "2026-10-16T19:36:06.100Z",
+      "evidence": "Selected 2025 Si (all-season tires) column: cargoVolumeL=399.3; seating 5; 200hp engine; seats-up cargo 14.1 cuft; exterior 184/70.9/55.5 inches. Conversions inch×25.4, cuft×28.316846592, lb-ft×1.3558179483. Hybrid engine/motor torque not used as combined system torque.",
+      "confidence": "official-manufacturer-manually-reviewed"
+    }
+  },
+  {
+    "id": "epa-48400",
+    "field": "cargoVolumeCuFt",
+    "existing": 24,
+    "incoming": 23.601,
+    "resolution": "retain manufacturer-trim measurement; preserve EPA observation",
+    "existingSource": {
+      "url": "https://www.fueleconomy.gov/ws/rest/vehicle/48400",
+      "retrievedAt": "2026-10-16T17:40:57.331Z",
+      "provider": "EPA",
+      "sourceField": "hlv",
+      "rawValue": "24",
+      "scope": "EPA interior volume, rounded cubic feet; not interchangeable with manufacturer cargo measurement",
+      "unit": "ft3",
+      "rawUnit": "ft3"
+    },
+    "incomingSource": {
+      "url": "https://usa.nissannews.com/en-US/releases/2025-nissan-leaf-press-kit",
+      "retrievedAt": "2026-10-16T18:00:00Z",
+      "evidence": "Model-year press-kit specification tables: S vs SV PLUS; seating 5. Motor output 147/214 hp, torque 236/250 lb-ft. Cargo second row upright 23.6 cu ft. Dimensions in inches converted to mm.",
+      "confidence": "official-manufacturer-manually-reviewed"
+    }
+  },
+  {
+    "id": "epa-48401",
+    "field": "cargoVolumeCuFt",
+    "existing": 24,
+    "incoming": 23.601,
+    "resolution": "retain manufacturer-trim measurement; preserve EPA observation",
+    "existingSource": {
+      "url": "https://www.fueleconomy.gov/ws/rest/vehicle/48401",
+      "retrievedAt": "2026-10-16T17:40:57.331Z",
+      "provider": "EPA",
+      "sourceField": "hlv",
+      "rawValue": "24",
+      "scope": "EPA interior volume, rounded cubic feet; not interchangeable with manufacturer cargo measurement",
+      "unit": "ft3",
+      "rawUnit": "ft3"
+    },
+    "incomingSource": {
+      "url": "https://usa.nissannews.com/en-US/releases/2025-nissan-leaf-press-kit",
+      "retrievedAt": "2026-10-16T18:00:00Z",
+      "evidence": "Model-year press-kit specification tables: S vs SV PLUS; seating 5. Motor output 147/214 hp, torque 236/250 lb-ft. Cargo second row upright 23.6 cu ft. Dimensions in inches converted to mm.",
+      "confidence": "official-manufacturer-manually-reviewed"
+    }
+  },
+  {
+    "id": "epa-48497",
+    "field": "cargoVolumeCuFt",
+    "existing": 17,
+    "incoming": 16.7,
+    "resolution": "retain manufacturer-trim measurement; preserve EPA observation",
+    "existingSource": {
+      "url": "https://www.fueleconomy.gov/ws/rest/vehicle/48497",
+      "retrievedAt": "2026-10-16T17:40:57.331Z",
+      "provider": "EPA",
+      "sourceField": "lv4",
+      "rawValue": "17",
+      "scope": "EPA interior volume, rounded cubic feet; not interchangeable with manufacturer cargo measurement",
+      "unit": "ft3",
+      "rawUnit": "ft3"
+    },
+    "incomingSource": {
+      "url": "https://hondanews.com/en-US/releases/release-008e554add341b8444085beaa2074089-2025-honda-accord-specifications-features",
+      "retrievedAt": "2026-10-16T19:36:06.100Z",
+      "evidence": "Selected 2025 Sport Hybrid column: cargoVolumeL=472.9; seating 5; 204hp total system; seats-up cargo 16.7 cuft; exterior 195.7/73.3/57.1 inches. Conversions inch×25.4, cuft×28.316846592, lb-ft×1.3558179483. Hybrid engine/motor torque not used as combined system torque.",
+      "confidence": "official-manufacturer-manually-reviewed"
+    }
+  },
+  {
+    "id": "epa-48502",
+    "field": "cargoVolumeCuFt",
+    "existing": 24,
+    "incoming": 24.501,
+    "resolution": "retain manufacturer-trim measurement; preserve EPA observation",
+    "existingSource": {
+      "url": "https://www.fueleconomy.gov/ws/rest/vehicle/48502",
+      "retrievedAt": "2026-10-16T17:40:57.331Z",
+      "provider": "EPA",
+      "sourceField": "hlv",
+      "rawValue": "24",
+      "scope": "EPA interior volume, rounded cubic feet; not interchangeable with manufacturer cargo measurement",
+      "unit": "ft3",
+      "rawUnit": "ft3"
+    },
+    "incomingSource": {
+      "url": "https://www.hondainfocenter.com/2025/Civic-Hatchback/Feature-Guide/Exterior-Features/Large-Hatch-and-Cargo-Area-with-Reversible-Side-Pull-Cargo-Cover/",
+      "retrievedAt": "2026-10-16T19:36:06.100Z",
+      "evidence": "US 2025 Civic Hatchback, rear seat configured for three passengers: cargo 24.5 cubic feet. This unambiguous official unit corroborates the newsroom table with erroneous inches header. ×28.316846592, rounded to0.1L.",
+      "confidence": "official-manufacturer-manually-reviewed"
+    }
+  },
+  {
+    "id": "epa-48503",
+    "field": "cargoVolumeCuFt",
+    "existing": 24,
+    "incoming": 24.501,
+    "resolution": "retain manufacturer-trim measurement; preserve EPA observation",
+    "existingSource": {
+      "url": "https://www.fueleconomy.gov/ws/rest/vehicle/48503",
+      "retrievedAt": "2026-10-16T17:40:57.331Z",
+      "provider": "EPA",
+      "sourceField": "hlv",
+      "rawValue": "24",
+      "scope": "EPA interior volume, rounded cubic feet; not interchangeable with manufacturer cargo measurement",
+      "unit": "ft3",
+      "rawUnit": "ft3"
+    },
+    "incomingSource": {
+      "url": "https://www.hondainfocenter.com/2025/Civic-Hatchback/Feature-Guide/Exterior-Features/Large-Hatch-and-Cargo-Area-with-Reversible-Side-Pull-Cargo-Cover/",
+      "retrievedAt": "2026-10-16T19:36:06.100Z",
+      "evidence": "US 2025 Civic Hatchback, rear seat configured for three passengers: cargo 24.5 cubic feet. This unambiguous official unit corroborates the newsroom table with erroneous inches header. ×28.316846592, rounded to0.1L.",
+      "confidence": "official-manufacturer-manually-reviewed"
+    }
+  },
+  {
+    "id": "epa-48504",
+    "field": "cargoVolumeCuFt",
+    "existing": 17,
+    "incoming": 16.7,
+    "resolution": "retain manufacturer-trim measurement; preserve EPA observation",
+    "existingSource": {
+      "url": "https://www.fueleconomy.gov/ws/rest/vehicle/48504",
+      "retrievedAt": "2026-10-16T17:40:57.331Z",
+      "provider": "EPA",
+      "sourceField": "lv4",
+      "rawValue": "17",
+      "scope": "EPA interior volume, rounded cubic feet; not interchangeable with manufacturer cargo measurement",
+      "unit": "ft3",
+      "rawUnit": "ft3"
+    },
+    "incomingSource": {
+      "url": "https://hondanews.com/en-US/releases/release-008e554add341b8444085beaa2074089-2025-honda-accord-specifications-features",
+      "retrievedAt": "2026-10-16T19:30:31.506Z",
+      "evidence": "US 2025 LX column: cargoVolumeL=472.9; seating5, engine192hp,192lb-ft, cargo16.7cuft, exterior195.7×73.3×57.1in, wheelbase111.4in. Convert lb-ft ×1.3558179483, cuft ×28.316846592, in ×25.4, round to 0.1.",
+      "confidence": "official-manufacturer-manually-reviewed"
+    }
+  },
+  {
+    "id": "epa-48505",
+    "field": "cargoVolumeCuFt",
+    "existing": 17,
+    "incoming": 16.7,
+    "resolution": "retain manufacturer-trim measurement; preserve EPA observation",
+    "existingSource": {
+      "url": "https://www.fueleconomy.gov/ws/rest/vehicle/48505",
+      "retrievedAt": "2026-10-16T17:40:57.331Z",
+      "provider": "EPA",
+      "sourceField": "lv4",
+      "rawValue": "17",
+      "scope": "EPA interior volume, rounded cubic feet; not interchangeable with manufacturer cargo measurement",
+      "unit": "ft3",
+      "rawUnit": "ft3"
+    },
+    "incomingSource": {
+      "url": "https://hondanews.com/en-US/releases/release-008e554add341b8444085beaa2074089-2025-honda-accord-specifications-features",
+      "retrievedAt": "2026-10-16T19:36:06.100Z",
+      "evidence": "Selected 2025 EX-L Hybrid column: cargoVolumeL=472.9; seating 5; 204hp total system; seats-up cargo 16.7 cuft; exterior 195.7/73.3/57.1 inches. Conversions inch×25.4, cuft×28.316846592, lb-ft×1.3558179483. Hybrid engine/motor torque not used as combined system torque.",
+      "confidence": "official-manufacturer-manually-reviewed"
+    }
+  },
+  {
+    "id": "epa-48510",
+    "field": "nhtsaFrontalRating",
+    "type": "NHTSA-release-or-applicability-conflict",
+    "observations": [
+      {
+        "row": 1349,
+        "release": "1",
+        "value": ""
+      },
+      {
+        "row": 1350,
+        "release": "1",
+        "value": "5"
+      }
+    ],
+    "resolution": "no field imported; no best-rating selection"
+  },
+  {
+    "id": "epa-48510",
+    "field": "nhtsaSideRating",
+    "type": "NHTSA-release-or-applicability-conflict",
+    "observations": [
+      {
+        "row": 1349,
+        "release": "1",
+        "value": ""
+      },
+      {
+        "row": 1350,
+        "release": "1",
+        "value": "5"
+      }
+    ],
+    "resolution": "no field imported; no best-rating selection"
+  },
+  {
+    "id": "epa-48510",
+    "field": "nhtsaRolloverRating",
+    "type": "NHTSA-release-or-applicability-conflict",
+    "observations": [
+      {
+        "row": 1349,
+        "release": "1",
+        "value": "4"
+      },
+      {
+        "row": 1350,
+        "release": "1",
+        "value": ""
+      }
+    ],
+    "resolution": "no field imported; no best-rating selection"
+  },
+  {
+    "id": "epa-48511",
+    "field": "nhtsaFrontalRating",
+    "type": "NHTSA-release-or-applicability-conflict",
+    "observations": [
+      {
+        "row": 1349,
+        "release": "1",
+        "value": ""
+      },
+      {
+        "row": 1350,
+        "release": "1",
+        "value": "5"
+      }
+    ],
+    "resolution": "no field imported; no best-rating selection"
+  },
+  {
+    "id": "epa-48511",
+    "field": "nhtsaSideRating",
+    "type": "NHTSA-release-or-applicability-conflict",
+    "observations": [
+      {
+        "row": 1349,
+        "release": "1",
+        "value": ""
+      },
+      {
+        "row": 1350,
+        "release": "1",
+        "value": "5"
+      }
+    ],
+    "resolution": "no field imported; no best-rating selection"
+  },
+  {
+    "id": "epa-48511",
+    "field": "nhtsaRolloverRating",
+    "type": "NHTSA-release-or-applicability-conflict",
+    "observations": [
+      {
+        "row": 1349,
+        "release": "1",
+        "value": "4"
+      },
+      {
+        "row": 1350,
+        "release": "1",
+        "value": ""
+      }
+    ],
+    "resolution": "no field imported; no best-rating selection"
+  },
+  {
+    "id": "epa-48512",
+    "field": "nhtsaFrontalRating",
+    "type": "NHTSA-release-or-applicability-conflict",
+    "observations": [
+      {
+        "row": 1349,
+        "release": "1",
+        "value": ""
+      },
+      {
+        "row": 1350,
+        "release": "1",
+        "value": "5"
+      }
+    ],
+    "resolution": "no field imported; no best-rating selection"
+  },
+  {
+    "id": "epa-48512",
+    "field": "nhtsaSideRating",
+    "type": "NHTSA-release-or-applicability-conflict",
+    "observations": [
+      {
+        "row": 1349,
+        "release": "1",
+        "value": ""
+      },
+      {
+        "row": 1350,
+        "release": "1",
+        "value": "5"
+      }
+    ],
+    "resolution": "no field imported; no best-rating selection"
+  },
+  {
+    "id": "epa-48512",
+    "field": "nhtsaRolloverRating",
+    "type": "NHTSA-release-or-applicability-conflict",
+    "observations": [
+      {
+        "row": 1349,
+        "release": "1",
+        "value": "4"
+      },
+      {
+        "row": 1350,
+        "release": "1",
+        "value": ""
+      }
+    ],
+    "resolution": "no field imported; no best-rating selection"
+  },
+  {
+    "id": "epa-48516",
+    "field": "nhtsaOverallRating",
+    "type": "NHTSA-release-or-applicability-conflict",
+    "observations": [
+      {
+        "row": 1347,
+        "release": "1",
+        "value": ""
+      },
+      {
+        "row": 1348,
+        "release": "1",
+        "value": "5"
+      }
+    ],
+    "resolution": "no field imported; no best-rating selection"
+  },
+  {
+    "id": "epa-48516",
+    "field": "nhtsaFrontalRating",
+    "type": "NHTSA-release-or-applicability-conflict",
+    "observations": [
+      {
+        "row": 1347,
+        "release": "1",
+        "value": ""
+      },
+      {
+        "row": 1348,
+        "release": "1",
+        "value": "5"
+      }
+    ],
+    "resolution": "no field imported; no best-rating selection"
+  },
+  {
+    "id": "epa-48516",
+    "field": "nhtsaSideRating",
+    "type": "NHTSA-release-or-applicability-conflict",
+    "observations": [
+      {
+        "row": 1347,
+        "release": "1",
+        "value": ""
+      },
+      {
+        "row": 1348,
+        "release": "1",
+        "value": "5"
+      }
+    ],
+    "resolution": "no field imported; no best-rating selection"
+  },
+  {
+    "id": "epa-48517",
+    "field": "nhtsaOverallRating",
+    "type": "NHTSA-release-or-applicability-conflict",
+    "observations": [
+      {
+        "row": 1347,
+        "release": "1",
+        "value": ""
+      },
+      {
+        "row": 1348,
+        "release": "1",
+        "value": "5"
+      }
+    ],
+    "resolution": "no field imported; no best-rating selection"
+  },
+  {
+    "id": "epa-48517",
+    "field": "nhtsaFrontalRating",
+    "type": "NHTSA-release-or-applicability-conflict",
+    "observations": [
+      {
+        "row": 1347,
+        "release": "1",
+        "value": ""
+      },
+      {
+        "row": 1348,
+        "release": "1",
+        "value": "5"
+      }
+    ],
+    "resolution": "no field imported; no best-rating selection"
+  },
+  {
+    "id": "epa-48517",
+    "field": "nhtsaSideRating",
+    "type": "NHTSA-release-or-applicability-conflict",
+    "observations": [
+      {
+        "row": 1347,
+        "release": "1",
+        "value": ""
+      },
+      {
+        "row": 1348,
+        "release": "1",
+        "value": "5"
+      }
+    ],
+    "resolution": "no field imported; no best-rating selection"
+  },
+  {
+    "id": "epa-48518",
+    "field": "nhtsaOverallRating",
+    "type": "NHTSA-release-or-applicability-conflict",
+    "observations": [
+      {
+        "row": 1347,
+        "release": "1",
+        "value": ""
+      },
+      {
+        "row": 1348,
+        "release": "1",
+        "value": "5"
+      }
+    ],
+    "resolution": "no field imported; no best-rating selection"
+  },
+  {
+    "id": "epa-48518",
+    "field": "nhtsaFrontalRating",
+    "type": "NHTSA-release-or-applicability-conflict",
+    "observations": [
+      {
+        "row": 1347,
+        "release": "1",
+        "value": ""
+      },
+      {
+        "row": 1348,
+        "release": "1",
+        "value": "5"
+      }
+    ],
+    "resolution": "no field imported; no best-rating selection"
+  },
+  {
+    "id": "epa-48518",
+    "field": "nhtsaSideRating",
+    "type": "NHTSA-release-or-applicability-conflict",
+    "observations": [
+      {
+        "row": 1347,
+        "release": "1",
+        "value": ""
+      },
+      {
+        "row": 1348,
+        "release": "1",
+        "value": "5"
+      }
+    ],
+    "resolution": "no field imported; no best-rating selection"
+  },
+  {
+    "id": "epa-48872",
+    "field": "seats",
+    "type": "NHTSA-release-or-applicability-conflict",
+    "observations": [
+      {
+        "row": 1344,
+        "release": "1",
+        "value": "2"
+      },
+      {
+        "row": 1345,
+        "release": "1",
+        "value": "5"
+      }
+    ],
+    "resolution": "no field imported; no best-rating selection"
+  },
+  {
+    "id": "epa-48872",
+    "field": "nhtsaFrontalRating",
+    "type": "NHTSA-release-or-applicability-conflict",
+    "observations": [
+      {
+        "row": 1344,
+        "release": "1",
+        "value": ""
+      },
+      {
+        "row": 1345,
+        "release": "1",
+        "value": "3"
+      }
+    ],
+    "resolution": "no field imported; no best-rating selection"
+  },
+  {
+    "id": "epa-48872",
+    "field": "nhtsaSideRating",
+    "type": "NHTSA-release-or-applicability-conflict",
+    "observations": [
+      {
+        "row": 1344,
+        "release": "1",
+        "value": ""
+      },
+      {
+        "row": 1345,
+        "release": "1",
+        "value": "5"
+      }
+    ],
+    "resolution": "no field imported; no best-rating selection"
+  },
+  {
+    "id": "epa-48872",
+    "field": "nhtsaRolloverRating",
+    "type": "NHTSA-release-or-applicability-conflict",
+    "observations": [
+      {
+        "row": 1344,
+        "release": "1",
+        "value": "4"
+      },
+      {
+        "row": 1345,
+        "release": "1",
+        "value": ""
+      }
+    ],
+    "resolution": "no field imported; no best-rating selection"
+  },
+  {
+    "id": "epa-48881",
+    "field": "seats",
+    "type": "NHTSA-release-or-applicability-conflict",
+    "observations": [
+      {
+        "row": 1342,
+        "release": "1",
+        "value": "5"
+      },
+      {
+        "row": 1343,
+        "release": "1",
+        "value": "2"
+      }
+    ],
+    "resolution": "no field imported; no best-rating selection"
+  },
+  {
+    "id": "epa-48881",
+    "field": "nhtsaFrontalRating",
+    "type": "NHTSA-release-or-applicability-conflict",
+    "observations": [
+      {
+        "row": 1342,
+        "release": "1",
+        "value": "3"
+      },
+      {
+        "row": 1343,
+        "release": "1",
+        "value": ""
+      }
+    ],
+    "resolution": "no field imported; no best-rating selection"
+  },
+  {
+    "id": "epa-48881",
+    "field": "nhtsaSideRating",
+    "type": "NHTSA-release-or-applicability-conflict",
+    "observations": [
+      {
+        "row": 1342,
+        "release": "1",
+        "value": "5"
+      },
+      {
+        "row": 1343,
+        "release": "1",
+        "value": ""
+      }
+    ],
+    "resolution": "no field imported; no best-rating selection"
+  },
+  {
+    "id": "epa-48881",
+    "field": "nhtsaRolloverRating",
+    "type": "NHTSA-release-or-applicability-conflict",
+    "observations": [
+      {
+        "row": 1342,
+        "release": "1",
+        "value": ""
+      },
+      {
+        "row": 1343,
+        "release": "1",
+        "value": "4"
+      }
+    ],
+    "resolution": "no field imported; no best-rating selection"
+  },
+  {
+    "id": "epa-49369",
+    "field": "nhtsaOverallRating",
+    "type": "NHTSA-release-or-applicability-conflict",
+    "observations": [
+      {
+        "row": 623,
+        "release": "1",
+        "value": "5"
+      },
+      {
+        "row": 624,
+        "release": "1",
+        "value": ""
+      }
+    ],
+    "resolution": "no field imported; no best-rating selection"
+  },
+  {
+    "id": "epa-49369",
+    "field": "nhtsaFrontalRating",
+    "type": "NHTSA-release-or-applicability-conflict",
+    "observations": [
+      {
+        "row": 623,
+        "release": "1",
+        "value": "5"
+      },
+      {
+        "row": 624,
+        "release": "1",
+        "value": ""
+      }
+    ],
+    "resolution": "no field imported; no best-rating selection"
+  },
+  {
+    "id": "epa-49369",
+    "field": "nhtsaSideRating",
+    "type": "NHTSA-release-or-applicability-conflict",
+    "observations": [
+      {
+        "row": 623,
+        "release": "1",
+        "value": "5"
+      },
+      {
+        "row": 624,
+        "release": "1",
+        "value": ""
+      }
+    ],
+    "resolution": "no field imported; no best-rating selection"
+  },
+  {
+    "id": "epa-49370",
+    "field": "nhtsaOverallRating",
+    "type": "NHTSA-release-or-applicability-conflict",
+    "observations": [
+      {
+        "row": 623,
+        "release": "1",
+        "value": "5"
+      },
+      {
+        "row": 624,
+        "release": "1",
+        "value": ""
+      }
+    ],
+    "resolution": "no field imported; no best-rating selection"
+  },
+  {
+    "id": "epa-49370",
+    "field": "nhtsaFrontalRating",
+    "type": "NHTSA-release-or-applicability-conflict",
+    "observations": [
+      {
+        "row": 623,
+        "release": "1",
+        "value": "5"
+      },
+      {
+        "row": 624,
+        "release": "1",
+        "value": ""
+      }
+    ],
+    "resolution": "no field imported; no best-rating selection"
+  },
+  {
+    "id": "epa-49370",
+    "field": "nhtsaSideRating",
+    "type": "NHTSA-release-or-applicability-conflict",
+    "observations": [
+      {
+        "row": 623,
+        "release": "1",
+        "value": "5"
+      },
+      {
+        "row": 624,
+        "release": "1",
+        "value": ""
+      }
+    ],
+    "resolution": "no field imported; no best-rating selection"
+  },
+  {
+    "id": "epa-49441",
+    "field": "nhtsaOverallRating",
+    "type": "NHTSA-release-or-applicability-conflict",
+    "observations": [
+      {
+        "row": 108,
+        "release": "1",
+        "value": "5"
+      },
+      {
+        "row": 109,
+        "release": "2",
+        "value": ""
+      }
+    ],
+    "resolution": "no field imported; no best-rating selection"
+  },
+  {
+    "id": "epa-49441",
+    "field": "nhtsaSideRating",
+    "type": "NHTSA-release-or-applicability-conflict",
+    "observations": [
+      {
+        "row": 108,
+        "release": "1",
+        "value": "5"
+      },
+      {
+        "row": 109,
+        "release": "2",
+        "value": ""
+      }
+    ],
+    "resolution": "no field imported; no best-rating selection"
+  },
+  {
+    "id": "epa-49444",
+    "field": "nhtsaOverallRating",
+    "type": "NHTSA-release-or-applicability-conflict",
+    "observations": [
+      {
+        "row": 175,
+        "release": "1",
+        "value": "5"
+      },
+      {
+        "row": 176,
+        "release": "2",
+        "value": ""
+      }
+    ],
+    "resolution": "no field imported; no best-rating selection"
+  },
+  {
+    "id": "epa-49444",
+    "field": "nhtsaSideRating",
+    "type": "NHTSA-release-or-applicability-conflict",
+    "observations": [
+      {
+        "row": 175,
+        "release": "1",
+        "value": "5"
+      },
+      {
+        "row": 176,
+        "release": "2",
+        "value": ""
+      }
+    ],
+    "resolution": "no field imported; no best-rating selection"
+  },
+  {
+    "id": "epa-49479",
+    "field": "nhtsaOverallRating",
+    "type": "NHTSA-release-or-applicability-conflict",
+    "observations": [
+      {
+        "row": 106,
+        "release": "1",
+        "value": "5"
+      },
+      {
+        "row": 107,
+        "release": "2",
+        "value": ""
+      }
+    ],
+    "resolution": "no field imported; no best-rating selection"
+  },
+  {
+    "id": "epa-49479",
+    "field": "nhtsaSideRating",
+    "type": "NHTSA-release-or-applicability-conflict",
+    "observations": [
+      {
+        "row": 106,
+        "release": "1",
+        "value": "5"
+      },
+      {
+        "row": 107,
+        "release": "2",
+        "value": ""
+      }
+    ],
+    "resolution": "no field imported; no best-rating selection"
+  },
+  {
+    "id": "epa-49481",
+    "field": "nhtsaOverallRating",
+    "type": "NHTSA-release-or-applicability-conflict",
+    "observations": [
+      {
+        "row": 173,
+        "release": "2",
+        "value": ""
+      },
+      {
+        "row": 174,
+        "release": "1",
+        "value": "5"
+      }
+    ],
+    "resolution": "no field imported; no best-rating selection"
+  },
+  {
+    "id": "epa-49481",
+    "field": "nhtsaSideRating",
+    "type": "NHTSA-release-or-applicability-conflict",
+    "observations": [
+      {
+        "row": 173,
+        "release": "2",
+        "value": ""
+      },
+      {
+        "row": 174,
+        "release": "1",
+        "value": "5"
+      }
+    ],
+    "resolution": "no field imported; no best-rating selection"
+  },
+  {
+    "id": "epa-50068",
+    "field": "cargoVolumeCuFt",
+    "type": "multiple-EPA-volume-fields",
+    "values": [
+      {
+        "field": "hlv",
+        "value": "23"
+      },
+      {
+        "field": "lv2",
+        "value": "23"
+      },
+      {
+        "field": "lv4",
+        "value": "23"
+      }
+    ],
+    "resolution": "left null pending body-style review"
+  },
+  {
+    "id": "epa-50068",
+    "field": "passengerVolumeCuFt",
+    "type": "multiple-EPA-volume-fields",
+    "values": [
+      {
+        "field": "hpv",
+        "value": "105"
+      },
+      {
+        "field": "pv2",
+        "value": "104"
+      },
+      {
+        "field": "pv4",
+        "value": "105"
+      }
+    ],
+    "resolution": "left null pending body-style review"
+  },
+  {
+    "id": "epa-50081",
+    "field": "seats",
+    "type": "NHTSA-release-or-applicability-conflict",
+    "observations": [
+      {
+        "row": 618,
+        "release": "1",
+        "value": "5"
+      },
+      {
+        "row": 619,
+        "release": "1",
+        "value": "2"
+      }
+    ],
+    "resolution": "no field imported; no best-rating selection"
+  },
+  {
+    "id": "epa-50081",
+    "field": "nhtsaOverallRating",
+    "type": "NHTSA-release-or-applicability-conflict",
+    "observations": [
+      {
+        "row": 618,
+        "release": "1",
+        "value": "4"
+      },
+      {
+        "row": 619,
+        "release": "1",
+        "value": ""
+      }
+    ],
+    "resolution": "no field imported; no best-rating selection"
+  },
+  {
+    "id": "epa-50081",
+    "field": "nhtsaFrontalRating",
+    "type": "NHTSA-release-or-applicability-conflict",
+    "observations": [
+      {
+        "row": 618,
+        "release": "1",
+        "value": "3"
+      },
+      {
+        "row": 619,
+        "release": "1",
+        "value": ""
+      }
+    ],
+    "resolution": "no field imported; no best-rating selection"
+  },
+  {
+    "id": "epa-50081",
+    "field": "nhtsaSideRating",
+    "type": "NHTSA-release-or-applicability-conflict",
+    "observations": [
+      {
+        "row": 618,
+        "release": "1",
+        "value": "5"
+      },
+      {
+        "row": 619,
+        "release": "1",
+        "value": ""
+      }
+    ],
+    "resolution": "no field imported; no best-rating selection"
+  },
+  {
+    "id": "epa-50283",
+    "field": "cargoVolumeCuFt",
+    "type": "multiple-EPA-volume-fields",
+    "values": [
+      {
+        "field": "hlv",
+        "value": "23"
+      },
+      {
+        "field": "lv2",
+        "value": "23"
+      },
+      {
+        "field": "lv4",
+        "value": "23"
+      }
+    ],
+    "resolution": "left null pending body-style review"
+  },
+  {
+    "id": "epa-50283",
+    "field": "passengerVolumeCuFt",
+    "type": "multiple-EPA-volume-fields",
+    "values": [
+      {
+        "field": "hpv",
+        "value": "105"
+      },
+      {
+        "field": "pv2",
+        "value": "104"
+      },
+      {
+        "field": "pv4",
+        "value": "105"
+      }
+    ],
+    "resolution": "left null pending body-style review"
+  }
+]

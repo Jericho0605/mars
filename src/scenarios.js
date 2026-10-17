@@ -1,0 +1,8 @@
+// All numbers in these profiles are editable demo assumptions about the USER,
+// never vehicle specifications or real insurance/residual quotes.
+const scenarioCosts={ownershipYears:5,purchaseTaxRate:.09,purchaseFeesUsd:[1200,1800],annualInsuranceUsd:[1200,2000],annualMaintenanceUsd:[200,600],annualRepairsUsd:[0,800],annualOtherUsd:0,chargingInstallationUsd:0,residualRateLow:.35,residualRateHigh:.55,gasUsdPerGallon:4.5,publicElectricityUsdPerKwh:.45,electricShare:.6};
+export const scenarios={
+ student:{...scenarioCosts,identity:'student',budgetUsd:30000,minSeats:5,commuteOneWayMiles:8,commuteRoundTripsPerWeek:5,commuteWeeksPerYear:40,otherAnnualMiles:3000,homeCharging:false,homeLevel1:false,homeLevel2:false,dependsOnPublicCharging:true,willingEv:true,weights:{affordability:5,power:1,space:1,efficiency:4,charging:4,environment:1,safety:1,range:1}},
+ commuter:{...scenarioCosts,identity:'commuter',budgetUsd:45000,minSeats:5,commuteOneWayMiles:40,commuteRoundTripsPerWeek:5,commuteWeeksPerYear:48,otherAnnualMiles:4000,homeLevel2:true,homeChargingShare:.9,homeElectricityUsdPerKwh:.16,chargingInstallationUsd:0,targetRangeMiles:250,weights:{affordability:3,power:1,space:1,efficiency:5,charging:3,environment:3,safety:1,range:2}},
+ family:{...scenarioCosts,identity:'family',budgetUsd:45000,minSeats:5,minCargoVolumeL:500,commuteOneWayMiles:15,commuteRoundTripsPerWeek:5,commuteWeeksPerYear:48,otherAnnualMiles:6000,homeLevel2:true,homeChargingShare:.8,homeElectricityUsdPerKwh:.2,targetCargoVolumeL:650,weights:{affordability:4,power:1,space:5,efficiency:3,charging:2,environment:1,safety:5,range:1}}
+};

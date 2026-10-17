@@ -1,0 +1,5 @@
+data/*.tmp
+data/vehicles-v3.csv
+data/v3/cache/
+node_modules/
+.DS_Store

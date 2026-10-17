@@ -1,0 +1,322 @@
+{
+  "student": {
+    "profile": {
+      "ownershipYears": 5,
+      "purchaseTaxRate": 0.09,
+      "purchaseFeesUsd": [
+        1200,
+        1800
+      ],
+      "annualInsuranceUsd": [
+        1200,
+        2000
+      ],
+      "annualMaintenanceUsd": [
+        200,
+        600
+      ],
+      "annualRepairsUsd": [
+        0,
+        800
+      ],
+      "annualOtherUsd": 0,
+      "chargingInstallationUsd": 0,
+      "residualRateLow": 0.35,
+      "residualRateHigh": 0.55,
+      "gasUsdPerGallon": 4.5,
+      "publicElectricityUsdPerKwh": 0.45,
+      "electricShare": 0.6,
+      "identity": "student",
+      "budgetUsd": 30000,
+      "minSeats": 5,
+      "commuteOneWayMiles": 8,
+      "commuteRoundTripsPerWeek": 5,
+      "commuteWeeksPerYear": 40,
+      "otherAnnualMiles": 3000,
+      "homeCharging": false,
+      "homeLevel1": false,
+      "homeLevel2": false,
+      "dependsOnPublicCharging": true,
+      "willingEv": true,
+      "weights": {
+        "affordability": 5,
+        "power": 1,
+        "space": 1,
+        "efficiency": 4,
+        "charging": 4,
+        "environment": 1,
+        "safety": 1,
+        "range": 1
+      }
+    },
+    "assumptions": "Editable user demo assumptions; official vehicle facts stay in vehicle database",
+    "annualMiles": 6200,
+    "excluded": {
+      "unknownRequired": 3632,
+      "failedConstraint": 10,
+      "nonNegotiable": 0
+    },
+    "top3": [
+      {
+        "id": "epa-46973",
+        "year": 2024,
+        "brand": "Nissan",
+        "model": "LEAF",
+        "trim": "S",
+        "msrpUsd": 28140,
+        "seats": 5,
+        "score": 47.30849592405581,
+        "coverage": 0.9803921568627451,
+        "annualEnergyUsd": 848.89656,
+        "tcoRangeUsd": [
+          27640.082799999996,
+          43868.0828
+        ],
+        "confidence": "user-scenario-only"
+      },
+      {
+        "id": "epa-47243",
+        "year": 2024,
+        "brand": "Toyota",
+        "model": "Prius",
+        "trim": "LE",
+        "msrpUsd": 27950,
+        "seats": 5,
+        "score": 44.17252462161328,
+        "coverage": 0.9583333333333334,
+        "annualEnergyUsd": 489.4736842105263,
+        "tcoRangeUsd": [
+          25740.368421052633,
+          41930.36842105263
+        ],
+        "confidence": "user-scenario-only"
+      },
+      {
+        "id": "epa-48374",
+        "year": 2025,
+        "brand": "Lucid",
+        "model": "Air Pure RWD with 19 inch wheels",
+        "trim": null,
+        "msrpUsd": null,
+        "seats": null,
+        "score": 55.165858399403575,
+        "coverage": 0.588235294117647,
+        "annualEnergyUsd": 645.6339,
+        "tcoRangeUsd": null,
+        "confidence": "incomplete"
+      }
+    ]
+  },
+  "commuter": {
+    "profile": {
+      "ownershipYears": 5,
+      "purchaseTaxRate": 0.09,
+      "purchaseFeesUsd": [
+        1200,
+        1800
+      ],
+      "annualInsuranceUsd": [
+        1200,
+        2000
+      ],
+      "annualMaintenanceUsd": [
+        200,
+        600
+      ],
+      "annualRepairsUsd": [
+        0,
+        800
+      ],
+      "annualOtherUsd": 0,
+      "chargingInstallationUsd": 0,
+      "residualRateLow": 0.35,
+      "residualRateHigh": 0.55,
+      "gasUsdPerGallon": 4.5,
+      "publicElectricityUsdPerKwh": 0.45,
+      "electricShare": 0.6,
+      "identity": "commuter",
+      "budgetUsd": 45000,
+      "minSeats": 5,
+      "commuteOneWayMiles": 40,
+      "commuteRoundTripsPerWeek": 5,
+      "commuteWeeksPerYear": 48,
+      "otherAnnualMiles": 4000,
+      "homeLevel2": true,
+      "homeChargingShare": 0.9,
+      "homeElectricityUsdPerKwh": 0.16,
+      "targetRangeMiles": 250,
+      "weights": {
+        "affordability": 3,
+        "power": 1,
+        "space": 1,
+        "efficiency": 5,
+        "charging": 3,
+        "environment": 3,
+        "safety": 1,
+        "range": 2
+      }
+    },
+    "assumptions": "Editable user demo assumptions; official vehicle facts stay in vehicle database",
+    "annualMiles": 23200,
+    "excluded": {
+      "unknownRequired": 3632,
+      "failedConstraint": 0,
+      "nonNegotiable": 0
+    },
+    "top3": [
+      {
+        "id": "epa-46973",
+        "year": 2024,
+        "brand": "Nissan",
+        "model": "LEAF",
+        "trim": "S",
+        "msrpUsd": 28140,
+        "seats": 5,
+        "score": 61.703664967933,
+        "coverage": 0.9814814814814815,
+        "annualEnergyUsd": 1334.1367872,
+        "tcoRangeUsd": [
+          30066.283936,
+          46294.283936
+        ],
+        "confidence": "user-scenario-only"
+      },
+      {
+        "id": "epa-48374",
+        "year": 2025,
+        "brand": "Lucid",
+        "model": "Air Pure RWD with 19 inch wheels",
+        "trim": null,
+        "msrpUsd": null,
+        "seats": null,
+        "score": 71.09574271337608,
+        "coverage": 0.7222222222222222,
+        "annualEnergyUsd": 1014.686568,
+        "tcoRangeUsd": null,
+        "confidence": "incomplete"
+      },
+      {
+        "id": "epa-46957",
+        "year": 2024,
+        "brand": "Hyundai",
+        "model": "Ioniq 6 Long range RWD (18 inch Wheels)",
+        "trim": null,
+        "msrpUsd": null,
+        "seats": null,
+        "score": 69.94239116735292,
+        "coverage": 0.7222222222222222,
+        "annualEnergyUsd": 1052.352,
+        "tcoRangeUsd": null,
+        "confidence": "incomplete"
+      }
+    ]
+  },
+  "family": {
+    "profile": {
+      "ownershipYears": 5,
+      "purchaseTaxRate": 0.09,
+      "purchaseFeesUsd": [
+        1200,
+        1800
+      ],
+      "annualInsuranceUsd": [
+        1200,
+        2000
+      ],
+      "annualMaintenanceUsd": [
+        200,
+        600
+      ],
+      "annualRepairsUsd": [
+        0,
+        800
+      ],
+      "annualOtherUsd": 0,
+      "chargingInstallationUsd": 0,
+      "residualRateLow": 0.35,
+      "residualRateHigh": 0.55,
+      "gasUsdPerGallon": 4.5,
+      "publicElectricityUsdPerKwh": 0.45,
+      "electricShare": 0.6,
+      "identity": "family",
+      "budgetUsd": 45000,
+      "minSeats": 5,
+      "minCargoVolumeL": 500,
+      "commuteOneWayMiles": 15,
+      "commuteRoundTripsPerWeek": 5,
+      "commuteWeeksPerYear": 48,
+      "otherAnnualMiles": 6000,
+      "homeLevel2": true,
+      "homeChargingShare": 0.8,
+      "homeElectricityUsdPerKwh": 0.2,
+      "targetCargoVolumeL": 650,
+      "weights": {
+        "affordability": 4,
+        "power": 1,
+        "space": 5,
+        "efficiency": 3,
+        "charging": 2,
+        "environment": 1,
+        "safety": 5,
+        "range": 1
+      }
+    },
+    "assumptions": "Editable user demo assumptions; official vehicle facts stay in vehicle database",
+    "annualMiles": 13200,
+    "excluded": {
+      "unknownRequired": 3642,
+      "failedConstraint": 0,
+      "nonNegotiable": 0
+    },
+    "top3": [
+      {
+        "id": "epa-46973",
+        "year": 2024,
+        "brand": "Nissan",
+        "model": "LEAF",
+        "trim": "S",
+        "msrpUsd": 28140,
+        "seats": 5,
+        "score": 55.96165508569237,
+        "coverage": 0.9803921568627452,
+        "annualEnergyUsd": 1004.0712000000001,
+        "tcoRangeUsd": [
+          28415.956,
+          44643.956
+        ],
+        "confidence": "user-scenario-only"
+      },
+      {
+        "id": "epa-47501",
+        "year": 2024,
+        "brand": "Toyota",
+        "model": "Prius Prime SE",
+        "trim": "SE",
+        "msrpUsd": 32675,
+        "seats": 5,
+        "score": 48.79551610734996,
+        "coverage": 0.9803921568627452,
+        "annualEnergyUsd": 971.723076923077,
+        "tcoRangeUsd": [
+          30703.115384615383,
+          47838.11538461538
+        ],
+        "confidence": "user-scenario-only"
+      },
+      {
+        "id": "epa-48374",
+        "year": 2025,
+        "brand": "Lucid",
+        "model": "Air Pure RWD with 19 inch wheels",
+        "trim": null,
+        "msrpUsd": null,
+        "seats": null,
+        "score": 66.66819082699762,
+        "coverage": 0.411764705882353,
+        "annualEnergyUsd": 763.6529999999999,
+        "tcoRangeUsd": null,
+        "confidence": "incomplete"
+      }
+    ]
+  }
+}

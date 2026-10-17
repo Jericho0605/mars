@@ -1,0 +1,648 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "DriveWise V3 configuration",
+  "type": "object",
+  "required": [
+    "id",
+    "make",
+    "model",
+    "year",
+    "trim",
+    "powertrain",
+    "sources",
+    "images"
+  ],
+  "properties": {
+    "engineHorsepowerHp": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "Unit: hp",
+      "exclusiveMinimum": 0
+    },
+    "motorHorsepowerHp": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "Unit: hp",
+      "exclusiveMinimum": 0
+    },
+    "systemHorsepowerHp": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "Unit: hp",
+      "exclusiveMinimum": 0
+    },
+    "startingMsrpUsd": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "Unit: USD",
+      "exclusiveMinimum": 0
+    },
+    "msrpUsd": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "Unit: USD",
+      "exclusiveMinimum": 0
+    },
+    "destinationFeeUsd": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "Unit: USD",
+      "exclusiveMinimum": 0
+    },
+    "horsepowerHp": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "Unit: hp",
+      "exclusiveMinimum": 0
+    },
+    "torqueLbFt": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "Unit: lb-ft",
+      "exclusiveMinimum": 0
+    },
+    "zeroToSixtySeconds": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "Unit: s",
+      "exclusiveMinimum": 0
+    },
+    "topSpeedMph": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "Unit: mph",
+      "exclusiveMinimum": 0
+    },
+    "engineDisplacementL": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "Unit: L",
+      "exclusiveMinimum": 0
+    },
+    "cylinderCount": {
+      "type": [
+        "integer",
+        "null"
+      ],
+      "description": "Unit: count",
+      "exclusiveMinimum": 0
+    },
+    "towingCapacityLb": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "Unit: lb",
+      "exclusiveMinimum": 0
+    },
+    "cityMpg": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "Unit: mpg-US",
+      "exclusiveMinimum": 0
+    },
+    "highwayMpg": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "Unit: mpg-US",
+      "exclusiveMinimum": 0
+    },
+    "combinedMpg": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "Unit: mpg-US",
+      "exclusiveMinimum": 0
+    },
+    "combinedMpge": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "Unit: MPGe",
+      "exclusiveMinimum": 0
+    },
+    "electricConsumptionKwhPer100Mi": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "Unit: kWh/100mi",
+      "exclusiveMinimum": 0
+    },
+    "fuelTankCapacityGallons": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "Unit: gal-US",
+      "exclusiveMinimum": 0
+    },
+    "epaAnnualFuelCostUsd": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "Unit: USD/year",
+      "minimum": 0
+    },
+    "evRangeMiles": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "Unit: mi",
+      "exclusiveMinimum": 0
+    },
+    "manufacturerEstimatedRangeMiles": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "Unit: mi",
+      "exclusiveMinimum": 0
+    },
+    "batteryCapacityKwh": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "Unit: kWh",
+      "exclusiveMinimum": 0
+    },
+    "usableBatteryCapacityKwh": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "Unit: kWh",
+      "exclusiveMinimum": 0
+    },
+    "acChargingPowerKw": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "Unit: kW",
+      "exclusiveMinimum": 0
+    },
+    "dcFastChargingPeakKw": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "Unit: kW",
+      "exclusiveMinimum": 0
+    },
+    "chargingTimeHours240V": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "Unit: h",
+      "exclusiveMinimum": 0
+    },
+    "charging10To80Minutes": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "Unit: min",
+      "exclusiveMinimum": 0
+    },
+    "phevElectricOnlyRangeMiles": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "Unit: mi",
+      "exclusiveMinimum": 0
+    },
+    "phevGasolineMpg": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "Unit: mpg-US",
+      "exclusiveMinimum": 0
+    },
+    "lengthIn": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "Unit: in",
+      "exclusiveMinimum": 0
+    },
+    "widthIn": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "Unit: in",
+      "exclusiveMinimum": 0
+    },
+    "heightIn": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "Unit: in",
+      "exclusiveMinimum": 0
+    },
+    "wheelbaseIn": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "Unit: in",
+      "exclusiveMinimum": 0
+    },
+    "groundClearanceIn": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "Unit: in",
+      "exclusiveMinimum": 0
+    },
+    "curbWeightLb": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "Unit: lb",
+      "exclusiveMinimum": 0
+    },
+    "turningRadiusFt": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "Unit: ft",
+      "exclusiveMinimum": 0
+    },
+    "cargoVolumeCuFt": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "Unit: ft3",
+      "exclusiveMinimum": 0
+    },
+    "maxCargoVolumeCuFt": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "Unit: ft3",
+      "exclusiveMinimum": 0
+    },
+    "passengerVolumeCuFt": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "Unit: ft3",
+      "exclusiveMinimum": 0
+    },
+    "seats": {
+      "type": [
+        "integer",
+        "null"
+      ],
+      "description": "Unit: count",
+      "exclusiveMinimum": 0
+    },
+    "doors": {
+      "type": [
+        "integer",
+        "null"
+      ],
+      "description": "Unit: count",
+      "exclusiveMinimum": 0
+    },
+    "nhtsaOverallRating": {
+      "type": [
+        "integer",
+        "null"
+      ],
+      "minimum": 1,
+      "maximum": 5
+    },
+    "nhtsaFrontalRating": {
+      "type": [
+        "integer",
+        "null"
+      ],
+      "minimum": 1,
+      "maximum": 5
+    },
+    "nhtsaSideRating": {
+      "type": [
+        "integer",
+        "null"
+      ],
+      "minimum": 1,
+      "maximum": 5
+    },
+    "nhtsaRolloverRating": {
+      "type": [
+        "integer",
+        "null"
+      ],
+      "minimum": 1,
+      "maximum": 5
+    },
+    "maintenanceEstimateUsd": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "Unit: USD/year",
+      "exclusiveMinimum": 0
+    },
+    "insuranceEstimateUsd": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "Unit: USD/year",
+      "exclusiveMinimum": 0
+    },
+    "depreciationEstimateUsd": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "Unit: USD",
+      "exclusiveMinimum": 0
+    },
+    "resaleValueEstimateUsd": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "Unit: USD",
+      "exclusiveMinimum": 0
+    },
+    "fiveYearOwnershipCostUsd": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "Unit: USD",
+      "exclusiveMinimum": 0
+    },
+    "epaCo2GramsPerMile": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "Unit: g/mi",
+      "minimum": 0
+    },
+    "annualEstimatedCo2Kg": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "Unit: kg/year",
+      "minimum": 0
+    },
+    "epaFuelEconomyScore": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "Unit: score-10",
+      "exclusiveMinimum": 0
+    },
+    "engineType": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "forcedInduction": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "chargingConnector": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "chargingTimeDescription": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "iihsRating": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "standardSafetyFeatures": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "optionalSafetyFeatures": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "warranty": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "batteryWarranty": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "fuelEconomyClassification": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "images": {
+      "type": "array"
+    },
+    "officialLinks": {
+      "type": "object"
+    },
+    "sources": {
+      "type": "object"
+    },
+    "conflicts": {
+      "type": "array"
+    },
+    "estimationAssumptions": {
+      "type": "object"
+    },
+    "imageMatchLevel": {
+      "type": "string"
+    },
+    "safetyRatingStatus": {
+      "type": "string"
+    },
+    "currentAvailabilityStatus": {
+      "type": "string"
+    },
+    "californiaAvailabilityStatus": {
+      "type": "string"
+    },
+    "market": {
+      "type": "string"
+    },
+    "priceCurrency": {
+      "type": "string"
+    },
+    "priceStatus": {
+      "type": "string"
+    },
+    "priceType": {
+      "enum": [
+        null,
+        "Manufacturer MSRP",
+        "Estimated Price",
+        "Dealer Advertised Price"
+      ]
+    },
+    "msrpEffectiveDate": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "pricePublicationDate": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "dataCoverage": {
+      "type": "object"
+    },
+    "id": {
+      "type": "string",
+      "pattern": "^epa-[0-9]+$"
+    },
+    "epaVehicleId": {
+      "type": "string"
+    },
+    "make": {
+      "type": "string"
+    },
+    "model": {
+      "type": "string"
+    },
+    "epaModel": {
+      "type": "string"
+    },
+    "year": {
+      "type": "integer",
+      "enum": [
+        2024,
+        2025,
+        2026
+      ]
+    },
+    "trim": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "minLength": 1
+    },
+    "trimStatus": {
+      "enum": [
+        "manufacturer-verified",
+        "Unverified"
+      ]
+    },
+    "identityStatus": {
+      "type": "string"
+    },
+    "modelGroupingBasis": {
+      "type": "string"
+    },
+    "epaBaseModel": {
+      "type": "string"
+    },
+    "bodyStyle": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "epaVehicleClass": {
+      "type": "string"
+    },
+    "powertrain": {
+      "enum": [
+        "Gas",
+        "Diesel",
+        "HEV",
+        "PHEV",
+        "EV"
+      ]
+    },
+    "drivetrain": {
+      "type": "string"
+    },
+    "transmission": {
+      "type": "string"
+    },
+    "fuelType": {
+      "type": "string"
+    },
+    "lastUpdated": {
+      "type": "string"
+    },
+    "recommendationReady": {
+      "type": "boolean"
+    }
+  },
+  "additionalProperties": true
+}

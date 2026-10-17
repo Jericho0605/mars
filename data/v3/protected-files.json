@@ -1,0 +1,13 @@
+{
+  "data/vehicles.json": "9b296f7da513a14cb56f77ba7216633fc70392be6c44b9e988c642689ac10bdb",
+  "data/epa.csv": "b1ff0e3071c46cdc1c99e0015878b98a01851462d7e447237ce2fc1294ccf303",
+  "src/recommend.js": "ad2eed373fe120def274b103896cf540ada8a54946de2704ba8b9275424ab275",
+  "src/recommend-v2.js": "0774be7d4b21b1cefb062f620440cead547b53e86f734c1dc3d858f192defdc0",
+  "src/server.js": "552e4badb35543868cc6da0cfd5fd7ef74167387675a55e2daf0d79d006b8a9f",
+  "web/app.js": "fbe46f4591bcca1bcc5d115df660b754ba7771994dd3a87a51d86f3e83aba60e",
+  "web/index.html": "592b9cde6f9106cfc724a08654a9180e3a7e3decb80057f5c21b8122fbfae55f",
+  "web/media.css": "1694f9499aa8f431ad4aa79c5e7cf439c8762ff8bc6fd0e9709c1de3415c85df",
+  "web/selection.css": "8386ba4f3085cf96af2c86e3857b512cfc7813a71ee65f74dac5455044642fd5",
+  "web/style.css": "485a081d08ef6c45ea247e4f6cf6610911ff4bc54ca05777ed6f9c15ce1152e0",
+  "web/vehicles.json": "9b296f7da513a14cb56f77ba7216633fc70392be6c44b9e988c642689ac10bdb"
+}

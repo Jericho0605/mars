@@ -1,0 +1,15 @@
+{
+  "inputFingerprint": "78d310d5ec92b555db7ae7d263303e5f1706c8bb6c47b359ce1425d2590e62f5",
+  "builtAt": "2026-10-16T20:09:48.706Z",
+  "outputs": {
+    "data/source-records-v3.json": "83e2f74476b754b4019e29cc194e86642777d94b3393954de76fa4ef03966e12",
+    "data/vehicles-v3.json": "a3d513c50d9fce7d6c583d3ae9e2f0fedd38daf5541b83994a578287bc8159d5",
+    "data/vehicles-v3.csv": "92f634e44b0c3ab7721f87abc9909b1e69c3940488e82666480c344ce2994bc4",
+    "data/model-year-index.json": "2ff9d16bd7f2e5a1ae48e72bfe75e6b3ae4fd9898c6f1ae5de5406e7e8e8d6f5",
+    "data/coverage-report.json": "53c224a5d692dece399c187be405ebed36ba1e824999f0d03d30521092249d1e",
+    "data/coverage-report.md": "ee9b9a9aba8a1fe83e5d541ba90ba82842cadf7d2874fcc12ec48f1df8113886",
+    "data/v3/conflicts.json": "bcf7f3be5b5f9680a06e8b419b87a38e6e09910e3404465484a44c0cbcc422fe",
+    "data/v3/enrichment-queue.json": "7c4af06409c3f1c49e4c4af0e639adfd2ee845fbd2e5ee3fbd7d4ccda83c001a",
+    "data/vehicle-schema-v3.json": "3ef8c060471b8df087823619cb2798ba2cb686c7aa0782548aeb72cc2a1d9531"
+  }
+}

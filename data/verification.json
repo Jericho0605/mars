@@ -1,0 +1,36 @@
+{
+  "verifiedAt": "2026-10-16T18:58:51.001Z",
+  "testsPassed": 49,
+  "build": "passed",
+  "httpStatus": 200,
+  "vehicleCount": 3654,
+  "top3": [
+    {
+      "id": "epa-46973",
+      "brand": "Nissan",
+      "model": "LEAF",
+      "status": "verified"
+    },
+    {
+      "id": "epa-47243",
+      "brand": "Toyota",
+      "model": "Prius",
+      "status": "verified"
+    },
+    {
+      "id": "epa-48374",
+      "brand": "Lucid",
+      "model": "Air Pure RWD with 19 inch wheels",
+      "status": "unverified"
+    }
+  ],
+  "diversity": {
+    "brands": 3,
+    "models": 3,
+    "availableModels": 1001,
+    "availableBrands": 49,
+    "shortfall": null
+  },
+  "browser": "Loaded recommendations and expanded TCO component table; screenshot data/tco-breakdown-preview.png",
+  "newVehicleConfigurationsThisPass": 0
+}

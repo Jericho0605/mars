@@ -1,0 +1,110 @@
+{
+  "generatedAt": "2026-10-17T01:10:14.882Z",
+  "count": 3654,
+  "distinctModels": 3125,
+  "powertrains": {
+    "Gas": 1960,
+    "HEV": 659,
+    "PHEV": 122,
+    "EV": 913
+  },
+  "missing": {
+    "engineHorsepowerHp": 3646,
+    "motorHorsepowerHp": 3650,
+    "systemHorsepowerHp": 3634,
+    "horsepowerHp": 25,
+    "powerKw": 3654,
+    "torqueNm": 3638,
+    "engineDisplacementL": 913,
+    "zeroTo60Sec": 59,
+    "topSpeedMph": 3654,
+    "combinedMpg": 913,
+    "cityMpg": 913,
+    "highwayMpg": 913,
+    "combinedMpge": 2619,
+    "electricConsumptionKwhPer100Mi": 2619,
+    "epaRangeMiles": 2619,
+    "fuelTankGallons": 3648,
+    "batteryCapacityKwh": 3646,
+    "usableBatteryCapacityKwh": 3654,
+    "dcFastChargeKw": 3654,
+    "charge10To80Min": 3654,
+    "acChargeKw": 3654,
+    "lengthMm": 31,
+    "widthMm": 3624,
+    "heightMm": 3624,
+    "wheelbaseMm": 3624,
+    "curbWeightKg": 3654,
+    "groundClearanceMm": 3643,
+    "seats": 21,
+    "cargoVolumeL": 31,
+    "maxCargoVolumeL": 3654,
+    "towingCapacityKg": 3654,
+    "payloadKg": 3654,
+    "msrpUsd": 21,
+    "nhtsaOverallStars": 3654,
+    "iihsRating": 3654,
+    "vehicleWarranty": 3654,
+    "batteryWarranty": 3654,
+    "reliabilityScore": 3654,
+    "driverAssistance": 3654,
+    "tailpipeCo2GPerMi": 0
+  },
+  "sha256": "233c3ee9086539c04e2d1bcdc20ec4b4beea2d4de46c3c8453d3419dd0ba01c2",
+  "manufacturerEnrichedCount": 40,
+  "coverage": {
+    "msrpUsd": {
+      "present": 3633,
+      "total": 3654,
+      "percent": 99.42528735632185,
+      "curatedPercent": 100
+    },
+    "seats": {
+      "present": 3633,
+      "total": 3654,
+      "percent": 99.42528735632185,
+      "curatedPercent": 100
+    },
+    "horsepowerHp": {
+      "present": 3629,
+      "total": 3654,
+      "percent": 99.31581828133552,
+      "curatedPercent": 90
+    },
+    "torqueNm": {
+      "present": 16,
+      "total": 3654,
+      "percent": 0.43787629994526545,
+      "curatedPercent": 40
+    },
+    "cargoVolumeL": {
+      "present": 3623,
+      "total": 3654,
+      "percent": 99.15161466885604,
+      "curatedPercent": 75
+    },
+    "lengthMm": {
+      "present": 3623,
+      "total": 3654,
+      "percent": 99.15161466885604,
+      "curatedPercent": 75
+    },
+    "widthMm": {
+      "present": 30,
+      "total": 3654,
+      "percent": 0.8210180623973727,
+      "curatedPercent": 75
+    },
+    "heightMm": {
+      "present": 30,
+      "total": 3654,
+      "percent": 0.8210180623973727,
+      "curatedPercent": 75
+    }
+  },
+  "sources": {
+    "epa": 3654,
+    "manufacturer": 40,
+    "nhtsa": 0
+  }
+}

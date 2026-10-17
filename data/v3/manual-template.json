@@ -1,0 +1,26 @@
+{
+  "templateOnly": true,
+  "instructions": [
+    "Do not import this object as vehicle data. Submit an array of real entries to the import command.",
+    "Copy exact ID/make/model/year/trim/powertrain/drivetrain/transmission from vehicles-v3.json. Never infer trim from the EPA label.",
+    "For every field include URL, retrievedAt, provider, scope, evidence, rawValue, rawUnit, unit, and conversionFactor if applicable.",
+    "Use Manufacturer MSRP, Estimated Price, or Dealer Advertised Price accurately. Historical publication date is not automatically MSRP effective date.",
+    "Conflicting existing values are retained and audited. Images need matching make/model/year, explicit license and attribution, and a validated cached file checksum.",
+    "Insurance, maintenance, resale, ownership and annual emission estimates require method and description in estimationAssumptions."
+  ],
+  "entries": [],
+  "entryShape": {
+    "id": "<copy real EPA ID>",
+    "match": {
+      "make": "<exact>",
+      "model": "<exact>",
+      "year": "<number>",
+      "trim": "<exact or null>",
+      "powertrain": "<exact>",
+      "drivetrain": "<exact>",
+      "transmission": "<exact>"
+    },
+    "fields": {},
+    "sources": {}
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "checkedAt": "2026-10-16T20:03:58.305Z",
+  "epa": {
+    "url": "https://www.fueleconomy.gov/feg/ws/index.shtml",
+    "status": "Existing cached CSV reused, no repeat download",
+    "limitations": "Official test-configuration identity, economy, range, certification interior volume and reference fuel cost. Not a complete retail-trim MSRP catalog."
+  },
+  "nhtsa": {
+    "url": "https://www.nhtsa.gov/nhtsa-datasets-and-apis",
+    "bulkUrl": "https://static.nhtsa.gov/nhtsa/downloads/Safercar/Safercar_data.csv",
+    "status": "Official bulk NCAP CSV imported with strict applicability and consensus",
+    "limitations": "Variable seating, release-specific bodies, missing ratings and differing release results are not propagated."
+  },
+  "afdc": {
+    "url": "https://afdc.energy.gov/vehicles/search",
+    "status": "Current page focuses on medium/heavy duty and points light-duty research to FuelEconomy.gov; former light-duty download unavailable",
+    "limitations": "Old indexed light-duty price/charging data was not imported as current data."
+  },
+  "carApi": {
+    "pricingUrl": "https://carapi.app/pricing/",
+    "termsUrl": "https://carapi.app/terms-of-use/",
+    "base": {
+      "usdPerYear": 199,
+      "callsPerDay": 1500,
+      "trimsAndSpecsIncluded": false
+    },
+    "plus": {
+      "usdPerYear": 249,
+      "callsPerDay": 3000,
+      "trimsAndSpecsIncluded": false
+    },
+    "premium": {
+      "usdPerYear": 299,
+      "callsPerDay": 6000,
+      "trimsAndSpecsYears": "1990–2027"
+    },
+    "requirements": "Account/API credentials and paid subscription for current trim/spec API. No subscription or authenticated API call made.",
+    "licenseNote": "Terms allow display in own applications but restrict bulk/standalone dataset redistribution and competing data services. Written permission/license review would be needed for a distributable database export; no supplier data imported."
+  },
+  "images": {
+    "status": "Only existing explicitly licensed Commons model/year references retained. Manufacturer media without explicit reuse rights excluded.",
+    "target300": "Not achieved; no generic illustrations counted as photos."
+  }
+}
