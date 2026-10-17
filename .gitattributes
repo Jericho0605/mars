@@ -1,1 +1,8 @@
+* text=auto eol=lf
+*.csv text eol=lf
 data/epa.csv -text
+*.jpg binary
+*.png binary
+*.xlsx binary
+*.zip binary
+*.exe binary
